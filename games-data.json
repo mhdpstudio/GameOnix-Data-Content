@@ -4079,7 +4079,8 @@
             "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/fallout-3.torrent",
             "platform": "pc",
             "mediaPrefix": "fallout-3",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "addedAt": "2026-10-17T00:30:00Z"
         }
     ]
 }
