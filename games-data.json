@@ -1553,22 +1553,6 @@
             "mediaCount": 7
         },
         {
-            "slug": "fifa-20",
-            "title": "FIFA 20",
-            "publisher": "EA Sports",
-            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/fifa20.webp",
-            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/fifa20.webp",
-            "gameType": "Sports",
-            "gameTypeIcon": "fa-basketball",
-            "version": "1.0.66.8249",
-            "size": "50.7 GB",
-            "ico": "windows",
-            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/fifa-20.torrent",
-            "platform": "pc",
-            "mediaPrefix": "fifa20",
-            "mediaCount": 7
-        },
-        {
             "slug": "fifa-21",
             "title": "FIFA 21",
             "publisher": "EA Sports",
