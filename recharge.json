@@ -1,0 +1,501 @@
+[
+    {
+        "type": "Games Recharge",
+        "id": "freefire",
+        "name": "Free Fire",
+        "image": "../../assets/images/recharge/icons/free-fire.webp",
+        "packs": [
+            {
+                "title": "50",
+                "price": "35.00",
+                "img": "../../assets/images/recharge/images/free_fire/50.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "popular": false
+            },
+            {
+                "title": "100",
+                "price": "56.50",
+                "img": "../../assets/images/recharge/images/free_fire/100.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "popular": false
+            },
+            {
+                "title": "210",
+                "price": "108.50",
+                "oldPrice": "110.00",
+                "img": "../../assets/images/recharge/images/free_fire/210.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "popular": true
+            },
+            {
+                "title": "310",
+                "price": "164.50",
+                "img": "../../assets/images/recharge/images/free_fire/310.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "popular": false
+            },
+            {
+                "title": "520",
+                "price": "258.50",
+                "oldPrice": "262.50",
+                "img": "../../assets/images/recharge/images/free_fire/520.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "popular": true
+            },
+            {
+                "title": "1060",
+                "price": "525.00",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "img": "../../assets/images/recharge/images/free_fire/1060.webp",
+                "popular": false
+            },
+            {
+                "title": "2200",
+                "price": "1050.00",
+                "oldPrice": "1100.00",
+                "img": "../../assets/images/recharge/images/free_fire/2200.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds",
+                "popular": true
+            }
+        ]
+    },
+    {
+        "type": "Games Recharge",
+        "id": "pubg",
+        "name": "PUBG",
+        "image": "../../assets/images/recharge/icons/pubg.webp",
+        "packs": [
+            {
+                "title": "60",
+                "price": "50.50",
+                "img": "../../assets/images/recharge/images/pubg/60.webp",
+                "discoverSection": "Games",
+                "type": "US",
+                "popular": false
+            },
+            {
+                "title": "300 + 25",
+                "price": "232.84",
+                "oldPrice": "250.84",
+                "img": "../../assets/images/recharge/images/pubg/300.webp",
+                "discoverSection": "Games",
+                "type": "US",
+                "popular": true
+            },
+            {
+                "title": "600 + 60",
+                "price": "438.50",
+                "img": "../../assets/images/recharge/images/pubg/600.webp",
+                "discoverSection": "Games",
+                "type": "US",
+                "popular": false
+            },
+            {
+                "title": "1500 + 300",
+                "price": "1111.50",
+                "oldPrice": "1150.00",
+                "img": "../../assets/images/recharge/images/pubg/1500.webp",
+                "discoverSection": "Games",
+                "type": "US",
+                "popular": true
+            },
+            {
+                "title": "3000 + 850",
+                "price": "2180.50",
+                "oldPrice": "2250.20",
+                "img": "../../assets/images/recharge/images/pubg/3000.webp",
+                "discoverSection": "Games",
+                "type": "US",
+                "popular": true
+            },
+            {
+                "title": "6000 + 2100",
+                "price": "4287.23",
+                "img": "../../assets/images/recharge/images/pubg/6000.webp",
+                "discoverSection": "Games",
+                "type": "US",
+                "popular": true
+            }
+        ]
+    },
+    {
+        "type": "Games Recharge",
+        "id": "valorant",
+        "name": "VALORANT",
+        "image": "../../assets/images/recharge/icons/valorant.webp",
+        "packs": [
+            {
+                "title": "475",
+                "price": "255.52",
+                "img": "../../assets/images/recharge/images/valorant/475.webp",
+                "discoverSection": "Games",
+                "type": "VP",
+                "popular": false
+            },
+            {
+                "title": "1000",
+                "price": "512.35",
+                "oldPrice": "515.82",
+                "img": "../../assets/images/recharge/images/valorant/1000.webp",
+                "discoverSection": "Games",
+                "type": "VP",
+                "popular": true
+            },
+            {
+                "title": "2050",
+                "price": "985.53",
+                "oldPrice": "990.63",
+                "img": "../../assets/images/recharge/images/valorant/2050.webp",
+                "discoverSection": "Games",
+                "type": "VP",
+                "popular": true
+            },
+            {
+                "title": "3650",
+                "price": "1753.23",
+                "img": "../../assets/images/recharge/images/valorant/3650.webp",
+                "discoverSection": "Games",
+                "type": "VP",
+                "popular": true
+            },
+            {
+                "title": "5350",
+                "price": "2457.63",
+                "oldPrice": "2515.60",
+                "img": "../../assets/images/recharge/images/valorant/5350.webp",
+                "discoverSection": "Games",
+                "type": "VP",
+                "popular": true
+            },
+            {
+                "title": "11000",
+                "price": "4918.50",
+                "img": "../../assets/images/recharge/images/valorant/11000.webp",
+                "discoverSection": "Games",
+                "type": "VP",
+                "popular": false
+            }
+        ]
+    },
+    {
+        "type": "Games Recharge",
+        "id": "call-of-duty-mobile",
+        "name": "Call of Duty Mobile",
+        "image": "../../assets/images/recharge/icons/call-of-duty-mobile.webp",
+        "packs": [
+            {
+                "title": "88",
+                "price": "59.64",
+                "oldPrice": "62.32",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/88.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": true
+            },
+            {
+                "title": "160",
+                "price": "62.32",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/160.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": false
+            },
+            {
+                "title": "460",
+                "price": "221.26",
+                "oldPrice": "228.52",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/460.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": true
+            },
+            {
+                "title": "960",
+                "price": "432.23",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/960.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": false
+            },
+            {
+                "title": "2600",
+                "price": "1087.48",
+                "oldPrice": "1100.76",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/2600.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": true
+            },
+            {
+                "title": "5400",
+                "price": "2103.34",
+                "oldPrice": "2150.34",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/5400.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": true
+            },
+            {
+                "title": "11600",
+                "price": "5142.47",
+                "oldPrice": "5212.47",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/11600.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": true
+            },
+            {
+                "title": "23200",
+                "price": "9884.46",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/23200.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": false
+            },
+            {
+                "title": "34800",
+                "price": "15236.42",
+                "oldPrice": "15500.84",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/34800.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": true
+            },
+            {
+                "title": "58000",
+                "price": "23732.38",
+                "img": "../../assets/images/recharge/images/call-of-duty-mobile/58000.webp",
+                "discoverSection": "Games",
+                "type": "CP",
+                "popular": false
+            }
+        ]
+    },
+    {
+        "type": "Games Recharge",
+        "id": "delta-force",
+        "name": "Delta Force",
+        "image": "../../assets/images/recharge/icons/delta-force.webp",
+        "packs": [
+            {
+                "title": "18",
+                "price": "20.66",
+                "oldPrice": "25.78",
+                "img": "../../assets/images/recharge/images/delta-force/18.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "30",
+                "price": "34.66",
+                "img": "../../assets/images/recharge/images/delta-force/30.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": false
+            },
+            {
+                "title": "60",
+                "price": "62.42",
+                "oldPrice": "70.00",
+                "img": "../../assets/images/recharge/images/delta-force/60.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "300",
+                "price": "264.23",
+                "img": "../../assets/images/recharge/images/delta-force/300.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "420",
+                "price": "376.32",
+                "oldPrice": "403.30",
+                "img": "../../assets/images/recharge/images/delta-force/420.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "680",
+                "price": "532.12",
+                "img": "../../assets/images/recharge/images/delta-force/680.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": false
+            },
+            {
+                "title": "1280",
+                "price": "982.74",
+                "oldPrice": "1003.74",
+                "img": "../../assets/images/recharge/images/delta-force/1280.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": false
+            },
+            {
+                "title": "1680",
+                "price": "1223.50",
+                "img": "../../assets/images/recharge/images/delta-force/1680.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "3280",
+                "price": "2398.50",
+                "oldPrice": "2456.33",
+                "img": "../../assets/images/recharge/images/delta-force/3280.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "6480",
+                "price": "4747.32",
+                "img": "../../assets/images/recharge/images/delta-force/6480.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "12960",
+                "price": "9526.24",
+                "oldPrice": "9653.24",
+                "img": "../../assets/images/recharge/images/delta-force/12960.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": true
+            },
+            {
+                "title": "19440",
+                "price": "14336.50",
+                "oldPrice": "15365.31",
+                "img": "../../assets/images/recharge/images/delta-force/19440.webp",
+                "discoverSection": "Games",
+                "type": "M-Credits",
+                "popular": false
+            }
+        ]
+    },
+    {
+        "type": "Gift Cards",
+        "id": "steam-gift-cards",
+        "name": "Steam Gift Cards",
+        "image": "../../assets/images/recharge/icons/steam.webp",
+        "packs": [
+            {
+                "title": "5",
+                "price": "318.50",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/5dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false
+            },
+            {
+                "title": "10",
+                "price": "628.33",
+                "oldPrice": "655.00",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/10dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true
+            },
+            {
+                "title": "20",
+                "price": "1220.50",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/20dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true
+            },
+            {
+                "title": "25",
+                "price": "1550.30",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/25dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false
+            },
+            {
+                "title": "30",
+                "price": "1822.47",
+                "oldPrice": "1830.58",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/30dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true
+            },
+            {
+                "title": "50",
+                "price": "3040.76",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/50dol.webp",
+                "popular": false
+            },
+            {
+                "title": "100",
+                "price": "6220.32",
+                "img": "../../assets/images/recharge/images/steam_gift_cards/100dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true
+            }
+        ]
+    },
+    {
+        "type": "Gift Cards",
+        "id": "roblox-gift-cards",
+        "name": "Roblox Gift Cards",
+        "image": "../../assets/images/recharge/icons/roblox.webp",
+        "packs": [
+            {
+                "title": "10",
+                "price": "535.80",
+                "oldPrice": "540.80",
+                "img": "../../assets/images/recharge/images/roblox_gift_cards/10dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false
+            },
+            {
+                "title": "20",
+                "price": "1068.60",
+                "oldPrice": "1080.74",
+                "img": "../../assets/images/recharge/images/roblox_gift_cards/20dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true
+            },
+            {
+                "title": "25",
+                "price": "1339.50",
+                "oldPrice": "1350.00",
+                "img": "../../assets/images/recharge/images/roblox_gift_cards/25dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true
+            },
+            {
+                "title": "50",
+                "price": "2660.30",
+                "img": "../../assets/images/recharge/images/roblox_gift_cards/50dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false
+            }
+        ]
+    }
+]
