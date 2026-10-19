@@ -454,48 +454,5 @@
                 "popular": true
             }
         ]
-    },
-    {
-        "type": "Gift Cards",
-        "id": "roblox-gift-cards",
-        "name": "Roblox Gift Cards",
-        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/roblox.webp",
-        "packs": [
-            {
-                "title": "10",
-                "price": "535.80",
-                "oldPrice": "540.80",
-                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/roblox_gift_cards/10dol.webp",
-                "discoverSection": "Cards",
-                "type": "$ (USA)",
-                "popular": false
-            },
-            {
-                "title": "20",
-                "price": "1068.60",
-                "oldPrice": "1080.74",
-                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/roblox_gift_cards/20dol.webp",
-                "discoverSection": "Cards",
-                "type": "$ (USA)",
-                "popular": true
-            },
-            {
-                "title": "25",
-                "price": "1339.50",
-                "oldPrice": "1350.00",
-                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/roblox_gift_cards/25dol.webp",
-                "discoverSection": "Cards",
-                "type": "$ (USA)",
-                "popular": true
-            },
-            {
-                "title": "50",
-                "price": "2660.30",
-                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/roblox_gift_cards/50dol.webp",
-                "discoverSection": "Cards",
-                "type": "$ (USA)",
-                "popular": false
-            }
-        ]
     }
 ]
