@@ -2881,6 +2881,23 @@
             "mediaCount": 10
         },
         {
+            "slug": "cod-mw-4",
+            "title": "Call of Duty: Modern Warfare 4",
+            "publisher": "Activision",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/cod-mw-4.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/cod-mw-4.webp",
+            "gameType": "Action",
+            "gameTypeIcon": "fa-gun",
+            "version": "10.4.0.0",
+            "size": "41.5 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/cod-mw-4.torrent",
+            "platform": "pc",
+            "mediaPrefix": "cod-mw-4",
+            "mediaCount": 10,
+            "createdAt": "2026-10-20T14:13:00Z"
+        },
+        {
             "slug": "little-nightmare-2",
             "title": "Little Nightmares 2",
             "publisher": "Bandai Namco",
