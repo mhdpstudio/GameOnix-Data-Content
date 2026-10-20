@@ -1,6 +1,6 @@
 [
     {
-        "type": "Games Recharge",
+        "type": "Top-Up",
         "id": "freefire",
         "name": "Free Fire",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire.webp",
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "type": "Games Recharge",
+        "type": "Top-Up",
         "id": "pubg",
         "name": "PUBG",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/pubg.webp",
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "type": "Games Recharge",
+        "type": "Gift Card",
         "id": "valorant",
         "name": "VALORANT",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/valorant.webp",
@@ -185,7 +185,7 @@
         ]
     },
     {
-        "type": "Games Recharge",
+        "type": "Top-Up",
         "id": "call-of-duty-mobile",
         "name": "Call of Duty Mobile",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/call-of-duty-mobile.webp",
@@ -279,7 +279,7 @@
         ]
     },
     {
-        "type": "Games Recharge",
+        "type": "Top-Up",
         "id": "delta-force",
         "name": "Delta Force",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/delta-force.webp",
