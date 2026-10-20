@@ -1,0 +1,26 @@
+[
+    {
+        "name": "InstaPay",
+        "logo": "https://api.iconify.design/mdi:bank-transfer.svg"
+    },
+    {
+        "name": "Orange Cash",
+        "logo": "https://cdn.simpleicons.org/orange"
+    },
+    {
+        "name": "Vodafone Cash",
+        "logo": "https://cdn.simpleicons.org/vodafone"
+    },
+    {
+        "name": "Fawry",
+        "logo": "https://cdn.simpleicons.org/fawry"
+    },
+    {
+        "name": "Visa",
+        "logo": "https://cdn.simpleicons.org/visa"
+    },
+    {
+        "name": "Mastercard",
+        "logo": "https://cdn.simpleicons.org/mastercard"
+    }
+]
