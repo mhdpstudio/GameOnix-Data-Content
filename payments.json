@@ -1,26 +1,20 @@
 [
     {
         "name": "InstaPay",
-        "logo": "https://api.iconify.design/mdi:bank-transfer.svg"
+        "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/payments/instapay.webp",
+        "av": true,
+        "mobile-number": true
     },
     {
         "name": "Orange Cash",
-        "logo": "https://cdn.simpleicons.org/orange"
-    },
-    {
-        "name": "Vodafone Cash",
-        "logo": "https://cdn.simpleicons.org/vodafone"
+        "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/payments/orange-cash.webp",
+        "av": true,
+        "mobile-number": true
     },
     {
         "name": "Fawry",
-        "logo": "https://cdn.simpleicons.org/fawry"
-    },
-    {
-        "name": "Visa",
-        "logo": "https://cdn.simpleicons.org/visa"
-    },
-    {
-        "name": "Mastercard",
-        "logo": "https://cdn.simpleicons.org/mastercard"
+        "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/payments/fawry.webp",
+        "av": false,
+        "mobile-number": false
     }
 ]
