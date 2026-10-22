@@ -403,7 +403,7 @@
         "packs": [
             {
                 "title": "5",
-                "price": "318.50",
+                "price": "321.10",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/5dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
@@ -411,7 +411,7 @@
             },
             {
                 "title": "10",
-                "price": "628.33",
+                "price": "635.19",
                 "oldPrice": "655.00",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/10dol.webp",
                 "discoverSection": "Cards",
@@ -420,23 +420,16 @@
             },
             {
                 "title": "20",
-                "price": "1220.50",
+                "price": "1237.80",
+                "oldPrice": "1250.00",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/20dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
                 "popular": true
             },
             {
-                "title": "25",
-                "price": "1550.30",
-                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/25dol.webp",
-                "discoverSection": "Cards",
-                "type": "$ (USA)",
-                "popular": false
-            },
-            {
                 "title": "30",
-                "price": "1822.47",
+                "price": "1799.55",
                 "oldPrice": "1830.58",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/30dol.webp",
                 "discoverSection": "Cards",
@@ -445,7 +438,8 @@
             },
             {
                 "title": "50",
-                "price": "3040.76",
+                "price": "2982.59",
+                "oldPrice": "3080.00",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/50dol.webp",
@@ -453,7 +447,8 @@
             },
             {
                 "title": "100",
-                "price": "6220.32",
+                "price": "6140.32",
+                "oldPrice": "6350.00",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/100dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
