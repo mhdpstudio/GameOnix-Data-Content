@@ -84,8 +84,7 @@
             },
             {
                 "title": "300 + 25",
-                "price": "232.84",
-                "oldPrice": "250.84",
+                "price": "250.84",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/300.webp",
                 "discoverSection": "Games",
                 "type": "US",
@@ -93,7 +92,7 @@
             },
             {
                 "title": "600 + 60",
-                "price": "438.50",
+                "price": "485.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/600.webp",
                 "discoverSection": "Games",
                 "type": "US",
@@ -101,8 +100,7 @@
             },
             {
                 "title": "1500 + 300",
-                "price": "1111.50",
-                "oldPrice": "1150.00",
+                "price": "1220.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/1500.webp",
                 "discoverSection": "Games",
                 "type": "US",
@@ -110,8 +108,7 @@
             },
             {
                 "title": "3000 + 850",
-                "price": "2180.50",
-                "oldPrice": "2250.20",
+                "price": "2427.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/3000.webp",
                 "discoverSection": "Games",
                 "type": "US",
@@ -119,7 +116,7 @@
             },
             {
                 "title": "6000 + 2100",
-                "price": "4287.23",
+                "price": "4847.23",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/6000.webp",
                 "discoverSection": "Games",
                 "type": "US",
@@ -132,7 +129,7 @@
         "id": "valorant",
         "name": "VALORANT",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/valorant.webp",
-        "able": true,
+        "able": false,
         "packs": [
             {
                 "title": "475",
