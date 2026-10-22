@@ -4,6 +4,7 @@
         "id": "freefire",
         "name": "Free Fire",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire.webp",
+        "able": true,
         "packs": [
             {
                 "title": "50",
@@ -71,6 +72,7 @@
         "id": "pubg",
         "name": "PUBG",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/pubg.webp",
+        "able": true,
         "packs": [
             {
                 "title": "60",
@@ -130,6 +132,7 @@
         "id": "valorant",
         "name": "VALORANT",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/valorant.webp",
+        "able": true,
         "packs": [
             {
                 "title": "475",
@@ -189,6 +192,7 @@
         "id": "call-of-duty-mobile",
         "name": "Call of Duty Mobile",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/call-of-duty-mobile.webp",
+        "able": false,
         "packs": [
             {
                 "title": "88",
@@ -283,6 +287,7 @@
         "id": "delta-force",
         "name": "Delta Force",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/delta-force.webp",
+        "able": false,
         "packs": [
             {
                 "title": "18",
@@ -394,6 +399,7 @@
         "id": "steam-gift-cards",
         "name": "Steam Gift Cards",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/steam.webp",
+        "able": true,
         "packs": [
             {
                 "title": "5",
