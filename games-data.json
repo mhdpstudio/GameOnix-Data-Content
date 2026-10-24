@@ -16,7 +16,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "gta5",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Multiplayer"
+            ]
         },
         {
             "id": 131,
@@ -34,7 +39,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "gta-3",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 204,
@@ -52,7 +61,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "gta-vice-city",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Multiplayer"
+            ]
         },
         {
             "id": 170,
@@ -70,7 +84,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "gta4",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 163,
@@ -88,7 +106,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "gtasa",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 19,
@@ -106,7 +128,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac1",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 143,
@@ -124,7 +151,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-unity",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 110,
@@ -142,7 +174,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-2",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 43,
@@ -160,7 +197,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-3",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 150,
@@ -178,7 +220,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-4",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 136,
@@ -196,7 +243,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-bh",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 224,
@@ -214,7 +266,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-re",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 158,
@@ -232,7 +289,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-m",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 113,
@@ -250,7 +313,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-or",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 103,
@@ -268,7 +337,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-od",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 66,
@@ -286,7 +361,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-lhd",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 171,
@@ -304,7 +384,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-india",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 222,
@@ -322,7 +407,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-china",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 250,
@@ -340,7 +430,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-russia",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 56,
@@ -358,7 +453,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-rogue",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 228,
@@ -376,7 +476,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-freedom",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 31,
@@ -394,7 +499,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-valhalla",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 140,
@@ -412,7 +523,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ac-syndicate",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 55,
@@ -430,7 +546,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "batman-ar-city",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 124,
@@ -448,7 +569,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cs-go",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 21,
@@ -466,7 +592,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cs-source",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 199,
@@ -484,7 +615,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cyberpunk-2077",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 155,
@@ -502,7 +639,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "devil-may-cry-5",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 121,
@@ -520,7 +661,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "doom-eternal",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 41,
@@ -538,7 +683,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "dying-light-1",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Horror",
+                "Survival"
+            ]
         },
         {
             "id": 95,
@@ -556,7 +706,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "dying-light-2",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Horror",
+                "Co-op",
+                "Survival"
+            ]
         },
         {
             "id": 119,
@@ -574,7 +730,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "elden-ring",
-            "mediaCount": 13
+            "mediaCount": 13,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ]
         },
         {
             "id": 112,
@@ -592,7 +752,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "far-cry-1",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 18,
@@ -610,7 +776,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "far-cry-2",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 134,
@@ -628,7 +800,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "far-cry-3",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 105,
@@ -646,7 +824,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "far-cry-4",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 133,
@@ -664,7 +848,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "far-cry-5",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 78,
@@ -682,7 +872,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "far-cry-primal",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 129,
@@ -700,7 +896,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ghost-of-tsushima",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 62,
@@ -718,7 +919,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "god-of-war-ragnarok",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 237,
@@ -736,7 +942,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "alan-wake-1",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Horror"
+            ]
         },
         {
             "id": 22,
@@ -754,7 +965,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "alan-wake-2",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Horror"
+            ]
         },
         {
             "id": 161,
@@ -772,7 +988,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "left-4-dead-1",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 197,
@@ -790,7 +1012,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "left-4-dead-2",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 216,
@@ -808,7 +1036,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mad-max",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 236,
@@ -826,7 +1058,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mafia-1",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 86,
@@ -844,7 +1080,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mafia-2",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 106,
@@ -862,7 +1102,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "max-payne-1",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure"
+            ]
         },
         {
             "id": 254,
@@ -880,7 +1125,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "max-payne-2",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure"
+            ]
         },
         {
             "id": 102,
@@ -898,7 +1148,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "max-payne-3",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Adventure"
+            ]
         },
         {
             "id": 80,
@@ -916,7 +1171,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "rdr-1",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 215,
@@ -934,7 +1193,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "rdr-2",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 128,
@@ -952,7 +1215,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "sleeping-dogs",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 48,
@@ -970,7 +1237,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-amazing-spider-man-1",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 234,
@@ -988,7 +1259,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-amazing-spider-man-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 186,
@@ -1006,7 +1281,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "spiderman-miles-morales",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 83,
@@ -1024,7 +1303,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "marvels-spiderman-1-re",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 142,
@@ -1042,7 +1325,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "marvels-spiderman-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 9,
@@ -1060,7 +1347,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-last-of-us-1",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Horror",
+                "Survival"
+            ]
         },
         {
             "id": 249,
@@ -1078,7 +1371,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-last-of-us-2",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Horror",
+                "Survival"
+            ]
         },
         {
             "id": 7,
@@ -1096,7 +1395,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-witcher-1",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 34,
@@ -1114,7 +1418,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-witcher-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 180,
@@ -1132,7 +1441,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-witcher-3",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 205,
@@ -1150,7 +1464,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "spiderman-web-of-shadows",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 182,
@@ -1168,7 +1486,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "watch-dogs",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 127,
@@ -1186,7 +1509,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "watch-dogs-2",
-            "mediaCount": 13
+            "mediaCount": 13,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 148,
@@ -1204,7 +1532,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "watch-dogs-legion",
-            "mediaCount": 20
+            "mediaCount": 20,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 253,
@@ -1222,7 +1555,14 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "world-war-z",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Horror",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 98,
@@ -1240,7 +1580,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-most-wanted-2012",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 196,
@@ -1258,7 +1602,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-most-wanted-2005",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 168,
@@ -1276,7 +1624,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "blur",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Racing",
+                "Multiplayer"
+            ]
         },
         {
             "id": 242,
@@ -1294,7 +1646,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "b-p-r",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 200,
@@ -1312,7 +1668,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "f-h-3",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Racing",
+                "Multiplayer",
+                "Simulation"
+            ]
         },
         {
             "id": 174,
@@ -1330,7 +1691,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "f-h-4",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Racing",
+                "Multiplayer",
+                "Simulation"
+            ]
         },
         {
             "id": 116,
@@ -1348,7 +1714,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "f-h-5",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Racing",
+                "Multiplayer",
+                "Simulation"
+            ]
         },
         {
             "id": 24,
@@ -1366,7 +1737,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-carbon",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 5,
@@ -1384,7 +1759,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-h-p-1",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 87,
@@ -1402,7 +1781,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-heat",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 100,
@@ -1420,7 +1803,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-rivals",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 10,
@@ -1438,7 +1825,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-underground",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 181,
@@ -1456,7 +1847,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-underground-2",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 33,
@@ -1474,7 +1869,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-prostreet",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 243,
@@ -1492,7 +1891,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-undercover",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 6,
@@ -1510,7 +1913,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pes2009",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 68,
@@ -1528,7 +1935,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pes2011",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 57,
@@ -1546,7 +1957,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pes2012",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 203,
@@ -1564,7 +1979,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pes2013",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 154,
@@ -1582,7 +2001,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pes2019",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 108,
@@ -1600,7 +2023,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pes2021",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 40,
@@ -1618,7 +2045,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa12",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 14,
@@ -1636,7 +2067,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa14",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 15,
@@ -1654,7 +2089,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa15",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 221,
@@ -1672,7 +2111,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa16",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 225,
@@ -1690,7 +2133,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa17",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 248,
@@ -1708,7 +2155,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa18",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 164,
@@ -1726,7 +2177,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa19",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 235,
@@ -1744,7 +2199,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa20",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 187,
@@ -1762,7 +2221,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa21",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 70,
@@ -1780,7 +2243,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa22",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 37,
@@ -1798,7 +2265,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fifa23",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ]
         },
         {
             "id": 30,
@@ -1816,7 +2287,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod1",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 88,
@@ -1834,7 +2310,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod2",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 173,
@@ -1852,7 +2333,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-waw",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 63,
@@ -1870,7 +2356,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-4",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 238,
@@ -1888,7 +2379,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-mw-1",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 138,
@@ -1906,7 +2402,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-mw-2",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 82,
@@ -1924,7 +2425,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-mw-3",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 36,
@@ -1942,7 +2448,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-bo1",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 166,
@@ -1960,7 +2471,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-bo2",
-            "mediaCount": 15
+            "mediaCount": 15,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 74,
@@ -1978,7 +2494,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-bo3",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 179,
@@ -1996,7 +2517,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-bo-cw",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 89,
@@ -2014,7 +2540,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-ad",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 51,
@@ -2032,7 +2563,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bf-1",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 96,
@@ -2050,7 +2586,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bf-2",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 217,
@@ -2068,7 +2609,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bf-3",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 178,
@@ -2086,7 +2632,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bf-4",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 218,
@@ -2104,7 +2655,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bf-5",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 111,
@@ -2122,7 +2678,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bf-6",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 35,
@@ -2131,7 +2692,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k15.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k15.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.0.0.0",
             "size": "27.2 GB",
@@ -2140,7 +2701,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k15",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 120,
@@ -2149,7 +2715,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k16.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k16.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.3.0.0",
             "size": "40.8 GB",
@@ -2158,7 +2724,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k16",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 101,
@@ -2167,7 +2738,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k17.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k17.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.2.8.0",
             "size": "45.2 GB",
@@ -2176,7 +2747,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k17",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 77,
@@ -2185,7 +2761,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k18.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k18.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.2.8.0",
             "size": "40.3 GB",
@@ -2194,7 +2770,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k18",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 39,
@@ -2203,7 +2784,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k19.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k19.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.4.2.0",
             "size": "43.2 GB",
@@ -2212,7 +2793,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k19",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 147,
@@ -2221,7 +2807,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k20.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k20.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.3.4.0",
             "size": "45.3 GB",
@@ -2230,7 +2816,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k20",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 45,
@@ -2239,7 +2830,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k22.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k22.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.08.0.0",
             "size": "48.6 GB",
@@ -2248,7 +2839,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k22",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 190,
@@ -2257,7 +2853,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k23.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k23.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.02.0.0",
             "size": "68.1 GB",
@@ -2266,7 +2862,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k23",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 91,
@@ -2275,7 +2876,7 @@
             "publisher": "Yuke's",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/wwe-2k24.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/wwe-2k24.webp",
-            "gameType": "Action",
+            "gameType": "Sports",
             "gameTypeIcon": "fa-gun",
             "version": "1.02.0.0",
             "size": "80.4 GB",
@@ -2284,7 +2885,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "wwe-2k24",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer",
+                "Fighting"
+            ]
         },
         {
             "id": 162,
@@ -2302,7 +2908,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "house-of-the-dead",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Horror"
+            ]
         },
         {
             "id": 64,
@@ -2320,7 +2931,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "guilty-gear-lsuka",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 149,
@@ -2329,7 +2944,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/resident-evil-requiem.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/resident-evil-requiem.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "Build 21960597",
             "size": "55.1 GB",
@@ -2338,7 +2953,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "r-e-r",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Survival"
+            ]
         },
         {
             "id": 175,
@@ -2347,7 +2967,7 @@
             "publisher": "Bandai Namco Entertainment",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/tekken-7.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/tekken-7.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "4.22.0.0",
             "size": "39.9 GB",
@@ -2356,7 +2976,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "tekken-7",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 115,
@@ -2365,7 +2989,7 @@
             "publisher": "Bandai Namco Entertainment",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/tekken-8.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/tekken-8.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "1.01.03.0",
             "size": "66.0 GB",
@@ -2374,7 +2998,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "tekken-8",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 94,
@@ -2383,7 +3011,7 @@
             "publisher": "BlueTwelve",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/stray.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/stray.webp",
-            "gameType": "Simulation",
+            "gameType": "Adventure",
             "gameTypeIcon": "fa-gamepad",
             "version": "1.2.0.0",
             "size": "84.3 GB",
@@ -2392,7 +3020,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "stray",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 233,
@@ -2410,7 +3042,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "food-delivery-sim",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 130,
@@ -2428,7 +3064,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "fuel-harvest-together",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 177,
@@ -2446,7 +3086,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "drive-beyond-horizons",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 126,
@@ -2464,7 +3108,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "internet-cafe-sim-1",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 99,
@@ -2482,7 +3130,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "internet-cafe-sim-2",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 47,
@@ -2500,7 +3152,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "house-flipper-2",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 184,
@@ -2518,7 +3174,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "zoo-tycoon",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 75,
@@ -2536,7 +3196,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pc-building-sim",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 201,
@@ -2554,7 +3218,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pc-building-sim-2",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 76,
@@ -2572,7 +3240,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "food-truck-sim",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 194,
@@ -2590,7 +3262,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mount-blade-sails",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ]
         },
         {
             "id": 12,
@@ -2608,7 +3284,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "red-alert-2-ex",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Strategy",
+                "Multiplayer"
+            ]
         },
         {
             "id": 156,
@@ -2626,7 +3306,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "neighbours-from-hell-1",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Strategy",
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 2,
@@ -2644,7 +3329,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "neighbours-from-hell-2",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Strategy",
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 252,
@@ -2662,7 +3352,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "sudden-strike-4",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Strategy",
+                "Multiplayer"
+            ]
         },
         {
             "id": 146,
@@ -2680,7 +3374,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "stronghold-crusader",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Strategy",
+                "Multiplayer"
+            ]
         },
         {
             "id": 84,
@@ -2698,7 +3396,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "stronghold-crusader-de",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Strategy"
+            ]
         },
         {
             "id": 53,
@@ -2716,7 +3418,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "stronghold-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Strategy"
+            ]
         },
         {
             "id": 117,
@@ -2734,7 +3440,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "uncharted",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 8,
@@ -2752,7 +3462,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-walking-dead-the-telltale-definitive-series",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Horror"
+            ]
         },
         {
             "id": 109,
@@ -2761,7 +3476,7 @@
             "publisher": "Heslight Studios",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/it-takes-two.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/it-takes-two.webp",
-            "gameType": "Action",
+            "gameType": "Adventure",
             "gameTypeIcon": "fa-gun",
             "version": "0.1.0.0",
             "size": "28.0 GB",
@@ -2770,7 +3485,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "it-takes-two",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Adventure",
+                "Multiplayer",
+                "Co-op",
+                "Puzzle"
+            ]
         },
         {
             "id": 157,
@@ -2788,7 +3509,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "days-gone",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Survival"
+            ]
         },
         {
             "id": 226,
@@ -2806,7 +3532,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "adventures-of-robinson-crusoe",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 240,
@@ -2824,7 +3554,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "crazy-texy",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Racing",
+                "Arcade",
+                "Action"
+            ]
         },
         {
             "id": 25,
@@ -2842,7 +3577,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "alien-shooter",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 42,
@@ -2860,7 +3599,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "jazz-rabbit",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Platformer",
+                "Action"
+            ]
         },
         {
             "id": 219,
@@ -2878,7 +3621,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ghost-recon-future-soldier",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Stealth"
+            ]
         },
         {
             "id": 151,
@@ -2896,7 +3644,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ppt-5",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 132,
@@ -2914,7 +3666,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "little-nightmare",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Horror",
+                "Adventure",
+                "Platformer"
+            ]
         },
         {
             "id": 202,
@@ -2932,7 +3689,14 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "enshrouded",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Multiplayer",
+                "Co-op",
+                "Survival"
+            ]
         },
         {
             "id": 241,
@@ -2950,7 +3714,12 @@
             "fileType": "torrent",
             "platform": "ps",
             "mediaPrefix": "god-of-war-3",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 152,
@@ -2959,7 +3728,7 @@
             "publisher": "Mojang Studios",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/ps/logos/minecraft.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/ps/posters/minecraft.webp",
-            "gameType": "Action",
+            "gameType": "Survival",
             "gameTypeIcon": "fa-gun",
             "version": "1.7.12.0",
             "size": "366.4 MB",
@@ -2968,7 +3737,14 @@
             "fileType": "torrent",
             "platform": "ps",
             "mediaPrefix": "minecraft",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Multiplayer",
+                "Co-op",
+                "Survival",
+                "Sandbox"
+            ]
         },
         {
             "id": 232,
@@ -2986,7 +3762,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-mortuary-assistant",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 246,
@@ -3004,7 +3784,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "madison",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 195,
@@ -3022,7 +3806,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "devotion",
-            "mediaCount": 1
+            "mediaCount": 1,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 20,
@@ -3040,7 +3828,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "soma",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 50,
@@ -3058,7 +3850,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-closing-shift",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 189,
@@ -3067,7 +3863,7 @@
             "publisher": "FromSoftware",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/dark-souls.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/dark-souls.webp",
-            "gameType": "Action",
+            "gameType": "RPG",
             "gameTypeIcon": "fa-gun",
             "version": "2.1.0.0",
             "size": "3.7 GB",
@@ -3076,7 +3872,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "dark-souls",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "RPG",
+                "Action"
+            ]
         },
         {
             "id": 160,
@@ -3085,7 +3885,7 @@
             "publisher": "FromSoftware",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/dark-souls-2.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/dark-souls-2.webp",
-            "gameType": "Action",
+            "gameType": "RPG",
             "gameTypeIcon": "fa-gun",
             "version": "1.02.0.0",
             "size": "6.4 GB",
@@ -3094,7 +3894,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "dark-souls-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "RPG",
+                "Action"
+            ]
         },
         {
             "id": 206,
@@ -3112,7 +3916,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "tom-clancys-splinter-cell",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Stealth"
+            ]
         },
         {
             "id": 213,
@@ -3121,7 +3930,7 @@
             "publisher": "Spike Chunsoft",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/dragon-ball-sparking-zero.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/dragon-ball-sparking-zero.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "1003.003.003.003.002",
             "size": "19.2 GB",
@@ -3130,7 +3939,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "dragon-ball-sparking-zero",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 28,
@@ -3139,7 +3952,7 @@
             "publisher": "Innersloth",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/among-us.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/among-us.webp",
-            "gameType": "Adventure",
+            "gameType": "Multiplayer",
             "gameTypeIcon": "fa-compass",
             "version": "2026.2.241.0",
             "size": "604.6 MB",
@@ -3148,7 +3961,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "among-us",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Multiplayer",
+                "Party"
+            ]
         },
         {
             "id": 26,
@@ -3166,7 +3983,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-va",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 107,
@@ -3184,7 +4006,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "total-overdose",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 137,
@@ -3202,7 +4028,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cod-bo6",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 32,
@@ -3220,7 +4051,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cof-mw-2-2022",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 245,
@@ -3238,7 +4074,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cof-mw-3-2023",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 255,
@@ -3257,7 +4098,12 @@
             "platform": "pc",
             "mediaPrefix": "cod-mw-4",
             "mediaCount": 10,
-            "createdAt": "2026-10-20T14:13:00Z"
+            "createdAt": "2026-10-20T14:13:00Z",
+            "gameTypes": [
+                "Action",
+                "Shooter",
+                "Multiplayer"
+            ]
         },
         {
             "id": 141,
@@ -3276,7 +4122,12 @@
             "platform": "pc",
             "downloadType": "torrent",
             "mediaPrefix": "little-nightmare-2",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Horror",
+                "Adventure",
+                "Platformer"
+            ]
         },
         {
             "id": 139,
@@ -3294,7 +4145,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "detroit",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 4,
@@ -3312,7 +4167,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-outlast-trials",
-            "mediaCount": 14
+            "mediaCount": 14,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 230,
@@ -3321,7 +4182,7 @@
             "publisher": "Square Enix",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/tomb-raider-2013.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/tomb-raider-2013.webp",
-            "gameType": "Action",
+            "gameType": "Adventure",
             "gameTypeIcon": "fa-gun",
             "version": "2.4.2.0",
             "size": "6.5 GB",
@@ -3330,7 +4191,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "tomb-raider-2013",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Adventure",
+                "Action"
+            ]
         },
         {
             "id": 223,
@@ -3339,7 +4204,7 @@
             "publisher": "Square Enix",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/rise-of-the-tomb-raider-2015.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/rise-of-the-tomb-raider-2015.webp",
-            "gameType": "Action",
+            "gameType": "Adventure",
             "gameTypeIcon": "fa-gun",
             "version": "1.0.1027.0",
             "size": "24.3 GB",
@@ -3348,7 +4213,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "rise-of-the-tomb-raider-2015",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Adventure",
+                "Action"
+            ]
         },
         {
             "id": 58,
@@ -3357,7 +4226,7 @@
             "publisher": "Square Enix",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/shadow-of-the-tomb-raider-2018.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/shadow-of-the-tomb-raider-2018.webp",
-            "gameType": "Action",
+            "gameType": "Adventure",
             "gameTypeIcon": "fa-gun",
             "version": "1.2.1.3",
             "size": "28.4 GB",
@@ -3366,7 +4235,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "shadow-of-the-tomb-raider-2018",
-            "mediaCount": 15
+            "mediaCount": 15,
+            "gameTypes": [
+                "Adventure",
+                "Action"
+            ]
         },
         {
             "id": 209,
@@ -3384,7 +4257,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "inzoi",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 1,
@@ -3402,7 +4279,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "crisol",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 231,
@@ -3420,7 +4301,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "sunkenland",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Survival",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 188,
@@ -3438,7 +4324,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ark",
-            "mediaCount": 18
+            "mediaCount": 18,
+            "gameTypes": [
+                "Survival",
+                "RPG",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 144,
@@ -3456,7 +4348,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "minecraft-bedrock",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Survival",
+                "Multiplayer",
+                "Co-op",
+                "Sandbox"
+            ]
         },
         {
             "id": 23,
@@ -3465,7 +4363,7 @@
             "publisher": "IO Interactive",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/hitman-codename-47.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/hitman-codename-47.webp",
-            "gameType": "Action",
+            "gameType": "Stealth",
             "gameTypeIcon": "fa-gun",
             "version": "1.3.0.0",
             "size": "244.1 MB",
@@ -3474,7 +4372,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "hitman-codename-47",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Stealth",
+                "Shooter"
+            ]
         },
         {
             "id": 211,
@@ -3492,7 +4394,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "hitman-2",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Stealth"
+            ]
         },
         {
             "id": 59,
@@ -3501,7 +4407,7 @@
             "publisher": "Pearl Abyss",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/crimson-desert.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/crimson-desert.webp",
-            "gameType": "Adventure",
+            "gameType": "RPG",
             "gameTypeIcon": "fa-compass",
             "version": "1.00.02.0",
             "size": "66.5 GB",
@@ -3510,7 +4416,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "crimson-desert",
-            "mediaCount": 14
+            "mediaCount": 14,
+            "gameTypes": [
+                "RPG",
+                "Action",
+                "Open World"
+            ]
         },
         {
             "id": 27,
@@ -3528,7 +4439,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mfs",
-            "mediaCount": 14
+            "mediaCount": 14,
+            "gameTypes": [
+                "Simulation",
+                "Flight Sim"
+            ]
         },
         {
             "id": 52,
@@ -3546,7 +4461,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "black-myth-wukong",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ]
         },
         {
             "id": 71,
@@ -3564,7 +4483,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "duke-nukem-forever",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 208,
@@ -3582,7 +4505,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "spider-man-shattered-dimensions",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 239,
@@ -3600,7 +4527,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "assetto-corsa-competizione",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Racing",
+                "Simulation"
+            ]
         },
         {
             "id": 114,
@@ -3609,7 +4540,7 @@
             "publisher": "Sandfall Interactive",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/clair-obscur-expedition-33.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/clair-obscur-expedition-33.webp",
-            "gameType": "Adventure",
+            "gameType": "RPG",
             "gameTypeIcon": "fa-compass",
             "version": "56180.0.0.0",
             "size": "36.8 GB",
@@ -3618,7 +4549,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "clair-obscur-expedition-33",
-            "mediaCount": 13
+            "mediaCount": 13,
+            "gameTypes": [
+                "RPG",
+                "Adventure"
+            ]
         },
         {
             "id": 214,
@@ -3636,7 +4571,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-sims-4",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Simulation",
+                "Life Simulation",
+                "Management"
+            ]
         },
         {
             "id": 65,
@@ -3645,7 +4585,7 @@
             "publisher": "Steel Balalaika Studio",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/broken-arrow.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/broken-arrow.webp",
-            "gameType": "Action",
+            "gameType": "Strategy",
             "gameTypeIcon": "fa-gun",
             "version": "1.0.6.p",
             "size": "18.7 GB",
@@ -3654,7 +4594,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "broken-arrow",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Strategy",
+                "Multiplayer"
+            ]
         },
         {
             "id": 69,
@@ -3672,7 +4616,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-matrix-path-of-neo",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 90,
@@ -3690,7 +4638,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "heavy-rain",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 125,
@@ -3708,7 +4660,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "beyond",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 49,
@@ -3717,7 +4673,7 @@
             "publisher": "Valve",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/portal-2.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/portal-2.webp",
-            "gameType": "Adventure",
+            "gameType": "Puzzle",
             "gameTypeIcon": "fa-compass",
             "version": "1.0.1.0",
             "size": "4.2 GB",
@@ -3726,7 +4682,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "portal-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Puzzle",
+                "Adventure"
+            ]
         },
         {
             "id": 3,
@@ -3744,7 +4704,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nfs-the-run",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Racing",
+                "Arcade"
+            ]
         },
         {
             "id": 118,
@@ -3762,7 +4726,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "limbo",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Adventure",
+                "Platformer",
+                "Puzzle"
+            ]
         },
         {
             "id": 79,
@@ -3771,7 +4740,7 @@
             "publisher": "Electronic Arts",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ds.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ds.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "1.0.0.222",
             "size": "2.9 GB",
@@ -3780,7 +4749,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ds",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Horror",
+                "Shooter"
+            ]
         },
         {
             "id": 212,
@@ -3789,7 +4762,7 @@
             "publisher": "Electronic Arts",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ds-2.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ds-2.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "1.1.0.0",
             "size": "5.8 GB",
@@ -3798,7 +4771,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ds-2",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Horror",
+                "Shooter"
+            ]
         },
         {
             "id": 135,
@@ -3807,7 +4784,7 @@
             "publisher": "Electronic Arts",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ds-3.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ds-3.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "1.0.0.1",
             "size": "5.2 GB",
@@ -3816,7 +4793,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ds-3",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Horror",
+                "Shooter"
+            ]
         },
         {
             "id": 122,
@@ -3825,7 +4806,7 @@
             "publisher": "NetherRealm Studios",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mortal-kombat-4.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mortal-kombat-4.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "1.0.0.0",
             "size": "407.6 MB",
@@ -3834,7 +4815,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mortal-kombat-4",
-            "mediaCount": 2
+            "mediaCount": 2,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 244,
@@ -3843,7 +4828,7 @@
             "publisher": "NetherRealm Studios",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mortal-kombat-x.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mortal-kombat-x.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "1.3.0.0",
             "size": "21.7 GB",
@@ -3852,7 +4837,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mortal-kombat-x",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 159,
@@ -3861,7 +4850,7 @@
             "publisher": "NetherRealm Studios",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mortal-kombat-11.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mortal-kombat-11.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "09.29.2020.0",
             "size": "74.8 GB",
@@ -3870,7 +4859,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mortal-kombat-11",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 198,
@@ -3879,7 +4872,7 @@
             "publisher": "NetherRealm Studios",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mortal-kombat-1.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mortal-kombat-1.webp",
-            "gameType": "Action",
+            "gameType": "Fighting",
             "gameTypeIcon": "fa-gun",
             "version": "1.28.0.0",
             "size": "34.6 GB",
@@ -3888,7 +4881,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "mortal-kombat-1",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Fighting",
+                "Multiplayer"
+            ]
         },
         {
             "id": 16,
@@ -3906,7 +4903,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "the-forest",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Survival",
+                "Horror",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 185,
@@ -3924,7 +4927,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "stranded-deep",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Survival",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 229,
@@ -3942,7 +4950,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "green-hell",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Survival",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 93,
@@ -3960,7 +4973,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "raft",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Survival",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 73,
@@ -3978,7 +4996,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "valheim",
-            "mediaCount": 16
+            "mediaCount": 16,
+            "gameTypes": [
+                "Survival",
+                "RPG",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 192,
@@ -3996,7 +5020,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "subnautica",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Survival",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 220,
@@ -4014,7 +5043,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "euro-truck-2",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 104,
@@ -4032,7 +5065,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "hollow-knight",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Adventure",
+                "Platformer"
+            ]
         },
         {
             "id": 67,
@@ -4050,7 +5087,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "hollow-knight-silksong",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Adventure",
+                "Platformer"
+            ]
         },
         {
             "id": 97,
@@ -4068,7 +5109,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "inside",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Adventure",
+                "Platformer",
+                "Puzzle"
+            ]
         },
         {
             "id": 165,
@@ -4086,7 +5132,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "cairo-metro",
-            "mediaCount": 5
+            "mediaCount": 5,
+            "gameTypes": [
+                "Horror",
+                "Adventure"
+            ]
         },
         {
             "id": 17,
@@ -4104,7 +5154,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "koshary-simulator",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 183,
@@ -4113,7 +5167,7 @@
             "publisher": "Curve Animation",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/liars-bar.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/liars-bar.webp",
-            "gameType": "Adventure",
+            "gameType": "Multiplayer",
             "gameTypeIcon": "fa-compass",
             "version": "0.9.0.0",
             "size": "2.50 GB",
@@ -4122,7 +5176,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "liars-bar",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Multiplayer",
+                "Party"
+            ]
         },
         {
             "id": 123,
@@ -4140,7 +5198,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "phasmophobia",
-            "mediaCount": 16
+            "mediaCount": 16,
+            "gameTypes": [
+                "Horror",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 54,
@@ -4158,7 +5221,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bright-memory",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 167,
@@ -4176,7 +5243,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bright-memory-inf",
-            "mediaCount": 14
+            "mediaCount": 14,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 153,
@@ -4194,7 +5265,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "bully",
-            "mediaCount": 6
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure"
+            ]
         },
         {
             "id": 172,
@@ -4203,7 +5278,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-re.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-re.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "2.3.1.2",
             "size": "17.6 GB",
@@ -4212,7 +5287,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re-re",
-            "mediaCount": 3
+            "mediaCount": 3,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Survival"
+            ]
         },
         {
             "id": 191,
@@ -4221,7 +5301,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-2.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-2.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "2022.06.13.0",
             "size": "17.3 GB",
@@ -4230,7 +5310,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re2",
-            "mediaCount": 16
+            "mediaCount": 16,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Survival"
+            ]
         },
         {
             "id": 169,
@@ -4239,7 +5324,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-3.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-3.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "Build 5269288",
             "size": "13.5 GB",
@@ -4248,7 +5333,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re3",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Survival"
+            ]
         },
         {
             "id": 61,
@@ -4257,7 +5347,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-4.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-4.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "1.5.0.0",
             "size": "48.6 GB",
@@ -4266,7 +5356,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re4",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Survival"
+            ]
         },
         {
             "id": 44,
@@ -4275,7 +5370,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-5.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-5.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "9.0.0.0",
             "size": "4.4 GB",
@@ -4284,7 +5379,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re5",
-            "mediaCount": 4
+            "mediaCount": 4,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Co-op",
+                "Survival"
+            ]
         },
         {
             "id": 247,
@@ -4293,7 +5394,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-6.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-6.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "1.10.0.0",
             "size": "7.6 GB",
@@ -4302,7 +5403,13 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re6",
-            "mediaCount": 8
+            "mediaCount": 8,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Co-op",
+                "Survival"
+            ]
         },
         {
             "id": 13,
@@ -4311,7 +5418,7 @@
             "publisher": "Capcom",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/re-village.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/re-village.webp",
-            "gameType": "Action",
+            "gameType": "Horror",
             "gameTypeIcon": "fa-gun",
             "version": "Build 10415597",
             "size": "24.2 GB",
@@ -4320,7 +5427,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "re-village",
-            "mediaCount": 15
+            "mediaCount": 15,
+            "gameTypes": [
+                "Horror",
+                "Shooter",
+                "Survival"
+            ]
         },
         {
             "id": 81,
@@ -4338,7 +5450,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "pragmata",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Adventure",
+                "Puzzle"
+            ]
         },
         {
             "id": 251,
@@ -4356,7 +5472,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "horizon-forbidden-west",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Adventure",
+                "RPG"
+            ]
         },
         {
             "id": 210,
@@ -4374,7 +5494,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "f-h-6",
-            "mediaCount": 14
+            "mediaCount": 14,
+            "gameTypes": [
+                "Racing",
+                "Multiplayer",
+                "Simulation"
+            ]
         },
         {
             "id": 145,
@@ -4392,7 +5517,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "death-stranding-1",
-            "mediaCount": 15
+            "mediaCount": 15,
+            "gameTypes": [
+                "Adventure",
+                "Action"
+            ]
         },
         {
             "id": 207,
@@ -4410,7 +5539,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "death-stranding-2",
-            "mediaCount": 18
+            "mediaCount": 18,
+            "gameTypes": [
+                "Adventure",
+                "Action"
+            ]
         },
         {
             "id": 11,
@@ -4428,7 +5561,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "b-arkham-knight",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 227,
@@ -4446,7 +5584,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "b-arkham-asylum",
-            "mediaCount": 7
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 29,
@@ -4464,7 +5607,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "b-arkham-origins",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ]
         },
         {
             "id": 60,
@@ -4482,7 +5630,14 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "warcraft3-reforged",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Adventure",
+                "Multiplayer",
+                "Co-op",
+                "Strategy",
+                "Survival"
+            ]
         },
         {
             "id": 46,
@@ -4500,7 +5655,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "retro-rewind-simulator",
-            "mediaCount": 12
+            "mediaCount": 12,
+            "gameTypes": [
+                "Simulation",
+                "Management"
+            ]
         },
         {
             "id": 176,
@@ -4518,7 +5677,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "nine-sols",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Adventure",
+                "Platformer"
+            ]
         },
         {
             "id": 72,
@@ -4536,7 +5699,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "ready-or-not",
-            "mediaCount": 10
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         },
         {
             "id": 92,
@@ -4554,7 +5721,12 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "a-way-out",
-            "mediaCount": 9
+            "mediaCount": 9,
+            "gameTypes": [
+                "Adventure",
+                "Multiplayer",
+                "Co-op"
+            ]
         },
         {
             "id": 38,
@@ -4572,7 +5744,11 @@
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "goat-simulator-3",
-            "mediaCount": 11
+            "mediaCount": 11,
+            "gameTypes": [
+                "Simulation",
+                "Sandbox"
+            ]
         },
         {
             "id": 193,
@@ -4581,7 +5757,7 @@
             "publisher": "Bethesda Softworks",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/fallout-3.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/fallout-3.webp",
-            "gameType": "Action",
+            "gameType": "RPG",
             "gameTypeIcon": "fa-gun",
             "version": "1.7.0.4",
             "size": "16.1 GB",
@@ -4591,7 +5767,11 @@
             "platform": "pc",
             "mediaPrefix": "fallout-3",
             "mediaCount": 8,
-            "createdAt": "2026-10-17T00:30:00Z"
+            "createdAt": "2026-10-17T00:30:00Z",
+            "gameTypes": [
+                "RPG",
+                "Survival"
+            ]
         }
     ]
 }
