@@ -1,6 +1,7 @@
 {
     "games": [
         {
+            "id": 85,
             "slug": "gta-v",
             "title": "Grand Theft Auto V",
             "publisher": "Rockstar Games",
@@ -18,6 +19,7 @@
             "mediaCount": 8
         },
         {
+            "id": 131,
             "slug": "gta-3",
             "title": "Grand Theft Auto III",
             "publisher": "Rockstar Games",
@@ -35,6 +37,7 @@
             "mediaCount": 4
         },
         {
+            "id": 204,
             "slug": "gta-vc",
             "title": "Grand Theft Auto Vice City",
             "publisher": "Rockstar Games",
@@ -52,6 +55,7 @@
             "mediaCount": 6
         },
         {
+            "id": 170,
             "slug": "gta-iv",
             "title": "Grand Theft Auto IV: The Complete Edition",
             "publisher": "Rockstar Games",
@@ -69,6 +73,7 @@
             "mediaCount": 10
         },
         {
+            "id": 163,
             "slug": "gta-sa",
             "title": "Grand Theft Auto San Andreas",
             "publisher": "Rockstar Games",
@@ -86,6 +91,7 @@
             "mediaCount": 6
         },
         {
+            "id": 19,
             "slug": "ac-1",
             "title": "Assassin's Creed",
             "publisher": "Ubisoft",
@@ -103,6 +109,7 @@
             "mediaCount": 6
         },
         {
+            "id": 143,
             "slug": "ac-unity",
             "title": "Assassin's Creed Unity",
             "publisher": "Ubisoft",
@@ -120,6 +127,7 @@
             "mediaCount": 8
         },
         {
+            "id": 110,
             "slug": "ac-2",
             "title": "Assassin's Creed II",
             "publisher": "Ubisoft",
@@ -137,6 +145,7 @@
             "mediaCount": 10
         },
         {
+            "id": 43,
             "slug": "ac-3",
             "title": "Assassin's Creed III",
             "publisher": "Ubisoft",
@@ -154,6 +163,7 @@
             "mediaCount": 7
         },
         {
+            "id": 150,
             "slug": "ac-4",
             "title": "Assassin's Creed IV: Black Flag",
             "publisher": "Ubisoft",
@@ -171,6 +181,7 @@
             "mediaCount": 6
         },
         {
+            "id": 136,
             "slug": "ac-brotherhood",
             "title": "Assassin's Creed Brotherhood",
             "publisher": "Ubisoft",
@@ -188,6 +199,7 @@
             "mediaCount": 7
         },
         {
+            "id": 224,
             "slug": "ac-revelations",
             "title": "Assassin's Creed Revelations",
             "publisher": "Ubisoft",
@@ -205,6 +217,7 @@
             "mediaCount": 7
         },
         {
+            "id": 158,
             "slug": "ac-mirage",
             "title": "Assassin's Creed Mirage",
             "publisher": "Ubisoft",
@@ -222,6 +235,7 @@
             "mediaCount": 7
         },
         {
+            "id": 113,
             "slug": "ac-origins",
             "title": "Assassin's Creed Origins",
             "publisher": "Ubisoft",
@@ -239,6 +253,7 @@
             "mediaCount": 8
         },
         {
+            "id": 103,
             "slug": "ac-odyssey",
             "title": "Assassin's Creed Odyssey",
             "publisher": "Ubisoft",
@@ -256,6 +271,7 @@
             "mediaCount": 8
         },
         {
+            "id": 66,
             "slug": "ac-liberation-hd",
             "title": "Assassin's Creed Liberation HD",
             "publisher": "Ubisoft",
@@ -273,6 +289,7 @@
             "mediaCount": 6
         },
         {
+            "id": 171,
             "slug": "ac-chronicles-india",
             "title": "Assassin's Creed Chronicles: India",
             "publisher": "Ubisoft",
@@ -290,6 +307,7 @@
             "mediaCount": 4
         },
         {
+            "id": 222,
             "slug": "ac-chronicles-china",
             "title": "Assassin's Creed Chronicles: China",
             "publisher": "Ubisoft",
@@ -307,6 +325,7 @@
             "mediaCount": 4
         },
         {
+            "id": 250,
             "slug": "ac-chronicles-russia",
             "title": "Assassin's Creed Chronicles: Russia",
             "publisher": "Ubisoft",
@@ -324,6 +343,7 @@
             "mediaCount": 4
         },
         {
+            "id": 56,
             "slug": "ac-rogue",
             "title": "Assassin's Creed Rogue",
             "publisher": "Ubisoft",
@@ -341,6 +361,7 @@
             "mediaCount": 7
         },
         {
+            "id": 228,
             "slug": "ac-freedom-cry",
             "title": "Assassin's Creed Freedom Cry",
             "publisher": "Ubisoft",
@@ -358,6 +379,7 @@
             "mediaCount": 8
         },
         {
+            "id": 31,
             "slug": "ac-valhalla",
             "title": "Assassin's Creed Valhalla",
             "publisher": "Ubisoft",
@@ -375,6 +397,7 @@
             "mediaCount": 7
         },
         {
+            "id": 140,
             "slug": "ac-syndicate",
             "title": "Assassin's Creed Syndicate",
             "publisher": "Ubisoft",
@@ -392,6 +415,7 @@
             "mediaCount": 6
         },
         {
+            "id": 55,
             "slug": "batman-arkham-city",
             "title": "Batman: Arkham City",
             "publisher": "Rocksteady Studios",
@@ -409,6 +433,7 @@
             "mediaCount": 5
         },
         {
+            "id": 124,
             "slug": "cs-go",
             "title": "Counter-Strike: Global Offensive",
             "publisher": "Valve",
@@ -426,6 +451,7 @@
             "mediaCount": 5
         },
         {
+            "id": 21,
             "slug": "cs-source",
             "title": "Counter-Strike: Source",
             "publisher": "Valve",
@@ -443,6 +469,7 @@
             "mediaCount": 4
         },
         {
+            "id": 199,
             "slug": "cyberpunk-2077",
             "title": "Cyberpunk 2077",
             "publisher": "CD Projekt",
@@ -460,6 +487,7 @@
             "mediaCount": 11
         },
         {
+            "id": 155,
             "slug": "devil-may-cry-5",
             "title": "Devil May Cry 5",
             "publisher": "Capcom",
@@ -477,6 +505,7 @@
             "mediaCount": 6
         },
         {
+            "id": 121,
             "slug": "doom-eternal",
             "title": "Doom Eternal",
             "publisher": "Id Software",
@@ -494,6 +523,7 @@
             "mediaCount": 8
         },
         {
+            "id": 41,
             "slug": "dying-light-1",
             "title": "Dying Light",
             "publisher": "Tencent",
@@ -511,6 +541,7 @@
             "mediaCount": 7
         },
         {
+            "id": 95,
             "slug": "dying-light-2",
             "title": "Dying Light 2: Stay Human",
             "publisher": "Tencent",
@@ -528,6 +559,7 @@
             "mediaCount": 7
         },
         {
+            "id": 119,
             "slug": "elden-ring",
             "title": "Elden Ring",
             "publisher": "FromSoftware",
@@ -545,6 +577,7 @@
             "mediaCount": 13
         },
         {
+            "id": 112,
             "slug": "far-cry-1",
             "title": "Far Cry",
             "publisher": "Ubisoft",
@@ -562,6 +595,7 @@
             "mediaCount": 2
         },
         {
+            "id": 18,
             "slug": "far-cry-2",
             "title": "Far Cry 2",
             "publisher": "Ubisoft",
@@ -579,6 +613,7 @@
             "mediaCount": 5
         },
         {
+            "id": 134,
             "slug": "far-cry-3",
             "title": "Far Cry 3",
             "publisher": "Ubisoft",
@@ -596,6 +631,7 @@
             "mediaCount": 8
         },
         {
+            "id": 105,
             "slug": "far-cry-4",
             "title": "Far Cry 4",
             "publisher": "Ubisoft",
@@ -613,6 +649,7 @@
             "mediaCount": 9
         },
         {
+            "id": 133,
             "slug": "far-cry-5",
             "title": "Far Cry 5",
             "publisher": "Ubisoft",
@@ -630,6 +667,7 @@
             "mediaCount": 7
         },
         {
+            "id": 78,
             "slug": "far-cry-primal",
             "title": "Far Cry primal",
             "publisher": "Ubisoft",
@@ -647,6 +685,7 @@
             "mediaCount": 8
         },
         {
+            "id": 129,
             "slug": "ghost-of-tsushima",
             "title": "Ghost of Tsushima",
             "publisher": "Sucker Punch",
@@ -664,6 +703,7 @@
             "mediaCount": 9
         },
         {
+            "id": 62,
             "slug": "god-of-war-ragnarok",
             "title": "God of War Ragnarok",
             "publisher": "Santa Monica Studio",
@@ -681,6 +721,7 @@
             "mediaCount": 9
         },
         {
+            "id": 237,
             "slug": "alan-wake",
             "title": "Alan Wake",
             "publisher": "Remedy Entertainment",
@@ -698,6 +739,7 @@
             "mediaCount": 6
         },
         {
+            "id": 22,
             "slug": "alan-wake-2",
             "title": "Alan Wake 2",
             "publisher": "Remedy Entertainment",
@@ -715,6 +757,7 @@
             "mediaCount": 5
         },
         {
+            "id": 161,
             "slug": "left-4-dead",
             "title": "Left 4 Dead",
             "publisher": "Turtle Rock Studios",
@@ -732,6 +775,7 @@
             "mediaCount": 6
         },
         {
+            "id": 197,
             "slug": "left-4-dead-2",
             "title": "Left 4 Dead 2",
             "publisher": "Turtle Rock Studios",
@@ -749,6 +793,7 @@
             "mediaCount": 7
         },
         {
+            "id": 216,
             "slug": "mad-max",
             "title": "Mad Max",
             "publisher": "Avalanche Studios",
@@ -766,6 +811,7 @@
             "mediaCount": 6
         },
         {
+            "id": 236,
             "slug": "mafia-1",
             "title": "Mafia",
             "publisher": "2K Czech",
@@ -783,6 +829,7 @@
             "mediaCount": 3
         },
         {
+            "id": 86,
             "slug": "mafia-2",
             "title": "Mafia II",
             "publisher": "2K Czech",
@@ -800,6 +847,7 @@
             "mediaCount": 5
         },
         {
+            "id": 106,
             "slug": "max-payne-1",
             "title": "Max Payne",
             "publisher": "Rockstar Games",
@@ -817,6 +865,7 @@
             "mediaCount": 6
         },
         {
+            "id": 254,
             "slug": "max-payne-2",
             "title": "Max Payne 2",
             "publisher": "Rockstar Games",
@@ -834,6 +883,7 @@
             "mediaCount": 4
         },
         {
+            "id": 102,
             "slug": "max-payne-3",
             "title": "Max Payne 3",
             "publisher": "Rockstar Games",
@@ -851,6 +901,7 @@
             "mediaCount": 7
         },
         {
+            "id": 80,
             "slug": "rdr-1",
             "title": "Red Dead Redemption",
             "publisher": "Rockstar Games",
@@ -868,6 +919,7 @@
             "mediaCount": 8
         },
         {
+            "id": 215,
             "slug": "rdr-2",
             "title": "Red Dead Redemption II",
             "publisher": "Rockstar Games",
@@ -885,6 +937,7 @@
             "mediaCount": 10
         },
         {
+            "id": 128,
             "slug": "sleeping-dogs",
             "title": "Sleeping Dogs",
             "publisher": "United Front Games",
@@ -902,6 +955,7 @@
             "mediaCount": 6
         },
         {
+            "id": 48,
             "slug": "the-amazing-spider-man-1",
             "title": "The Amazing Spider-Man",
             "publisher": "Beenox",
@@ -919,6 +973,7 @@
             "mediaCount": 6
         },
         {
+            "id": 234,
             "slug": "the-amazing-spider-man-2",
             "title": "The Amazing Spider-Man 2",
             "publisher": "Beenox",
@@ -936,6 +991,7 @@
             "mediaCount": 6
         },
         {
+            "id": 186,
             "slug": "marvels-spiderman-Miles-morales",
             "title": "Marvel's Spider-Man: Miles Morales",
             "publisher": "Insomniac Games",
@@ -953,6 +1009,7 @@
             "mediaCount": 6
         },
         {
+            "id": 83,
             "slug": "marvels-spiderman-1-re",
             "title": "Marvel's Spider-Man Remastered",
             "publisher": "Insomniac Games",
@@ -970,6 +1027,7 @@
             "mediaCount": 8
         },
         {
+            "id": 142,
             "slug": "marvels-spiderman-2",
             "title": "Marvel's Spider-Man 2",
             "publisher": "Insomniac Games",
@@ -987,6 +1045,7 @@
             "mediaCount": 6
         },
         {
+            "id": 9,
             "slug": "the-last-of-us-part-I",
             "title": "The Last of Us Part I",
             "publisher": "Naughty Dog",
@@ -1004,6 +1063,7 @@
             "mediaCount": 7
         },
         {
+            "id": 249,
             "slug": "the-last-of-us-part-II",
             "title": "The Last of Us Part II Remastered",
             "publisher": "Naughty Dog",
@@ -1021,6 +1081,7 @@
             "mediaCount": 9
         },
         {
+            "id": 7,
             "slug": "the-witcher-1",
             "title": "The Witcher",
             "publisher": "CD Projekt",
@@ -1038,6 +1099,7 @@
             "mediaCount": 4
         },
         {
+            "id": 34,
             "slug": "the-witcher-2",
             "title": "The Witcher 2: Assassins of Kings",
             "publisher": "CD Projekt",
@@ -1055,6 +1117,7 @@
             "mediaCount": 6
         },
         {
+            "id": 180,
             "slug": "the-witcher-3",
             "title": "The Witcher 3: Wild Hunt",
             "publisher": "CD Projekt",
@@ -1072,6 +1135,7 @@
             "mediaCount": 6
         },
         {
+            "id": 205,
             "slug": "spider-man-web-of-shadows",
             "title": "Spider-Man: Web of Shadows",
             "publisher": "Beenox",
@@ -1089,6 +1153,7 @@
             "mediaCount": 5
         },
         {
+            "id": 182,
             "slug": "watch-dogs",
             "title": "Watch Dogs",
             "publisher": "Ubisoft",
@@ -1106,6 +1171,7 @@
             "mediaCount": 7
         },
         {
+            "id": 127,
             "slug": "watch-dogs-2",
             "title": "Watch Dogs 2",
             "publisher": "Ubisoft",
@@ -1123,6 +1189,7 @@
             "mediaCount": 13
         },
         {
+            "id": 148,
             "slug": "watch-dogs-legion",
             "title": "Watch Dogs Legion",
             "publisher": "Ubisoft",
@@ -1140,6 +1207,7 @@
             "mediaCount": 20
         },
         {
+            "id": 253,
             "slug": "world-war-z",
             "title": "World War Z",
             "publisher": "Saber Interactive",
@@ -1157,6 +1225,7 @@
             "mediaCount": 10
         },
         {
+            "id": 98,
             "slug": "nfs-most-wanted-2012",
             "title": "Need For Speed: Most Wanted 2012",
             "publisher": "Electronic Arts",
@@ -1174,6 +1243,7 @@
             "mediaCount": 8
         },
         {
+            "id": 196,
             "slug": "nfs-most-wanted-2005",
             "title": "Need For Speed: Most Wanted 5.1.0",
             "publisher": "Electronic Arts",
@@ -1191,6 +1261,7 @@
             "mediaCount": 4
         },
         {
+            "id": 168,
             "slug": "blur",
             "title": "Blur",
             "publisher": "Bizarre Creations",
@@ -1208,6 +1279,7 @@
             "mediaCount": 4
         },
         {
+            "id": 242,
             "slug": "burnout-paradise-Rema",
             "title": "Burnout Paradise Remastered",
             "publisher": "Criterion Games",
@@ -1225,6 +1297,7 @@
             "mediaCount": 6
         },
         {
+            "id": 200,
             "slug": "forza-horizon-3",
             "title": "Forza Horizon 3",
             "publisher": "Playground Games",
@@ -1242,6 +1315,7 @@
             "mediaCount": 8
         },
         {
+            "id": 174,
             "slug": "forza-horizon-4",
             "title": "Forza Horizon 4",
             "publisher": "Playground Games",
@@ -1259,6 +1333,7 @@
             "mediaCount": 10
         },
         {
+            "id": 116,
             "slug": "forza-horizon-5",
             "title": "Forza Horizon 5",
             "publisher": "Playground Games",
@@ -1276,6 +1351,7 @@
             "mediaCount": 6
         },
         {
+            "id": 24,
             "slug": "nfs-carbon",
             "title": "Need For Speed: Carbon",
             "publisher": "Electronic Arts",
@@ -1293,6 +1369,7 @@
             "mediaCount": 7
         },
         {
+            "id": 5,
             "slug": "need-for-speed-hot-pursuit",
             "title": "Need For Speed: Hot Pursuit",
             "publisher": "Electronic Arts",
@@ -1310,6 +1387,7 @@
             "mediaCount": 7
         },
         {
+            "id": 87,
             "slug": "need-for-speed-heat",
             "title": "Need For Speed: Heat",
             "publisher": "Electronic Arts",
@@ -1327,6 +1405,7 @@
             "mediaCount": 10
         },
         {
+            "id": 100,
             "slug": "need-for-speed-rivals",
             "title": "Need For Speed: Rivals",
             "publisher": "Electronic Arts",
@@ -1344,6 +1423,7 @@
             "mediaCount": 6
         },
         {
+            "id": 10,
             "slug": "nfs-underground",
             "title": "Need For Speed: Underground",
             "publisher": "Electronic Arts",
@@ -1361,6 +1441,7 @@
             "mediaCount": 3
         },
         {
+            "id": 181,
             "slug": "nfs-underground-2",
             "title": "Need For Speed: Underground 2",
             "publisher": "Electronic Arts",
@@ -1378,6 +1459,7 @@
             "mediaCount": 3
         },
         {
+            "id": 33,
             "slug": "nfs-prostreet",
             "title": "Need For Speed: ProStreet",
             "publisher": "Electronic Arts",
@@ -1395,6 +1477,7 @@
             "mediaCount": 8
         },
         {
+            "id": 243,
             "slug": "nfs-undercover",
             "title": "Need For Speed: Undercover",
             "publisher": "Electronic Arts",
@@ -1412,6 +1495,7 @@
             "mediaCount": 6
         },
         {
+            "id": 6,
             "slug": "pes-2009",
             "title": "PES 2009",
             "publisher": "Konami",
@@ -1429,6 +1513,7 @@
             "mediaCount": 2
         },
         {
+            "id": 68,
             "slug": "pes-2011",
             "title": "PES 2011",
             "publisher": "Konami",
@@ -1446,6 +1531,7 @@
             "mediaCount": 7
         },
         {
+            "id": 57,
             "slug": "pes-2012",
             "title": "PES 2012",
             "publisher": "Konami",
@@ -1463,6 +1549,7 @@
             "mediaCount": 4
         },
         {
+            "id": 203,
             "slug": "pes-2013",
             "title": "PES 2013",
             "publisher": "Konami",
@@ -1480,6 +1567,7 @@
             "mediaCount": 8
         },
         {
+            "id": 154,
             "slug": "pes-2019",
             "title": "PES 2019",
             "publisher": "Konami",
@@ -1497,6 +1585,7 @@
             "mediaCount": 6
         },
         {
+            "id": 108,
             "slug": "pes-2021",
             "title": "PES 2021",
             "publisher": "Konami",
@@ -1514,6 +1603,7 @@
             "mediaCount": 6
         },
         {
+            "id": 40,
             "slug": "fifa-12",
             "title": "FIFA 12",
             "publisher": "EA Sports",
@@ -1531,6 +1621,7 @@
             "mediaCount": 5
         },
         {
+            "id": 14,
             "slug": "fifa-14",
             "title": "FIFA 14",
             "publisher": "EA Sports",
@@ -1548,6 +1639,7 @@
             "mediaCount": 6
         },
         {
+            "id": 15,
             "slug": "fifa-15",
             "title": "FIFA 15",
             "publisher": "EA Sports",
@@ -1565,6 +1657,7 @@
             "mediaCount": 6
         },
         {
+            "id": 221,
             "slug": "fifa-16",
             "title": "FIFA 16",
             "publisher": "EA Sports",
@@ -1582,6 +1675,7 @@
             "mediaCount": 8
         },
         {
+            "id": 225,
             "slug": "fifa-17",
             "title": "FIFA 17",
             "publisher": "EA Sports",
@@ -1599,6 +1693,7 @@
             "mediaCount": 7
         },
         {
+            "id": 248,
             "slug": "fifa-18",
             "title": "FIFA 18",
             "publisher": "EA Sports",
@@ -1616,6 +1711,7 @@
             "mediaCount": 10
         },
         {
+            "id": 164,
             "slug": "fifa-19",
             "title": "FIFA 19",
             "publisher": "EA Sports",
@@ -1633,6 +1729,7 @@
             "mediaCount": 11
         },
         {
+            "id": 235,
             "slug": "fifa-20",
             "title": "FIFA 20",
             "publisher": "EA Sports",
@@ -1650,6 +1747,7 @@
             "mediaCount": 7
         },
         {
+            "id": 187,
             "slug": "fifa-21",
             "title": "FIFA 21",
             "publisher": "EA Sports",
@@ -1667,6 +1765,7 @@
             "mediaCount": 4
         },
         {
+            "id": 70,
             "slug": "fifa-22",
             "title": "FIFA 22",
             "publisher": "EA Sports",
@@ -1684,6 +1783,7 @@
             "mediaCount": 8
         },
         {
+            "id": 37,
             "slug": "fifa-23",
             "title": "FIFA 23",
             "publisher": "EA Sports",
@@ -1701,6 +1801,7 @@
             "mediaCount": 10
         },
         {
+            "id": 30,
             "slug": "cod1",
             "title": "Call of Duty 1",
             "publisher": "Activision",
@@ -1718,6 +1819,7 @@
             "mediaCount": 1
         },
         {
+            "id": 88,
             "slug": "cod2",
             "title": "Call of Duty 2",
             "publisher": "Activision",
@@ -1735,6 +1837,7 @@
             "mediaCount": 1
         },
         {
+            "id": 173,
             "slug": "cod-waw",
             "title": "Call of Duty: World at War",
             "publisher": "Activision",
@@ -1752,6 +1855,7 @@
             "mediaCount": 7
         },
         {
+            "id": 63,
             "slug": "cod-4",
             "title": "Call of Duty 4: Modern Warfare",
             "publisher": "Activision",
@@ -1769,6 +1873,7 @@
             "mediaCount": 6
         },
         {
+            "id": 238,
             "slug": "cod-mw-1",
             "title": "Call of Duty: Modern Warfare 2019",
             "publisher": "Activision",
@@ -1786,6 +1891,7 @@
             "mediaCount": 10
         },
         {
+            "id": 138,
             "slug": "cod-mw-2",
             "title": "Call of Duty: Modern Warfare 2",
             "publisher": "Activision",
@@ -1803,6 +1909,7 @@
             "mediaCount": 7
         },
         {
+            "id": 82,
             "slug": "cod-mw-3",
             "title": "Call of Duty: Modern Warfare 3",
             "publisher": "Activision",
@@ -1820,6 +1927,7 @@
             "mediaCount": 11
         },
         {
+            "id": 36,
             "slug": "cod-bo1",
             "title": "Call of Duty: Black Ops 1",
             "publisher": "Activision",
@@ -1837,6 +1945,7 @@
             "mediaCount": 11
         },
         {
+            "id": 166,
             "slug": "cod-bo2",
             "title": "Call of Duty: Black Ops 2",
             "publisher": "Activision",
@@ -1854,6 +1963,7 @@
             "mediaCount": 15
         },
         {
+            "id": 74,
             "slug": "cod-bo3",
             "title": "Call of Duty: Black Ops 3",
             "publisher": "Activision",
@@ -1871,6 +1981,7 @@
             "mediaCount": 8
         },
         {
+            "id": 179,
             "slug": "cod-bo-cw",
             "title": "Call of Duty: Black Ops Cold War",
             "publisher": "Activision",
@@ -1888,6 +1999,7 @@
             "mediaCount": 10
         },
         {
+            "id": 89,
             "slug": "cod-ad",
             "title": "Call of Duty: Advanced Warfare",
             "publisher": "Activision",
@@ -1905,6 +2017,7 @@
             "mediaCount": 9
         },
         {
+            "id": 51,
             "slug": "bf-1",
             "title": "Battlefield 1",
             "publisher": "Electronic Arts",
@@ -1922,6 +2035,7 @@
             "mediaCount": 8
         },
         {
+            "id": 96,
             "slug": "bf-2",
             "title": "Battlefield 2",
             "publisher": "Electronic Arts",
@@ -1939,6 +2053,7 @@
             "mediaCount": 1
         },
         {
+            "id": 217,
             "slug": "bf-3",
             "title": "Battlefield 3",
             "publisher": "Electronic Arts",
@@ -1956,6 +2071,7 @@
             "mediaCount": 6
         },
         {
+            "id": 178,
             "slug": "bf-4",
             "title": "Battlefield 4",
             "publisher": "Electronic Arts",
@@ -1973,6 +2089,7 @@
             "mediaCount": 10
         },
         {
+            "id": 218,
             "slug": "bf-v",
             "title": "Battlefield 5",
             "publisher": "Electronic Arts",
@@ -1990,6 +2107,7 @@
             "mediaCount": 9
         },
         {
+            "id": 111,
             "slug": "bf-6",
             "title": "Battlefield 6",
             "publisher": "Electronic Arts",
@@ -2007,6 +2125,7 @@
             "mediaCount": 8
         },
         {
+            "id": 35,
             "slug": "wwe-2k15",
             "title": "WWE 2K15",
             "publisher": "Yuke's",
@@ -2024,6 +2143,7 @@
             "mediaCount": 5
         },
         {
+            "id": 120,
             "slug": "wwe-2k16",
             "title": "WWE 2K16",
             "publisher": "Yuke's",
@@ -2041,6 +2161,7 @@
             "mediaCount": 6
         },
         {
+            "id": 101,
             "slug": "wwe-2k17",
             "title": "WWE 2K17",
             "publisher": "Yuke's",
@@ -2058,6 +2179,7 @@
             "mediaCount": 10
         },
         {
+            "id": 77,
             "slug": "wwe-2k18",
             "title": "WWE 2K18",
             "publisher": "Yuke's",
@@ -2075,6 +2197,7 @@
             "mediaCount": 5
         },
         {
+            "id": 39,
             "slug": "wwe-2k19",
             "title": "WWE 2K19",
             "publisher": "Yuke's",
@@ -2092,6 +2215,7 @@
             "mediaCount": 6
         },
         {
+            "id": 147,
             "slug": "wwe-2k20",
             "title": "WWE 2K20",
             "publisher": "Yuke's",
@@ -2109,6 +2233,7 @@
             "mediaCount": 7
         },
         {
+            "id": 45,
             "slug": "wwe-2k22",
             "title": "WWE 2K22",
             "publisher": "Yuke's",
@@ -2126,6 +2251,7 @@
             "mediaCount": 5
         },
         {
+            "id": 190,
             "slug": "wwe-2k23",
             "title": "WWE 2K23",
             "publisher": "Yuke's",
@@ -2143,6 +2269,7 @@
             "mediaCount": 6
         },
         {
+            "id": 91,
             "slug": "wwe-2k24",
             "title": "WWE 2K24",
             "publisher": "Yuke's",
@@ -2160,6 +2287,7 @@
             "mediaCount": 6
         },
         {
+            "id": 162,
             "slug": "house-of-the-dead",
             "title": "House of the Dead",
             "publisher": "Sega",
@@ -2177,6 +2305,7 @@
             "mediaCount": 1
         },
         {
+            "id": 64,
             "slug": "guilty-gear-lsuka",
             "title": "Guilty Gear Lsuka",
             "publisher": "Arc System",
@@ -2194,6 +2323,7 @@
             "mediaCount": 1
         },
         {
+            "id": 149,
             "slug": "resident-evil-requiem",
             "title": "Resident Evil Requiem",
             "publisher": "Capcom",
@@ -2211,6 +2341,7 @@
             "mediaCount": 12
         },
         {
+            "id": 175,
             "slug": "tekken-7",
             "title": "Tekken 7",
             "publisher": "Bandai Namco Entertainment",
@@ -2228,6 +2359,7 @@
             "mediaCount": 7
         },
         {
+            "id": 115,
             "slug": "tekken-8",
             "title": "Tekken 8",
             "publisher": "Bandai Namco Entertainment",
@@ -2245,6 +2377,7 @@
             "mediaCount": 10
         },
         {
+            "id": 94,
             "slug": "stray",
             "title": "Stray",
             "publisher": "BlueTwelve",
@@ -2262,6 +2395,7 @@
             "mediaCount": 7
         },
         {
+            "id": 233,
             "slug": "food-delivery-sim",
             "title": "Food Delivery Simulator",
             "publisher": "Creative Assembly Sofia",
@@ -2279,6 +2413,7 @@
             "mediaCount": 7
         },
         {
+            "id": 130,
             "slug": "fuel-harvest-together",
             "title": "Fuel Harvest Together",
             "publisher": "Say2Sun",
@@ -2296,6 +2431,7 @@
             "mediaCount": 9
         },
         {
+            "id": 177,
             "slug": "drive-beyond-horizons",
             "title": "Drive Beyond Horizons",
             "publisher": "Tacty Studio",
@@ -2313,6 +2449,7 @@
             "mediaCount": 10
         },
         {
+            "id": 126,
             "slug": "internet-cafe-sim-1",
             "title": "Internet Cafe Simulator",
             "publisher": "Cheesecake Dev",
@@ -2330,6 +2467,7 @@
             "mediaCount": 9
         },
         {
+            "id": 99,
             "slug": "internet-cafe-sim-2",
             "title": "Internet Cafe Simulator 2",
             "publisher": "Cheesecake Dev",
@@ -2347,6 +2485,7 @@
             "mediaCount": 8
         },
         {
+            "id": 47,
             "slug": "house-flipper-2",
             "title": "House Flipper 2",
             "publisher": "Frozen District",
@@ -2364,6 +2503,7 @@
             "mediaCount": 8
         },
         {
+            "id": 184,
             "slug": "zoo-tycoon-1",
             "title": "Zoo Tycoon",
             "publisher": "Blue Fang Games",
@@ -2381,6 +2521,7 @@
             "mediaCount": 3
         },
         {
+            "id": 75,
             "slug": "pc-building-sim-1",
             "title": "PC Building Simulator",
             "publisher": "Claudiu Kiss",
@@ -2398,6 +2539,7 @@
             "mediaCount": 8
         },
         {
+            "id": 201,
             "slug": "pc-building-sim-2",
             "title": "PC Building Simulator 2",
             "publisher": "Claudiu Kiss",
@@ -2415,6 +2557,7 @@
             "mediaCount": 8
         },
         {
+            "id": 76,
             "slug": "food-truck-sim",
             "title": "Food Truck Simulator",
             "publisher": "Drago Entertainment",
@@ -2432,6 +2575,7 @@
             "mediaCount": 9
         },
         {
+            "id": 194,
             "slug": "mount-blade-sails",
             "title": "Mount & Blade: War Sails",
             "publisher": "TaleWorlds Entertainment",
@@ -2449,6 +2593,7 @@
             "mediaCount": 3
         },
         {
+            "id": 12,
             "slug": "red-alert-2-expansion",
             "title": "Red Alert 2 Expansion",
             "publisher": "EA Games",
@@ -2466,6 +2611,7 @@
             "mediaCount": 3
         },
         {
+            "id": 156,
             "slug": "neighbours-from-hell-1",
             "title": "Neighbours from Hell",
             "publisher": "JoWooD",
@@ -2483,6 +2629,7 @@
             "mediaCount": 2
         },
         {
+            "id": 2,
             "slug": "neighbours-from-hell-2",
             "title": "Neighbours from Hell 2",
             "publisher": "JoWooD",
@@ -2500,6 +2647,7 @@
             "mediaCount": 2
         },
         {
+            "id": 252,
             "slug": "sudden-strike-4",
             "title": "Sudden Strike 4",
             "publisher": "Kite Games",
@@ -2517,6 +2665,7 @@
             "mediaCount": 5
         },
         {
+            "id": 146,
             "slug": "stronghold-crusader",
             "title": "Stronghold Crusader",
             "publisher": "Firefly Studios",
@@ -2534,6 +2683,7 @@
             "mediaCount": 1
         },
         {
+            "id": 84,
             "slug": "stronghold-crusader-de",
             "title": "Stronghold Crusader: Definitive Edition",
             "publisher": "Firefly Studios",
@@ -2551,6 +2701,7 @@
             "mediaCount": 6
         },
         {
+            "id": 53,
             "slug": "stronghold-2",
             "title": "Stronghold 2",
             "publisher": "Firefly Studios",
@@ -2568,6 +2719,7 @@
             "mediaCount": 6
         },
         {
+            "id": 117,
             "slug": "uncharted",
             "title": "Uncharted: Legacy of Thieves Collection",
             "publisher": "Naughty Dog",
@@ -2585,6 +2737,7 @@
             "mediaCount": 6
         },
         {
+            "id": 8,
             "slug": "the-walking-dead-the-telltale-definitive-series",
             "title": "The Walking Dead: The Telltale Definitive Series",
             "publisher": "Telltale Games",
@@ -2602,6 +2755,7 @@
             "mediaCount": 5
         },
         {
+            "id": 109,
             "slug": "it-takes-two",
             "title": "It Takes Two",
             "publisher": "Heslight Studios",
@@ -2619,6 +2773,7 @@
             "mediaCount": 7
         },
         {
+            "id": 157,
             "slug": "days-gone",
             "title": "Days Gone",
             "publisher": "SCE Bend Studio",
@@ -2636,6 +2791,7 @@
             "mediaCount": 8
         },
         {
+            "id": 226,
             "slug": "adventures-of-robinson-crusoe",
             "title": "Adventures of Robinson Crusoe",
             "publisher": "MagicIndie Softworks",
@@ -2653,6 +2809,7 @@
             "mediaCount": 1
         },
         {
+            "id": 240,
             "slug": "crazy-taxi",
             "title": "Crazy Taxi",
             "publisher": "Sega",
@@ -2670,6 +2827,7 @@
             "mediaCount": 4
         },
         {
+            "id": 25,
             "slug": "alien-shooter",
             "title": "Alien Shooter",
             "publisher": "Sigma Team",
@@ -2687,6 +2845,7 @@
             "mediaCount": 4
         },
         {
+            "id": 42,
             "slug": "jazz-rabbit-1",
             "title": "Jazz Jackrabbit",
             "publisher": "Epic MegaGames",
@@ -2704,6 +2863,7 @@
             "mediaCount": 4
         },
         {
+            "id": 219,
             "slug": "ghost-recon-future-soldier",
             "title": "Tom Clancy's Ghost Recon: Future Soldier",
             "publisher": "Ubisoft",
@@ -2721,6 +2881,7 @@
             "mediaCount": 8
         },
         {
+            "id": 151,
             "slug": "ppt-5",
             "title": "Poppy Playtime Chapter 5",
             "publisher": "Mob Games",
@@ -2738,6 +2899,7 @@
             "mediaCount": 10
         },
         {
+            "id": 132,
             "slug": "little-nightmare-1",
             "title": "Little Nightmares",
             "publisher": "Bandai Namco",
@@ -2755,6 +2917,7 @@
             "mediaCount": 6
         },
         {
+            "id": 202,
             "slug": "enshrouded",
             "title": "Enshrouded",
             "publisher": "Keen Games",
@@ -2772,6 +2935,7 @@
             "mediaCount": 10
         },
         {
+            "id": 241,
             "slug": "god-of-war-3-ps3",
             "title": "God of War 3",
             "publisher": "Santa Monica Studio",
@@ -2789,6 +2953,7 @@
             "mediaCount": 6
         },
         {
+            "id": 152,
             "slug": "minecraft-ps3",
             "title": "Minecraft",
             "publisher": "Mojang Studios",
@@ -2806,6 +2971,7 @@
             "mediaCount": 6
         },
         {
+            "id": 232,
             "slug": "the-mortuary-assistant",
             "title": "The Mortuary Assistant",
             "publisher": "DarkStone Digital",
@@ -2823,6 +2989,7 @@
             "mediaCount": 7
         },
         {
+            "id": 246,
             "slug": "madison",
             "title": "MADison",
             "publisher": "Bloodious Games",
@@ -2840,6 +3007,7 @@
             "mediaCount": 4
         },
         {
+            "id": 195,
             "slug": "devotion",
             "title": "Devotion",
             "publisher": "Red Candle Games",
@@ -2857,6 +3025,7 @@
             "mediaCount": 1
         },
         {
+            "id": 20,
             "slug": "soma",
             "title": "SOMA",
             "publisher": "Frictional Games",
@@ -2874,6 +3043,7 @@
             "mediaCount": 7
         },
         {
+            "id": 50,
             "slug": "the-closing-shift",
             "title": "The Closing Shift",
             "publisher": "Chilla's Art",
@@ -2891,6 +3061,7 @@
             "mediaCount": 5
         },
         {
+            "id": 189,
             "slug": "dark-souls",
             "title": "Dark Souls",
             "publisher": "FromSoftware",
@@ -2908,6 +3079,7 @@
             "mediaCount": 10
         },
         {
+            "id": 160,
             "slug": "dark-souls-2",
             "title": "Dark Souls 2",
             "publisher": "FromSoftware",
@@ -2925,6 +3097,7 @@
             "mediaCount": 6
         },
         {
+            "id": 206,
             "slug": "tom-clancys-splinter-cell",
             "title": "Tom Clancy's Splinter Cell: Conviction",
             "publisher": "Ubisoft",
@@ -2942,6 +3115,7 @@
             "mediaCount": 6
         },
         {
+            "id": 213,
             "slug": "dragon-ball-sparking-zero",
             "title": "Dragon Ball Sparking Zero",
             "publisher": "Spike Chunsoft",
@@ -2959,6 +3133,7 @@
             "mediaCount": 7
         },
         {
+            "id": 28,
             "slug": "among-us",
             "title": "Among Us",
             "publisher": "Innersloth",
@@ -2976,6 +3151,7 @@
             "mediaCount": 2
         },
         {
+            "id": 26,
             "slug": "cod-va",
             "title": "Call of Duty: Vanguard",
             "publisher": "Activision",
@@ -2993,6 +3169,7 @@
             "mediaCount": 12
         },
         {
+            "id": 107,
             "slug": "total-overdose",
             "title": "Total Overdose",
             "publisher": "Deadline Games",
@@ -3010,6 +3187,7 @@
             "mediaCount": 2
         },
         {
+            "id": 137,
             "slug": "cod-bo6",
             "title": "Call of Duty: Black Ops 6",
             "publisher": "Activision",
@@ -3027,6 +3205,7 @@
             "mediaCount": 12
         },
         {
+            "id": 32,
             "slug": "cod-mw-2-2022",
             "title": "Call of Duty: Modern Warfare 2 - 2022",
             "publisher": "Activision",
@@ -3044,6 +3223,7 @@
             "mediaCount": 7
         },
         {
+            "id": 245,
             "slug": "cod-mw-3-2023",
             "title": "Call of Duty: Modern Warfare 3 - 2023",
             "publisher": "Activision",
@@ -3061,6 +3241,7 @@
             "mediaCount": 10
         },
         {
+            "id": 255,
             "slug": "cod-mw-4",
             "title": "Call of Duty: Modern Warfare 4",
             "publisher": "Activision",
@@ -3079,6 +3260,7 @@
             "createdAt": "2026-10-20T14:13:00Z"
         },
         {
+            "id": 141,
             "slug": "little-nightmare-2",
             "title": "Little Nightmares 2",
             "publisher": "Bandai Namco",
@@ -3097,6 +3279,7 @@
             "mediaCount": 7
         },
         {
+            "id": 139,
             "slug": "detroit",
             "title": "Detroit: Become Human",
             "publisher": "Quantic Dream",
@@ -3114,6 +3297,7 @@
             "mediaCount": 9
         },
         {
+            "id": 4,
             "slug": "the-outlast-trials",
             "title": "The Outlast Trials",
             "publisher": "Red Barrels",
@@ -3131,6 +3315,7 @@
             "mediaCount": 14
         },
         {
+            "id": 230,
             "slug": "tomb-raider-2013",
             "title": "Tomb Raider - 2013",
             "publisher": "Square Enix",
@@ -3148,6 +3333,7 @@
             "mediaCount": 7
         },
         {
+            "id": 223,
             "slug": "rise-of-the-tomb-raider-2015",
             "title": "Rise of the Tomb Raider - 2015",
             "publisher": "Square Enix",
@@ -3165,6 +3351,7 @@
             "mediaCount": 7
         },
         {
+            "id": 58,
             "slug": "shadow-of-the-tomb-raider-2018",
             "title": "Shadow of the Tomb Raider - 2018",
             "publisher": "Square Enix",
@@ -3182,6 +3369,7 @@
             "mediaCount": 15
         },
         {
+            "id": 209,
             "slug": "inzoi",
             "title": "inZOI",
             "publisher": "Krafton",
@@ -3199,6 +3387,7 @@
             "mediaCount": 10
         },
         {
+            "id": 1,
             "slug": "crisol-theater-of-idols",
             "title": "Crisol: Theater of Idols",
             "publisher": "Vermila Studios",
@@ -3216,6 +3405,7 @@
             "mediaCount": 6
         },
         {
+            "id": 231,
             "slug": "sunkenland",
             "title": "Sunkenland",
             "publisher": "Vector3 Studio",
@@ -3233,6 +3423,7 @@
             "mediaCount": 12
         },
         {
+            "id": 188,
             "slug": "ark",
             "title": "ARK: Survival Evolved",
             "publisher": "Studio Wildcard",
@@ -3250,6 +3441,7 @@
             "mediaCount": 18
         },
         {
+            "id": 144,
             "slug": "minecraft-bedrock",
             "title": "Minecraft: Bedrock Edition",
             "publisher": "Mojang Studios",
@@ -3267,6 +3459,7 @@
             "mediaCount": 9
         },
         {
+            "id": 23,
             "slug": "hitman-codename-47",
             "title": "Hitman: Codename 47",
             "publisher": "IO Interactive",
@@ -3284,6 +3477,7 @@
             "mediaCount": 5
         },
         {
+            "id": 211,
             "slug": "hitman-2",
             "title": "Hitman 2: Silent Assassin",
             "publisher": "IO Interactive",
@@ -3301,6 +3495,7 @@
             "mediaCount": 9
         },
         {
+            "id": 59,
             "slug": "crimson-desert",
             "title": "Crimson Desert",
             "publisher": "Pearl Abyss",
@@ -3318,6 +3513,7 @@
             "mediaCount": 14
         },
         {
+            "id": 27,
             "slug": "microsoft-flight-simulator",
             "title": "Microsoft Flight Simulator",
             "publisher": "Microsoft",
@@ -3335,6 +3531,7 @@
             "mediaCount": 14
         },
         {
+            "id": 52,
             "slug": "black-myth-Wukong",
             "title": "Black Myth: Wukong",
             "publisher": "Game Science",
@@ -3352,6 +3549,7 @@
             "mediaCount": 7
         },
         {
+            "id": 71,
             "slug": "duke-nukem-forever",
             "title": "Duke Nukem Forever",
             "publisher": "Gearbox Software",
@@ -3369,6 +3567,7 @@
             "mediaCount": 6
         },
         {
+            "id": 208,
             "slug": "spider-man-shattered-dimensions",
             "title": "Spider-Man: Shattered Dimensions",
             "publisher": "Beenox",
@@ -3386,6 +3585,7 @@
             "mediaCount": 7
         },
         {
+            "id": 239,
             "slug": "assetto-corsa-competizione",
             "title": "Assetto Corsa Competizione",
             "publisher": "Kunos Simulazioni",
@@ -3403,6 +3603,7 @@
             "mediaCount": 11
         },
         {
+            "id": 114,
             "slug": "clair-obscur-expedition-33",
             "title": "Clair Obscur Expedition 33",
             "publisher": "Sandfall Interactive",
@@ -3420,6 +3621,7 @@
             "mediaCount": 13
         },
         {
+            "id": 214,
             "slug": "the-sims-4",
             "title": "The Sims 4",
             "publisher": "Electronic Arts",
@@ -3437,6 +3639,7 @@
             "mediaCount": 8
         },
         {
+            "id": 65,
             "slug": "broken-arrow",
             "title": "Broken Arrow",
             "publisher": "Steel Balalaika Studio",
@@ -3454,6 +3657,7 @@
             "mediaCount": 8
         },
         {
+            "id": 69,
             "slug": "the-matrix-path-of-neo",
             "title": "The Matrix: Path of Neo",
             "publisher": "Warner Bros. Interactive Entertainment",
@@ -3471,6 +3675,7 @@
             "mediaCount": 4
         },
         {
+            "id": 90,
             "slug": "heavy-rain",
             "title": "Heavy Rain",
             "publisher": "Quantic Dream",
@@ -3488,6 +3693,7 @@
             "mediaCount": 5
         },
         {
+            "id": 125,
             "slug": "beyond-two-souls",
             "title": "Beyond: Two Souls",
             "publisher": "Quantic Dream",
@@ -3505,6 +3711,7 @@
             "mediaCount": 6
         },
         {
+            "id": 49,
             "slug": "portal-2",
             "title": "Portal 2",
             "publisher": "Valve",
@@ -3522,6 +3729,7 @@
             "mediaCount": 6
         },
         {
+            "id": 3,
             "slug": "nfs-the-run",
             "title": "Need For Speed: The Run",
             "publisher": "Electronic Arts",
@@ -3539,6 +3747,7 @@
             "mediaCount": 4
         },
         {
+            "id": 118,
             "slug": "limbo",
             "title": "Limbo",
             "publisher": "Playdead",
@@ -3556,6 +3765,7 @@
             "mediaCount": 3
         },
         {
+            "id": 79,
             "slug": "dead-space-1",
             "title": "Dead Space 1",
             "publisher": "Electronic Arts",
@@ -3573,6 +3783,7 @@
             "mediaCount": 6
         },
         {
+            "id": 212,
             "slug": "dead-space-2",
             "title": "Dead Space 2",
             "publisher": "Electronic Arts",
@@ -3590,6 +3801,7 @@
             "mediaCount": 6
         },
         {
+            "id": 135,
             "slug": "dead-space-3",
             "title": "Dead Space 3",
             "publisher": "Electronic Arts",
@@ -3607,6 +3819,7 @@
             "mediaCount": 6
         },
         {
+            "id": 122,
             "slug": "mortal-kombat-4",
             "title": "Mortal Kombat 4",
             "publisher": "NetherRealm Studios",
@@ -3624,6 +3837,7 @@
             "mediaCount": 2
         },
         {
+            "id": 244,
             "slug": "mortal-kombat-x",
             "title": "Mortal Kombat X",
             "publisher": "NetherRealm Studios",
@@ -3641,6 +3855,7 @@
             "mediaCount": 6
         },
         {
+            "id": 159,
             "slug": "mortal-kombat-11",
             "title": "Mortal Kombat 11",
             "publisher": "NetherRealm Studios",
@@ -3658,6 +3873,7 @@
             "mediaCount": 9
         },
         {
+            "id": 198,
             "slug": "mortal-kombat-1",
             "title": "Mortal Kombat 1",
             "publisher": "NetherRealm Studios",
@@ -3675,6 +3891,7 @@
             "mediaCount": 10
         },
         {
+            "id": 16,
             "slug": "the-forest",
             "title": "The Forest",
             "publisher": "Endnight Games",
@@ -3692,6 +3909,7 @@
             "mediaCount": 6
         },
         {
+            "id": 185,
             "slug": "stranded-deep",
             "title": "Stranded Deep",
             "publisher": "Beam Team",
@@ -3709,6 +3927,7 @@
             "mediaCount": 8
         },
         {
+            "id": 229,
             "slug": "green-hell",
             "title": "Green Hell",
             "publisher": "Creepy Jar",
@@ -3726,6 +3945,7 @@
             "mediaCount": 9
         },
         {
+            "id": 93,
             "slug": "raft",
             "title": "Raft",
             "publisher": "Redbeet Interactive",
@@ -3743,6 +3963,7 @@
             "mediaCount": 10
         },
         {
+            "id": 73,
             "slug": "valheim",
             "title": "Valheim",
             "publisher": "Iron Gate Games",
@@ -3760,6 +3981,7 @@
             "mediaCount": 16
         },
         {
+            "id": 192,
             "slug": "subnautica",
             "title": "Subnautica",
             "publisher": "Unknown Worlds",
@@ -3777,6 +3999,7 @@
             "mediaCount": 8
         },
         {
+            "id": 220,
             "slug": "euro-truck-2-simulator",
             "title": "Euro Truck Simulator 2",
             "publisher": "SCS Software",
@@ -3794,6 +4017,7 @@
             "mediaCount": 8
         },
         {
+            "id": 104,
             "slug": "hollow-knight",
             "title": "Hollow Knight",
             "publisher": "Team Cherry",
@@ -3811,6 +4035,7 @@
             "mediaCount": 6
         },
         {
+            "id": 67,
             "slug": "hollow-knight-silksong",
             "title": "Hollow Knight: Silksong",
             "publisher": "Team Cherry",
@@ -3828,6 +4053,7 @@
             "mediaCount": 8
         },
         {
+            "id": 97,
             "slug": "inside",
             "title": "INSIDE",
             "publisher": "Playdead",
@@ -3845,6 +4071,7 @@
             "mediaCount": 11
         },
         {
+            "id": 165,
             "slug": "cairo-metro-remastered",
             "title": "Cairo Metro Remastered",
             "publisher": "Twin Verse",
@@ -3862,6 +4089,7 @@
             "mediaCount": 5
         },
         {
+            "id": 17,
             "slug": "koshary-simulator",
             "title": "Koshary Simulator",
             "publisher": "Twin Verse",
@@ -3879,6 +4107,7 @@
             "mediaCount": 6
         },
         {
+            "id": 183,
             "slug": "liars-bar",
             "title": "Liar's Bar",
             "publisher": "Curve Animation",
@@ -3896,6 +4125,7 @@
             "mediaCount": 11
         },
         {
+            "id": 123,
             "slug": "phasmophobia",
             "title": "Phasmophobia",
             "publisher": "Kinetic Games",
@@ -3913,6 +4143,7 @@
             "mediaCount": 16
         },
         {
+            "id": 54,
             "slug": "bright-memory",
             "title": "Bright Memory",
             "publisher": "FYQD Studio",
@@ -3930,6 +4161,7 @@
             "mediaCount": 8
         },
         {
+            "id": 167,
             "slug": "bright-memory-inf",
             "title": "Bright Memory: Infinite",
             "publisher": "FYQD Studio",
@@ -3947,6 +4179,7 @@
             "mediaCount": 14
         },
         {
+            "id": 153,
             "slug": "bully",
             "title": "Bully: Scholarship Edition",
             "publisher": "Rockstar Games",
@@ -3964,6 +4197,7 @@
             "mediaCount": 6
         },
         {
+            "id": 172,
             "slug": "resident-evil-hd-remaster",
             "title": "Resident Evil HD Remaster",
             "publisher": "Capcom",
@@ -3981,6 +4215,7 @@
             "mediaCount": 3
         },
         {
+            "id": 191,
             "slug": "resident-evil-2",
             "title": "Resident Evil 2",
             "publisher": "Capcom",
@@ -3998,6 +4233,7 @@
             "mediaCount": 16
         },
         {
+            "id": 169,
             "slug": "resident-evil-3",
             "title": "Resident Evil 3",
             "publisher": "Capcom",
@@ -4015,6 +4251,7 @@
             "mediaCount": 8
         },
         {
+            "id": 61,
             "slug": "resident-evil-4",
             "title": "Resident Evil 4",
             "publisher": "Capcom",
@@ -4032,6 +4269,7 @@
             "mediaCount": 7
         },
         {
+            "id": 44,
             "slug": "resident-evil-5",
             "title": "Resident Evil 5",
             "publisher": "Capcom",
@@ -4049,6 +4287,7 @@
             "mediaCount": 4
         },
         {
+            "id": 247,
             "slug": "resident-evil-6",
             "title": "Resident Evil 6",
             "publisher": "Capcom",
@@ -4066,6 +4305,7 @@
             "mediaCount": 8
         },
         {
+            "id": 13,
             "slug": "resident-evil-village",
             "title": "Resident Evil Village",
             "publisher": "Capcom",
@@ -4083,6 +4323,7 @@
             "mediaCount": 15
         },
         {
+            "id": 81,
             "slug": "pragmata",
             "title": "Pragmata",
             "publisher": "Capcom",
@@ -4100,6 +4341,7 @@
             "mediaCount": 12
         },
         {
+            "id": 251,
             "slug": "horizon-forbidden-west",
             "title": "Horizon Forbidden West",
             "publisher": "Guerrilla Games",
@@ -4117,6 +4359,7 @@
             "mediaCount": 10
         },
         {
+            "id": 210,
             "slug": "forza-horizon-6",
             "title": "Forza Horizon 6",
             "publisher": "Playground Games",
@@ -4134,6 +4377,7 @@
             "mediaCount": 14
         },
         {
+            "id": 145,
             "slug": "death-stranding-1",
             "title": "Death Stranding 1",
             "publisher": "Kojima Productions",
@@ -4151,6 +4395,7 @@
             "mediaCount": 15
         },
         {
+            "id": 207,
             "slug": "death-stranding-2",
             "title": "Death Stranding 2: On The Beach",
             "publisher": "Kojima Productions",
@@ -4168,6 +4413,7 @@
             "mediaCount": 18
         },
         {
+            "id": 11,
             "slug": "batman-arkham-knight",
             "title": "Batman: Arkham Knight",
             "publisher": "Rocksteady Studios",
@@ -4185,6 +4431,7 @@
             "mediaCount": 11
         },
         {
+            "id": 227,
             "slug": "batman-arkham-asylum",
             "title": "Batman: Arkham Asylum",
             "publisher": "Rocksteady Studios",
@@ -4202,6 +4449,7 @@
             "mediaCount": 7
         },
         {
+            "id": 29,
             "slug": "batman-arkham-origins",
             "title": "Batman: Arkham Origins",
             "publisher": "Rocksteady Studios",
@@ -4219,6 +4467,7 @@
             "mediaCount": 12
         },
         {
+            "id": 60,
             "slug": "warcraft3-reforged",
             "title": "Warcraft 3: Reforged",
             "publisher": "Blizzard Entertainment",
@@ -4236,6 +4485,7 @@
             "mediaCount": 9
         },
         {
+            "id": 46,
             "slug": "retro-rewind-simulator",
             "title": "Retro Rewind Simulator",
             "publisher": "Retro Rewind",
@@ -4253,6 +4503,7 @@
             "mediaCount": 12
         },
         {
+            "id": 176,
             "slug": "nine-sols",
             "title": "Nine Sols",
             "publisher": "Amanita Design",
@@ -4270,6 +4521,7 @@
             "mediaCount": 11
         },
         {
+            "id": 72,
             "slug": "ready-or-not",
             "title": "Ready or Not",
             "publisher": "VOID Interactive",
@@ -4287,6 +4539,7 @@
             "mediaCount": 10
         },
         {
+            "id": 92,
             "slug": "a-way-out",
             "title": "A Way Out",
             "publisher": "Hazelight Studios",
@@ -4304,6 +4557,7 @@
             "mediaCount": 9
         },
         {
+            "id": 38,
             "slug": "goat-simulator-3",
             "title": "Goat Simulator 3",
             "publisher": "Coffee Stain Studios",
@@ -4321,6 +4575,7 @@
             "mediaCount": 11
         },
         {
+            "id": 193,
             "slug": "fallout-3",
             "title": "Fallout 3",
             "publisher": "Bethesda Softworks",
