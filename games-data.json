@@ -20,7 +20,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Multiplayer"
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
@@ -42,7 +43,8 @@
             "mediaCount": 4,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -65,7 +67,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Multiplayer"
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
@@ -87,7 +90,9 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
@@ -109,7 +114,9 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
@@ -132,7 +139,9 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
