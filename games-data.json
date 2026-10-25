@@ -21,7 +21,10 @@
                 "Action",
                 "Adventure",
                 "Multiplayer",
-                "Open World"
+                "Open World",
+                "Racing",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -44,7 +47,10 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Open World"
+                "Open World",
+                "Racing",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -68,7 +74,10 @@
                 "Action",
                 "Adventure",
                 "Multiplayer",
-                "Open World"
+                "Open World",
+                "Racing",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -92,7 +101,10 @@
                 "Action",
                 "Adventure",
                 "Multiplayer",
-                "Open World"
+                "Open World",
+                "Racing",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -116,7 +128,10 @@
                 "Action",
                 "Adventure",
                 "Multiplayer",
-                "Open World"
+                "Open World",
+                "Racing",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -164,7 +179,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -187,7 +203,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -210,7 +227,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -233,7 +251,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -256,7 +275,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -279,7 +299,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -303,7 +324,8 @@
                 "Action",
                 "RPG",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -327,7 +349,8 @@
                 "Action",
                 "RPG",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -351,7 +374,8 @@
                 "Action",
                 "RPG",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -374,7 +398,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -397,7 +422,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Platformer"
             ]
         },
         {
@@ -420,7 +446,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Platformer"
             ]
         },
         {
@@ -443,7 +470,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Platformer"
             ]
         },
         {
@@ -466,7 +494,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -489,7 +518,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -513,7 +543,8 @@
                 "Action",
                 "RPG",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -536,7 +567,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -559,7 +591,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -629,7 +662,8 @@
                 "Action",
                 "Shooter",
                 "RPG",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -696,7 +730,10 @@
             "gameTypes": [
                 "Action",
                 "Horror",
-                "Survival"
+                "Survival",
+                "Co-op",
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
@@ -720,7 +757,9 @@
                 "Action",
                 "Horror",
                 "Co-op",
-                "Survival"
+                "Survival",
+                "Open World",
+                "RPG"
             ]
         },
         {
@@ -742,7 +781,8 @@
             "mediaCount": 13,
             "gameTypes": [
                 "Action",
-                "RPG"
+                "RPG",
+                "Open World"
             ]
         },
         {
@@ -766,7 +806,8 @@
                 "Action",
                 "Shooter",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -790,7 +831,8 @@
                 "Action",
                 "Shooter",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -814,7 +856,8 @@
                 "Action",
                 "Shooter",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -838,7 +881,8 @@
                 "Action",
                 "Shooter",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -862,7 +906,8 @@
                 "Action",
                 "Shooter",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -886,7 +931,8 @@
                 "Action",
                 "Shooter",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -909,7 +955,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -955,7 +1002,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Horror"
+                "Horror",
+                "Shooter"
             ]
         },
         {
@@ -978,7 +1026,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Horror"
+                "Horror",
+                "Shooter"
             ]
         },
         {
@@ -1002,7 +1051,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Horror"
             ]
         },
         {
@@ -1026,7 +1076,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Horror"
             ]
         },
         {
@@ -1048,7 +1099,9 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World",
+                "Racing"
             ]
         },
         {
@@ -1070,7 +1123,9 @@
             "mediaCount": 3,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World",
+                "Shooter"
             ]
         },
         {
@@ -1092,7 +1147,9 @@
             "mediaCount": 5,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World",
+                "Shooter"
             ]
         },
         {
@@ -1161,7 +1218,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter",
-                "Adventure"
+                "Adventure",
+                "Multiplayer"
             ]
         },
         {
@@ -1183,7 +1241,10 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -1205,7 +1266,10 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World",
+                "Sandbox",
+                "Shooter"
             ]
         },
         {
@@ -1227,7 +1291,9 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Fighting",
+                "Open World"
             ]
         },
         {
@@ -1249,7 +1315,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1271,7 +1338,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1293,7 +1361,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1315,7 +1384,8 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1337,7 +1407,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1361,7 +1432,9 @@
                 "Action",
                 "Adventure",
                 "Horror",
-                "Survival"
+                "Survival",
+                "Shooter",
+                "Stealth"
             ]
         },
         {
@@ -1385,7 +1458,9 @@
                 "Action",
                 "Adventure",
                 "Horror",
-                "Survival"
+                "Survival",
+                "Shooter",
+                "Stealth"
             ]
         },
         {
@@ -1454,7 +1529,8 @@
             "gameTypes": [
                 "Action",
                 "RPG",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1476,7 +1552,8 @@
             "mediaCount": 5,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -1499,7 +1576,9 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World",
+                "Shooter"
             ]
         },
         {
@@ -1522,7 +1601,9 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World",
+                "Shooter"
             ]
         },
         {
@@ -1545,7 +1626,9 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World",
+                "Shooter"
             ]
         },
         {
@@ -1592,7 +1675,8 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1636,7 +1720,8 @@
             "mediaCount": 4,
             "gameTypes": [
                 "Racing",
-                "Multiplayer"
+                "Multiplayer",
+                "Arcade"
             ]
         },
         {
@@ -1658,7 +1743,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1681,7 +1767,9 @@
             "gameTypes": [
                 "Racing",
                 "Multiplayer",
-                "Simulation"
+                "Simulation",
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1704,7 +1792,9 @@
             "gameTypes": [
                 "Racing",
                 "Multiplayer",
-                "Simulation"
+                "Simulation",
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1727,7 +1817,9 @@
             "gameTypes": [
                 "Racing",
                 "Multiplayer",
-                "Simulation"
+                "Simulation",
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1749,7 +1841,8 @@
             "mediaCount": 7,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1793,7 +1886,8 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1815,7 +1909,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1859,7 +1954,8 @@
             "mediaCount": 3,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -1903,7 +1999,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Racing",
-                "Arcade"
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -3164,7 +3261,8 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Simulation",
-                "Management"
+                "Management",
+                "Sandbox"
             ]
         },
         {
@@ -3274,7 +3372,9 @@
             "mediaCount": 3,
             "gameTypes": [
                 "Action",
-                "RPG"
+                "RPG",
+                "Open World",
+                "Strategy"
             ]
         },
         {
@@ -3408,7 +3508,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Strategy"
+                "Strategy",
+                "Multiplayer"
             ]
         },
         {
@@ -3430,7 +3531,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Strategy"
+                "Strategy",
+                "Multiplayer"
             ]
         },
         {
@@ -3452,7 +3554,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Shooter"
             ]
         },
         {
@@ -3499,7 +3602,8 @@
                 "Adventure",
                 "Multiplayer",
                 "Co-op",
-                "Puzzle"
+                "Puzzle",
+                "Platformer"
             ]
         },
         {
@@ -3522,7 +3626,9 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Survival"
+                "Survival",
+                "Open World",
+                "Shooter"
             ]
         },
         {
@@ -3544,7 +3650,8 @@
             "mediaCount": 1,
             "gameTypes": [
                 "Adventure",
-                "Puzzle"
+                "Puzzle",
+                "Survival"
             ]
         },
         {
@@ -3634,7 +3741,9 @@
             "gameTypes": [
                 "Action",
                 "Shooter",
-                "Stealth"
+                "Stealth",
+                "Co-op",
+                "Multiplayer"
             ]
         },
         {
@@ -3656,7 +3765,8 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Horror",
-                "Adventure"
+                "Adventure",
+                "Puzzle"
             ]
         },
         {
@@ -3679,7 +3789,8 @@
             "gameTypes": [
                 "Horror",
                 "Adventure",
-                "Platformer"
+                "Platformer",
+                "Puzzle"
             ]
         },
         {
@@ -3704,7 +3815,9 @@
                 "RPG",
                 "Multiplayer",
                 "Co-op",
-                "Survival"
+                "Survival",
+                "Open World",
+                "Sandbox"
             ]
         },
         {
@@ -3752,7 +3865,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Survival",
-                "Sandbox"
+                "Sandbox",
+                "Open World"
             ]
         },
         {
@@ -3796,7 +3910,8 @@
             "mediaCount": 4,
             "gameTypes": [
                 "Horror",
-                "Adventure"
+                "Adventure",
+                "Puzzle"
             ]
         },
         {
@@ -3818,7 +3933,8 @@
             "mediaCount": 1,
             "gameTypes": [
                 "Horror",
-                "Adventure"
+                "Adventure",
+                "Puzzle"
             ]
         },
         {
@@ -3840,7 +3956,8 @@
             "mediaCount": 7,
             "gameTypes": [
                 "Horror",
-                "Adventure"
+                "Adventure",
+                "Puzzle"
             ]
         },
         {
@@ -3929,7 +4046,9 @@
             "gameTypes": [
                 "Action",
                 "Shooter",
-                "Stealth"
+                "Stealth",
+                "Co-op",
+                "Multiplayer"
             ]
         },
         {
@@ -4135,7 +4254,8 @@
             "gameTypes": [
                 "Horror",
                 "Adventure",
-                "Platformer"
+                "Platformer",
+                "Puzzle"
             ]
         },
         {
@@ -4181,7 +4301,8 @@
                 "Horror",
                 "Shooter",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Survival"
             ]
         },
         {
@@ -4203,7 +4324,10 @@
             "mediaCount": 7,
             "gameTypes": [
                 "Adventure",
-                "Action"
+                "Action",
+                "Platformer",
+                "Puzzle",
+                "Shooter"
             ]
         },
         {
@@ -4225,7 +4349,10 @@
             "mediaCount": 7,
             "gameTypes": [
                 "Adventure",
-                "Action"
+                "Action",
+                "Platformer",
+                "Puzzle",
+                "Shooter"
             ]
         },
         {
@@ -4247,7 +4374,10 @@
             "mediaCount": 15,
             "gameTypes": [
                 "Adventure",
-                "Action"
+                "Action",
+                "Platformer",
+                "Puzzle",
+                "Shooter"
             ]
         },
         {
@@ -4269,7 +4399,9 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Simulation",
-                "Management"
+                "Management",
+                "Life Simulation",
+                "Sandbox"
             ]
         },
         {
@@ -4314,7 +4446,9 @@
             "gameTypes": [
                 "Survival",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Open World",
+                "Sandbox"
             ]
         },
         {
@@ -4338,7 +4472,9 @@
                 "Survival",
                 "RPG",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Open World",
+                "Sandbox"
             ]
         },
         {
@@ -4362,7 +4498,8 @@
                 "Survival",
                 "Multiplayer",
                 "Co-op",
-                "Sandbox"
+                "Sandbox",
+                "Open World"
             ]
         },
         {
@@ -4384,7 +4521,8 @@
             "mediaCount": 5,
             "gameTypes": [
                 "Stealth",
-                "Shooter"
+                "Shooter",
+                "Action"
             ]
         },
         {
@@ -4406,7 +4544,8 @@
             "mediaCount": 9,
             "gameTypes": [
                 "Action",
-                "Stealth"
+                "Stealth",
+                "Shooter"
             ]
         },
         {
@@ -4429,7 +4568,8 @@
             "gameTypes": [
                 "RPG",
                 "Action",
-                "Open World"
+                "Open World",
+                "Adventure"
             ]
         },
         {
@@ -4517,7 +4657,8 @@
             "mediaCount": 7,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Platformer"
             ]
         },
         {
@@ -4539,7 +4680,8 @@
             "mediaCount": 11,
             "gameTypes": [
                 "Racing",
-                "Simulation"
+                "Simulation",
+                "Multiplayer"
             ]
         },
         {
@@ -4584,7 +4726,8 @@
             "gameTypes": [
                 "Simulation",
                 "Life Simulation",
-                "Management"
+                "Management",
+                "Sandbox"
             ]
         },
         {
@@ -4628,7 +4771,8 @@
             "mediaCount": 4,
             "gameTypes": [
                 "Action",
-                "Shooter"
+                "Shooter",
+                "Fighting"
             ]
         },
         {
@@ -4694,7 +4838,9 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Puzzle",
-                "Adventure"
+                "Adventure",
+                "Co-op",
+                "Platformer"
             ]
         },
         {
@@ -4761,7 +4907,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Horror",
-                "Shooter"
+                "Shooter",
+                "Survival"
             ]
         },
         {
@@ -4783,7 +4930,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Horror",
-                "Shooter"
+                "Shooter",
+                "Survival"
             ]
         },
         {
@@ -4805,7 +4953,10 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Horror",
-                "Shooter"
+                "Shooter",
+                "Co-op",
+                "Multiplayer",
+                "Survival"
             ]
         },
         {
@@ -4917,7 +5068,9 @@
                 "Survival",
                 "Horror",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Open World",
+                "Sandbox"
             ]
         },
         {
@@ -4940,7 +5093,8 @@
             "gameTypes": [
                 "Survival",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Open World"
             ]
         },
         {
@@ -4963,7 +5117,8 @@
             "gameTypes": [
                 "Survival",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Open World"
             ]
         },
         {
@@ -4986,7 +5141,9 @@
             "gameTypes": [
                 "Survival",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Adventure",
+                "Sandbox"
             ]
         },
         {
@@ -5010,7 +5167,9 @@
                 "Survival",
                 "RPG",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Open World",
+                "Sandbox"
             ]
         },
         {
@@ -5033,7 +5192,9 @@
             "gameTypes": [
                 "Survival",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -5055,7 +5216,9 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Simulation",
-                "Management"
+                "Management",
+                "Multiplayer",
+                "Open World"
             ]
         },
         {
@@ -5077,7 +5240,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Adventure",
-                "Platformer"
+                "Platformer",
+                "Action"
             ]
         },
         {
@@ -5099,7 +5263,8 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Adventure",
-                "Platformer"
+                "Platformer",
+                "Action"
             ]
         },
         {
@@ -5277,7 +5442,8 @@
             "mediaCount": 6,
             "gameTypes": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Open World"
             ]
         },
         {
@@ -5484,7 +5650,9 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Adventure",
-                "RPG"
+                "RPG",
+                "Action",
+                "Open World"
             ]
         },
         {
@@ -5507,7 +5675,9 @@
             "gameTypes": [
                 "Racing",
                 "Multiplayer",
-                "Simulation"
+                "Simulation",
+                "Arcade",
+                "Open World"
             ]
         },
         {
@@ -5529,7 +5699,8 @@
             "mediaCount": 15,
             "gameTypes": [
                 "Adventure",
-                "Action"
+                "Action",
+                "Open World"
             ]
         },
         {
@@ -5551,7 +5722,8 @@
             "mediaCount": 18,
             "gameTypes": [
                 "Adventure",
-                "Action"
+                "Action",
+                "Open World"
             ]
         },
         {
@@ -5574,7 +5746,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -5620,7 +5793,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure",
-                "Stealth"
+                "Stealth",
+                "Open World"
             ]
         },
         {
@@ -5645,7 +5819,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Strategy",
-                "Survival"
+                "Survival",
+                "RPG"
             ]
         },
         {
@@ -5689,7 +5864,8 @@
             "mediaCount": 11,
             "gameTypes": [
                 "Adventure",
-                "Platformer"
+                "Platformer",
+                "Action"
             ]
         },
         {
@@ -5711,7 +5887,10 @@
             "mediaCount": 10,
             "gameTypes": [
                 "Action",
-                "Shooter"
+                "Shooter",
+                "Co-op",
+                "Multiplayer",
+                "Stealth"
             ]
         },
         {
@@ -5734,7 +5913,8 @@
             "gameTypes": [
                 "Adventure",
                 "Multiplayer",
-                "Co-op"
+                "Co-op",
+                "Action"
             ]
         },
         {
@@ -5756,7 +5936,9 @@
             "mediaCount": 11,
             "gameTypes": [
                 "Simulation",
-                "Sandbox"
+                "Sandbox",
+                "Co-op",
+                "Multiplayer"
             ]
         },
         {
@@ -5779,7 +5961,10 @@
             "createdAt": "2026-10-17T00:30:00Z",
             "gameTypes": [
                 "RPG",
-                "Survival"
+                "Survival",
+                "Action",
+                "Open World",
+                "Shooter"
             ]
         }
     ]
