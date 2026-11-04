@@ -4400,7 +4400,6 @@
             "gameTypes": [
                 "Simulation",
                 "Management",
-                "Life Simulation",
                 "Sandbox"
             ]
         },
@@ -4725,7 +4724,6 @@
             "mediaCount": 8,
             "gameTypes": [
                 "Simulation",
-                "Life Simulation",
                 "Management",
                 "Sandbox"
             ]
