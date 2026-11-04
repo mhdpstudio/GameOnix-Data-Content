@@ -618,5 +618,43 @@
                 "stock": true
             }
         ]
+    },
+    {
+        "type": "Gift Cards",
+        "id": "discord-membership-gift-cards",
+        "gift": true,
+        "name": "Discord Membership Gift Cards",
+        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/discord.webp",
+        "able": true,
+        "kind": "gift-card",
+        "packs": [
+            {
+                "title": "Nitro Basic Monthly",
+                "price": "319.06",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/discord.webp",
+                "discoverSection": "Cards",
+                "type": "Nitro",
+                "popular": false,
+                "stock": true
+            },
+            {
+                "title": "Nitro Monthly",
+                "price": "638.76",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/discord.webp",
+                "discoverSection": "Cards",
+                "type": "Nitro",
+                "popular": false,
+                "stock": true
+            },
+            {
+                "title": "Nitro Yearly",
+                "price": "6393.36",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/discord.webp",
+                "discoverSection": "Cards",
+                "type": "Nitro",
+                "popular": false,
+                "stock": true
+            }
+        ]
     }
 ]
