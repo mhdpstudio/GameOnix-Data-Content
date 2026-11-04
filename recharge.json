@@ -511,5 +511,66 @@
                 "popular": true
             }
         ]
+    },
+    {
+        "type": "Gift Cards",
+        "id": "xbox-gift-cards",
+        "gift": true,
+        "name": "Xbox Gift Cards",
+        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/xbox.webp",
+        "able": true,
+        "kind": "gift-card",
+        "packs": [
+            {
+                "title": "10",
+                "price": "594.64",
+                "oldPrice": "639.40",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/10dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true,
+                "stock": true
+            },
+            {
+                "title": "15",
+                "price": "891.96",
+                "oldPrice": "959.10",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/xbox.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false,
+                "stock": true
+            },
+            {
+                "title": "20",
+                "price": "1189.28",
+                "oldPrice": "1278.80",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/20dol.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true,
+                "stock": true
+            },
+            {
+                "title": "25",
+                "price": "1486.61",
+                "oldPrice": "1598.50",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/xbox.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false,
+                "stock": true
+            },
+            {
+                "title": "50",
+                "price": "2973.21",
+                "oldPrice": "3197.00",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/50dol.webp",
+                "popular": false,
+                "stock": true
+            }
+        ]
     }
 ]
