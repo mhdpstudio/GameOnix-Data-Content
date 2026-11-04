@@ -12,6 +12,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/50.webp",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "popular": false
             },
             {
@@ -20,6 +21,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/100.webp",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "popular": false
             },
             {
@@ -29,6 +31,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/210.webp",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "popular": true
             },
             {
@@ -37,6 +40,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/310.webp",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "popular": false
             },
             {
@@ -46,6 +50,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/520.webp",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "popular": true
             },
             {
@@ -53,6 +58,7 @@
                 "price": "525.00",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/1060.webp",
                 "popular": false
             },
@@ -63,6 +69,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/free_fire/2200.webp",
                 "discoverSection": "Games",
                 "type": "Diamonds",
+                "stock": true,
                 "popular": true
             }
         ]
@@ -80,6 +87,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/60.webp",
                 "discoverSection": "Games",
                 "type": "UC",
+                "stock": true,
                 "popular": false
             },
             {
@@ -88,6 +96,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/300.webp",
                 "discoverSection": "Games",
                 "type": "UC",
+                "stock": true,
                 "popular": true
             },
             {
@@ -96,6 +105,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/600.webp",
                 "discoverSection": "Games",
                 "type": "UC",
+                "stock": true,
                 "popular": false
             },
             {
@@ -104,6 +114,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/1500.webp",
                 "discoverSection": "Games",
                 "type": "UC",
+                "stock": true,
                 "popular": true
             },
             {
@@ -112,6 +123,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/3000.webp",
                 "discoverSection": "Games",
                 "type": "UC",
+                "stock": true,
                 "popular": true
             },
             {
@@ -120,6 +132,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/6000.webp",
                 "discoverSection": "Games",
                 "type": "UC",
+                "stock": true,
                 "popular": true
             }
         ]
@@ -137,6 +150,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/475.webp",
                 "discoverSection": "Games",
                 "type": "VP",
+                "stock": true,
                 "popular": false
             },
             {
@@ -146,6 +160,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/1000.webp",
                 "discoverSection": "Games",
                 "type": "VP",
+                "stock": true,
                 "popular": true
             },
             {
@@ -155,6 +170,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/2050.webp",
                 "discoverSection": "Games",
                 "type": "VP",
+                "stock": true,
                 "popular": true
             },
             {
@@ -163,6 +179,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/3650.webp",
                 "discoverSection": "Games",
                 "type": "VP",
+                "stock": true,
                 "popular": true
             },
             {
@@ -172,6 +189,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/5350.webp",
                 "discoverSection": "Games",
                 "type": "VP",
+                "stock": true,
                 "popular": true
             },
             {
@@ -180,6 +198,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/11000.webp",
                 "discoverSection": "Games",
                 "type": "VP",
+                "stock": true,
                 "popular": false
             }
         ]
@@ -198,7 +217,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/88.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "160",
@@ -206,7 +226,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/160.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": false
+                "popular": false,
+                "stock": true
             },
             {
                 "title": "460",
@@ -215,7 +236,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/460.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "960",
@@ -223,7 +245,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/960.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": false
+                "popular": false,
+                "stock": true
             },
             {
                 "title": "2600",
@@ -232,7 +255,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/2600.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "5400",
@@ -241,7 +265,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/5400.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "11600",
@@ -250,7 +275,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/11600.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "23200",
@@ -258,7 +284,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/23200.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": false
+                "popular": false,
+                "stock": true
             },
             {
                 "title": "34800",
@@ -267,7 +294,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/34800.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "58000",
@@ -275,7 +303,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/58000.webp",
                 "discoverSection": "Games",
                 "type": "CP",
-                "popular": false
+                "popular": false,
+                "stock": true
             }
         ]
     },
@@ -293,7 +322,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/18.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "30",
@@ -301,7 +331,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/30.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": false
+                "popular": false,
+                "stock": "true"
             },
             {
                 "title": "60",
@@ -310,7 +341,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/60.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "300",
@@ -318,7 +350,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/300.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "420",
@@ -327,7 +360,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/420.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "680",
@@ -335,7 +369,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/680.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": false
+                "popular": false,
+                "stock": "true"
             },
             {
                 "title": "1280",
@@ -344,7 +379,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/1280.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": false
+                "popular": false,
+                "stock": "true"
             },
             {
                 "title": "1680",
@@ -352,7 +388,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/1680.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "3280",
@@ -361,7 +398,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/3280.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "6480",
@@ -369,7 +407,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/6480.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "12960",
@@ -378,7 +417,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/12960.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": true
+                "popular": true,
+                "stock": "true"
             },
             {
                 "title": "19440",
@@ -387,7 +427,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/delta-force/19440.webp",
                 "discoverSection": "Games",
                 "type": "M-Credits",
-                "popular": false
+                "popular": false,
+                "stock": "true"
             }
         ]
     },
@@ -404,7 +445,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/5dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
-                "popular": false
+                "popular": false,
+                "stock": true
             },
             {
                 "title": "10",
@@ -413,7 +455,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/10dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
-                "popular": true
+                "popular": true,
+                "stock": false
             },
             {
                 "title": "20",
@@ -422,7 +465,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/20dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "30",
@@ -431,7 +475,8 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/30dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
-                "popular": true
+                "popular": true,
+                "stock": true
             },
             {
                 "title": "50",
@@ -440,7 +485,8 @@
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/50dol.webp",
-                "popular": false
+                "popular": false,
+                "stock": true
             },
             {
                 "title": "100",
@@ -449,6 +495,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/steam_gift_cards/100dol.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
+                "stock": true,
                 "popular": true
             }
         ]
