@@ -2,6 +2,7 @@
     {
         "type": "Top-Up",
         "id": "freefire",
+        "gift": false,
         "name": "Free Fire",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire.webp",
         "able": true,
@@ -77,6 +78,7 @@
     {
         "type": "Top-Up",
         "id": "pubg",
+        "gift": false,
         "name": "PUBG",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/pubg.webp",
         "able": true,
@@ -140,6 +142,7 @@
     {
         "type": "Gift Cards",
         "id": "valorant",
+        "gift": false,
         "name": "VALORANT",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/valorant.webp",
         "able": false,
@@ -206,6 +209,7 @@
     {
         "type": "Top-Up",
         "id": "call-of-duty-mobile",
+        "gift": false,
         "name": "Call of Duty Mobile",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/call-of-duty-mobile.webp",
         "able": false,
@@ -311,6 +315,7 @@
     {
         "type": "Top-Up",
         "id": "delta-force",
+        "gift": false,
         "name": "Delta Force",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/delta-force.webp",
         "able": false,
@@ -435,6 +440,7 @@
     {
         "type": "Gift Cards",
         "id": "steam-gift-cards",
+        "gift": true,
         "name": "Steam Gift Cards",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/steam.webp",
         "able": true,
