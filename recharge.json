@@ -212,11 +212,11 @@
         "gift": false,
         "name": "Call of Duty Mobile",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/call-of-duty-mobile.webp",
-        "able": false,
+        "able": true,
         "packs": [
             {
                 "title": "88",
-                "price": "59.64",
+                "price": "57.49",
                 "oldPrice": "62.32",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/88.webp",
                 "discoverSection": "Games",
@@ -226,7 +226,7 @@
             },
             {
                 "title": "160",
-                "price": "62.32",
+                "price": "57.49",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/160.webp",
                 "discoverSection": "Games",
                 "type": "CP",
@@ -235,7 +235,7 @@
             },
             {
                 "title": "460",
-                "price": "221.26",
+                "price": "186.86",
                 "oldPrice": "228.52",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/460.webp",
                 "discoverSection": "Games",
@@ -245,7 +245,7 @@
             },
             {
                 "title": "960",
-                "price": "432.23",
+                "price": "373.74",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/960.webp",
                 "discoverSection": "Games",
                 "type": "CP",
@@ -254,7 +254,7 @@
             },
             {
                 "title": "2600",
-                "price": "1087.48",
+                "price": "934.36",
                 "oldPrice": "1100.76",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/2600.webp",
                 "discoverSection": "Games",
@@ -264,7 +264,7 @@
             },
             {
                 "title": "5400",
-                "price": "2103.34",
+                "price": "1868.74",
                 "oldPrice": "2150.34",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/5400.webp",
                 "discoverSection": "Games",
@@ -274,7 +274,7 @@
             },
             {
                 "title": "11600",
-                "price": "5142.47",
+                "price": "5749.99",
                 "oldPrice": "5212.47",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/11600.webp",
                 "discoverSection": "Games",
@@ -284,7 +284,7 @@
             },
             {
                 "title": "23200",
-                "price": "9884.46",
+                "price": "11212.49",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/23200.webp",
                 "discoverSection": "Games",
                 "type": "CP",
@@ -293,7 +293,7 @@
             },
             {
                 "title": "34800",
-                "price": "15236.42",
+                "price": "16674.99",
                 "oldPrice": "15500.84",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/34800.webp",
                 "discoverSection": "Games",
@@ -303,7 +303,7 @@
             },
             {
                 "title": "58000",
-                "price": "23732.38",
+                "price": "27024.99",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/call-of-duty-mobile/58000.webp",
                 "discoverSection": "Games",
                 "type": "CP",
