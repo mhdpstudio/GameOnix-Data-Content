@@ -5966,6 +5966,30 @@
                 "Open World",
                 "Shooter"
             ]
+        },
+        {
+            "id": 255,
+            "slug": "onimusha-way-of-the-sword",
+            "title": "Onimusha: Way of the Sword",
+            "publisher": "Capcom",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/onimusha-way-of-the-sword.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/onimusha-way-of-the-sword.webp",
+            "gameType": "Action",
+            "gameTypeIcon": "fa-gun",
+            "version": "1.7.0.4",
+            "size": "16.1 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/onimusha-way-of-the-sword.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "onimusha-way-of-the-sword",
+            "mediaCount": 8,
+            "createdAt": "2026-11-04T20:01:00Z",
+            "gameTypes": [
+                "RPG",
+                "Adventure",
+                "Action"
+            ]
         }
     ]
 }
