@@ -140,16 +140,16 @@
         ]
     },
     {
-        "type": "Gift Cards",
+        "type": "Top-Up",
         "id": "valorant",
         "gift": false,
         "name": "VALORANT",
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/valorant.webp",
-        "able": false,
+        "able": true,
         "packs": [
             {
                 "title": "475",
-                "price": "255.52",
+                "price": "253.00",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/475.webp",
                 "discoverSection": "Games",
                 "type": "VP",
@@ -158,7 +158,7 @@
             },
             {
                 "title": "1000",
-                "price": "512.35",
+                "price": "500.25",
                 "oldPrice": "515.82",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/1000.webp",
                 "discoverSection": "Games",
@@ -168,7 +168,7 @@
             },
             {
                 "title": "2050",
-                "price": "985.53",
+                "price": "1000.50",
                 "oldPrice": "990.63",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/2050.webp",
                 "discoverSection": "Games",
@@ -178,7 +178,7 @@
             },
             {
                 "title": "3650",
-                "price": "1753.23",
+                "price": "1748.00",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/3650.webp",
                 "discoverSection": "Games",
                 "type": "VP",
@@ -187,7 +187,7 @@
             },
             {
                 "title": "5350",
-                "price": "2457.63",
+                "price": "2495.50",
                 "oldPrice": "2515.60",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/5350.webp",
                 "discoverSection": "Games",
@@ -197,7 +197,7 @@
             },
             {
                 "title": "11000",
-                "price": "4918.50",
+                "price": "4985.25",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/valorant/11000.webp",
                 "discoverSection": "Games",
                 "type": "VP",
