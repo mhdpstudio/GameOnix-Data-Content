@@ -502,5 +502,56 @@
                 "stock": true
             }
         ]
+    },
+    {
+        "type": "Gift Cards",
+        "id": "nintendo-gift-cards",
+        "gift": true,
+        "name": "Nintendo Gift Cards",
+        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
+        "able": true,
+        "kind": "gift-card",
+        "packs": [
+            {
+                "title": "10",
+                "price": "620.22",
+                "oldPrice": "639.40",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true,
+                "stock": true
+            },
+            {
+                "title": "20",
+                "price": "1240.44",
+                "oldPrice": "1278.80",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": true,
+                "stock": true
+            },
+            {
+                "title": "35",
+                "price": "2170.76",
+                "oldPrice": "2237.90",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "popular": false,
+                "stock": true
+            },
+            {
+                "title": "50",
+                "price": "3101.09",
+                "oldPrice": "3197.00",
+                "discoverSection": "Cards",
+                "type": "$ (USA)",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
+                "popular": false,
+                "stock": true
+            }
+        ]
     }
 ]
