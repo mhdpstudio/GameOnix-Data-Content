@@ -7,6 +7,7 @@
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire.webp",
         "able": true,
         "kind": "game",
+        "idType": "9-digit numeric Player ID (XXXXXXXXX)",
         "packs": [
             {
                 "title": "50",
@@ -84,6 +85,7 @@
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/pubg.webp",
         "able": true,
         "kind": "game",
+        "idType": "Numeric Player ID",
         "packs": [
             {
                 "title": "60",
@@ -149,6 +151,7 @@
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/valorant.webp",
         "able": true,
         "kind": "game",
+        "idType": "Riot ID#Tag",
         "packs": [
             {
                 "title": "475",
@@ -217,6 +220,7 @@
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/yallaludo.webp",
         "able": true,
         "kind": "game",
+        "idType": "Numeric Player ID",
         "packs": [
             {
                 "title": "830",
@@ -299,6 +303,7 @@
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/call-of-duty-mobile.webp",
         "able": true,
         "kind": "game",
+        "idType": "Numeric UID",
         "packs": [
             {
                 "title": "88",
@@ -406,6 +411,7 @@
         "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/delta-force.webp",
         "able": true,
         "kind": "game",
+        "idType": "Numeric Player ID",
         "packs": [
             {
                 "title": "60",
