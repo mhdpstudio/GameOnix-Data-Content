@@ -211,6 +211,88 @@
     },
     {
         "type": "Top-Up",
+        "id": "yallaludo",
+        "gift": false,
+        "name": "Yalla Ludo",
+        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/yallaludo.webp",
+        "able": true,
+        "kind": "game",
+        "packs": [
+            {
+                "title": "830",
+                "price": "138.10",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            },
+            {
+                "title": "2320",
+                "price": "345.28",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            },
+            {
+                "title": "5150",
+                "price": "690.55",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            },
+            {
+                "title": "13580",
+                "price": "1726.38",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            },
+            {
+                "title": "27640",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": false,
+                "popular": false
+            },
+            {
+                "title": "55800",
+                "price": "6905.52",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            },
+            {
+                "title": "168860",
+                "price": "20940.35",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            },
+            {
+                "title": "283460",
+                "price": "34527.60",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/free-fire-icon.webp",
+                "discoverSection": "Games",
+                "type": "Diamonds (INT)",
+                "stock": true,
+                "popular": false
+            }
+        ]
+    },
+    {
+        "type": "Top-Up",
         "id": "call-of-duty-mobile",
         "gift": false,
         "name": "Call of Duty Mobile",
