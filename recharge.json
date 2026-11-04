@@ -519,7 +519,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
-                "popular": true,
+                "popular": false,
                 "stock": true
             },
             {
@@ -529,7 +529,7 @@
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/nintendo.webp",
                 "discoverSection": "Cards",
                 "type": "$ (USA)",
-                "popular": true,
+                "popular": false,
                 "stock": true
             },
             {
