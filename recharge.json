@@ -79,7 +79,7 @@
                 "price": "50.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/60.webp",
                 "discoverSection": "Games",
-                "type": "US",
+                "type": "UC",
                 "popular": false
             },
             {
@@ -87,7 +87,7 @@
                 "price": "250.84",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/300.webp",
                 "discoverSection": "Games",
-                "type": "US",
+                "type": "UC",
                 "popular": true
             },
             {
@@ -95,7 +95,7 @@
                 "price": "485.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/600.webp",
                 "discoverSection": "Games",
-                "type": "US",
+                "type": "UC",
                 "popular": false
             },
             {
@@ -103,7 +103,7 @@
                 "price": "1220.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/1500.webp",
                 "discoverSection": "Games",
-                "type": "US",
+                "type": "UC",
                 "popular": true
             },
             {
@@ -111,7 +111,7 @@
                 "price": "2427.50",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/3000.webp",
                 "discoverSection": "Games",
-                "type": "US",
+                "type": "UC",
                 "popular": true
             },
             {
@@ -119,7 +119,7 @@
                 "price": "4847.23",
                 "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/pubg/6000.webp",
                 "discoverSection": "Games",
-                "type": "US",
+                "type": "UC",
                 "popular": true
             }
         ]
