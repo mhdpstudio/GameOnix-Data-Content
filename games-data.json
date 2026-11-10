@@ -5988,6 +5988,30 @@
                 "Adventure",
                 "Action"
             ]
+        },
+        {
+            "id": 257,
+            "slug": "call-of-duty-wwii",
+            "title": "Call of Duty: WWII",
+            "publisher": "Activision",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/call-of-duty-wwii.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/call-of-duty-wwii.webp",
+            "gameType": "Action",
+            "gameTypeIcon": "fa-gun",
+            "version": "1.000.001.0",
+            "size": "39.32 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/call-of-duty-wwii.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "call-of-duty-wwii",
+            "mediaCount": 9,
+            "createdAt": "2026-11-10T16:07:00Z",
+            "gameTypes": [
+                "Shooter",
+                "Action",
+                "Multiplayer"
+            ]
         }
     ]
 }
