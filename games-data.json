@@ -6012,6 +6012,28 @@
                 "Action",
                 "Multiplayer"
             ]
+        },
+        {
+            "id": 258,
+            "slug": "supplice",
+            "title": "Supplice",
+            "publisher": "Mekworx",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/supplice.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/supplice.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.2023.0604",
+            "size": "244.64 MB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/supplice.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "supplice",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ]
         }
     ]
 }
