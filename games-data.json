@@ -6058,6 +6058,32 @@
                 "RPG"
             ],
             "createdAt": "2026-11-14T00:22:26.010+02:00"
+        },
+        {
+            "id": 260,
+            "slug": "ac4-re",
+            "title": "Assassin’s Creed: Black Flag Resynced",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ac4-re.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ac4-re.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.6",
+            "size": "34.6",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/ac4-re.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "ac4-re",
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth",
+                "Open World"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T01:10:21.255+02:00"
         }
     ]
 }
