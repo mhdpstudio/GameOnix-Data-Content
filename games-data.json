@@ -6284,6 +6284,102 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T18:38:43.388+02:00"
+        },
+        {
+            "id": 270,
+            "slug": "naruto-uns1",
+            "title": "Naruto: Ultimate Ninja STORM",
+            "publisher": "Bandai Namco Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/naruto-uns1.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/naruto-uns1.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2.0.4",
+            "size": "6.54 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/naruto-uns1.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "naruto-uns1",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Fighting"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T21:32:13.689+02:00"
+        },
+        {
+            "id": 271,
+            "slug": "naruto-uns2",
+            "title": "Naruto Shippuden: Ultimate Ninja STORM 2",
+            "publisher": "Bandai Namco Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/naruto-uns2.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/naruto-uns2.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.4.2",
+            "size": "2.94 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/naruto-uns2.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "naruto-uns2",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Fighting"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T21:32:13.689+02:00"
+        },
+        {
+            "id": 272,
+            "slug": "naruto-uns3",
+            "title": "Naruto Shippuden: Ultimate Ninja STORM 3",
+            "publisher": "Bandai Namco Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/naruto-uns3.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/naruto-uns3.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.4.72.34",
+            "size": "3.54 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/naruto-uns3.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "naruto-uns3",
+            "mediaCount": 5,
+            "gameTypes": [
+                "Action",
+                "Fighting"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T21:32:13.689+02:00"
+        },
+        {
+            "id": 273,
+            "slug": "naruto-uns4",
+            "title": "Naruto Shippuden: Ultimate Ninja STORM 4",
+            "publisher": "Bandai Namco Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/naruto-uns4.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/naruto-uns4.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.08.0.0",
+            "size": "26.12 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/naruto-uns4.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "naruto-uns4",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Fighting"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T21:32:13.689+02:00"
         }
     ]
 }
