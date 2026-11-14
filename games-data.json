@@ -6108,6 +6108,30 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T02:03:52.002+02:00"
+        },
+        {
+            "id": 262,
+            "slug": "beast-of-reincarnation",
+            "title": " Beast of Reincarnation",
+            "publisher": "Game Freak",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/beast-of-reincarnation.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/beast-of-reincarnation.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.6.0",
+            "size": "21.1 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/beast-of-reincarnation.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "beast-of-reincarnation",
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T02:24:53.509+02:00"
         }
     ]
 }
