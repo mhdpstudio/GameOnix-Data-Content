@@ -41,7 +41,7 @@ def convert_image(source: Path) -> Path:
             temporary.unlink()
 
 
-def run(data_directory: Path) -> dict[str, list[str]]:
+def run(data_directory: Path, keep_sources: tuple[Path, ...] = ()) -> dict[str, list[str]]:
     data_directory = data_directory.resolve()
     if not data_directory.is_dir():
         raise FileNotFoundError(f"Data directory does not exist: {data_directory}")
@@ -69,7 +69,10 @@ def run(data_directory: Path) -> dict[str, list[str]]:
         converted.append(output)
         print(f"Converted {source.relative_to(data_directory)}", file=sys.stderr)
 
-    deleted = delete_converted_sources(sources)
+    protected_sources = {source.resolve() for source in keep_sources}
+    deleted = delete_converted_sources(
+        source for source in sources if source.resolve() not in protected_sources
+    )
     return {
         "converted": [path.relative_to(data_directory).as_posix() for path in converted],
         "deleted": [path.relative_to(data_directory).as_posix() for path in deleted],
@@ -81,9 +84,16 @@ def main() -> None:
         description="Convert GameOnix image assets to WebP, then remove converted source files."
     )
     parser.add_argument("data_directory", type=Path, help="Path to the GameOnix-Data repository")
+    parser.add_argument(
+        "--keep-source",
+        action="append",
+        type=Path,
+        default=[],
+        help="Keep a selected source file until the GitHub publish is confirmed.",
+    )
     args = parser.parse_args()
     try:
-        report = run(args.data_directory)
+        report = run(args.data_directory, tuple(args.keep_source))
     except Exception as error:
         print(str(error), file=sys.stderr)
         raise SystemExit(1) from error
