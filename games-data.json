@@ -6207,6 +6207,31 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T14:55:31.845+02:00"
+        },
+        {
+            "id": 267,
+            "slug": "hitman2",
+            "title": "Hitman 2",
+            "publisher": "IO Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/hitman2.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/hitman2.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "2.70.1.0",
+            "size": "26.2 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/hitman2.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "hitman2",
+            "mediaCount": 15,
+            "gameTypes": [
+                "Action",
+                "Stealth",
+                "Shooter"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T15:11:03.053+02:00"
         }
     ]
 }
