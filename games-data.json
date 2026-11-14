@@ -6157,6 +6157,56 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T02:33:42.053+02:00"
+        },
+        {
+            "id": 265,
+            "slug": "hitman3",
+            "title": "Hitman 3",
+            "publisher": "IO Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/hitman3.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/hitman3.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.2021.1",
+            "size": "53.7 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/hitman3.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "hitman3",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Stealth",
+                "Shooter"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T14:55:31.845+02:00"
+        },
+        {
+            "id": 266,
+            "slug": "hitman-world-of-assassination",
+            "title": "Hitman: World of Assassination",
+            "publisher": "IO Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/hitman-world-of-assassination.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/hitman-world-of-assassination.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "3.160.0.4",
+            "size": "58.3 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/hitman-world-of-assassination.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "hitman-world-of-assassination",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Stealth",
+                "Shooter"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T14:55:31.845+02:00"
         }
     ]
 }
