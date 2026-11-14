@@ -6069,7 +6069,7 @@
             "gameType": "",
             "gameTypeIcon": "",
             "version": "1.0.6",
-            "size": "34.6",
+            "size": "34.6 GB",
             "ico": "windows",
             "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/ac4-re.torrent",
             "fileType": "torrent",
@@ -6083,7 +6083,7 @@
                 "Open World"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T01:10:21.255+02:00"
+            "createdAt": "2026-11-14T02:03:52.002+02:00"
         },
         {
             "id": 261,
@@ -6095,7 +6095,7 @@
             "gameType": "",
             "gameTypeIcon": "",
             "version": "1.2.0.0",
-            "size": "56.34",
+            "size": "56.34 GB",
             "ico": "windows",
             "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/ea-sports-fc-27.torrent",
             "fileType": "torrent",
@@ -6107,7 +6107,7 @@
                 "Multiplayer"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T02:02:54.899+02:00"
+            "createdAt": "2026-11-14T02:03:52.002+02:00"
         }
     ]
 }
