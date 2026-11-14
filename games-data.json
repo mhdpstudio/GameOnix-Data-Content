@@ -6084,6 +6084,30 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T01:10:21.255+02:00"
+        },
+        {
+            "id": 261,
+            "slug": "ea-sports-fc-27",
+            "title": "EA SPORTS FC 27",
+            "publisher": "EA Sports",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ea-sports-fc-27.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ea-sports-fc-27.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2.0.0",
+            "size": "56.34",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/ea-sports-fc-27.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "ea-sports-fc-27",
+            "mediaCount": 8,
+            "gameTypes": [
+                "Sports",
+                "Multiplayer"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T02:02:54.899+02:00"
         }
     ]
 }
