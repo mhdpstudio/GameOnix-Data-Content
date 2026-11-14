@@ -4082,18 +4082,21 @@
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/among-us.webp",
             "gameType": "Multiplayer",
             "gameTypeIcon": "fa-compass",
-            "version": "2026.2.241.0",
-            "size": "604.6 MB",
+            "version": "19I",
+            "size": "638.64",
             "ico": "windows",
-            "gameLink": "https://github.com/mhdpstudio/UB-Connection/releases/download/Amoung-Us/Among-Us-GameOnix.rar",
-            "fileType": "torrent",
+            "gameLink": "https://bzzhr.to/lrpazx3bar4m",
+            "fileType": "direct",
             "platform": "pc",
             "mediaPrefix": "among-us",
             "mediaCount": 2,
             "gameTypes": [
                 "Multiplayer",
-                "Party"
-            ]
+                "Party",
+                "Online"
+            ],
+            "releaseType": "update",
+            "createdAt": "2026-11-14T17:34:11.277+02:00"
         },
         {
             "id": 26,
@@ -6232,6 +6235,30 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T15:11:03.053+02:00"
+        },
+        {
+            "id": 268,
+            "slug": "vholume",
+            "title": "Vholume",
+            "publisher": "IronEqual",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/vholume.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/vholume.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2026.08.21",
+            "size": "5.2 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/vholume.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "vholume",
+            "mediaCount": 2,
+            "gameTypes": [
+                "Adventure",
+                "Platformer"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T17:34:11.277+02:00"
         }
     ]
 }
