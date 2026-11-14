@@ -7,6 +7,7 @@ IMAGE_FOLDERS = (
     "images/games/posters",
     "images/games/logos",
     "images/games/banners",
+    "images/games/addons",
     "images/games/ps",
     "videos/pics/webp",
     "images/recharge",
