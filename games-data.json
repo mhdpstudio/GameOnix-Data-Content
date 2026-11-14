@@ -6132,6 +6132,31 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T02:24:53.509+02:00"
+        },
+        {
+            "id": 264,
+            "slug": "the-blood-of-dawnwalker",
+            "title": "The Blood of Dawnwalker",
+            "publisher": "Bandai Namco Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/the-blood-of-dawnwalker.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/the-blood-of-dawnwalker.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.1.0",
+            "size": "39.1 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/the-blood-of-dawnwalker.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "the-blood-of-dawnwalker",
+            "mediaCount": 13,
+            "gameTypes": [
+                "Action",
+                "RPG",
+                "Open World"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T02:33:42.053+02:00"
         }
     ]
 }
