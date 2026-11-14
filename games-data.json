@@ -4083,9 +4083,9 @@
             "gameType": "Multiplayer",
             "gameTypeIcon": "fa-compass",
             "version": "19I",
-            "size": "638.64",
+            "size": "638.64 MB",
             "ico": "windows",
-            "gameLink": "https://bzzhr.to/lrpazx3bar4m",
+            "gameLink": "https://drive.usercontent.google.com/download?id=1_Mue0goNAFP0hvQB5nTKANVjro_TjLA7&export=download&authuser=0",
             "fileType": "direct",
             "platform": "pc",
             "mediaPrefix": "among-us",
@@ -4096,7 +4096,7 @@
                 "Online"
             ],
             "releaseType": "update",
-            "createdAt": "2026-11-14T17:34:11.277+02:00"
+            "createdAt": "2026-11-14T18:38:43.388+02:00"
         },
         {
             "id": 26,
@@ -6259,6 +6259,31 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T17:34:11.277+02:00"
+        },
+        {
+            "id": 269,
+            "slug": "007-first-light",
+            "title": "007 First Light",
+            "publisher": "IO Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/007-first-light.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/007-first-light.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.1.0.0",
+            "size": "48.46 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/007-first-light.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "007-first-light",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth"
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-14T18:38:43.388+02:00"
         }
     ]
 }
