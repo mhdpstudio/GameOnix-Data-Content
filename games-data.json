@@ -6429,6 +6429,31 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-15T14:42:05.824+02:00"
+        },
+        {
+            "id": 275,
+            "slug": "doom3-bfg",
+            "title": "Doom 3: BFG Edition",
+            "publisher": "Bethesda Softworks",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/doom3-bfg.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/doom3-bfg.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2019.10.07",
+            "size": "1.67 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/doom3-bfg.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "doom3-bfg",
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-15T18:56:01.174+02:00"
         }
     ]
 }
