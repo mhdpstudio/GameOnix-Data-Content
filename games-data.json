@@ -6457,6 +6457,56 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-15T18:56:01.174+02:00"
+        },
+        {
+            "id": 276,
+            "slug": "prototype",
+            "title": "Prototype",
+            "publisher": "Radical Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/prototype.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/prototype.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2009.06.09",
+            "size": "5.12 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/prototype.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "prototype",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Open World"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T00:39:22.045+02:00"
+        },
+        {
+            "id": 277,
+            "slug": "prototype2",
+            "title": "Prototype 2",
+            "publisher": "Radical Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/prototype2.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/prototype2.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2012.28.07",
+            "size": "8.94 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/prototype2.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "prototype2",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Open World"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T00:39:22.045+02:00"
         }
     ]
 }
