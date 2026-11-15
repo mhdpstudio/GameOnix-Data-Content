@@ -1644,7 +1644,7 @@
             "gameType": "Action",
             "gameTypeIcon": "fa-gun",
             "version": "1.10.0.0",
-            "size": "15.7 GB",
+            "size": "25.24 GB",
             "ico": "windows",
             "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/world-war-z.torrent",
             "fileType": "torrent",
@@ -1657,7 +1657,10 @@
                 "Horror",
                 "Multiplayer",
                 "Co-op"
-            ]
+            ],
+            "releaseType": "update",
+            "addons": [],
+            "createdAt": "2026-11-15T21:37:41.789+02:00"
         },
         {
             "id": 98,
