@@ -6113,7 +6113,17 @@
                 "Multiplayer"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T02:03:52.002+02:00"
+            "createdAt": "2026-11-15T15:31:21.507+02:00",
+            "addons": [
+                {
+                    "name": "FC 2027 Live Editor",
+                    "type": "Patch",
+                    "link": "https://www.mediafire.com/file/sb4snr1xd5ezz1g/FC_27_Live_Editor.rar/file",
+                    "size": "7.55 MB",
+                    "description": "Live Editor for EA SPORTS FC 27 – Advanced in-game editing tool that lets you modify players, teams, transfers, managers, player attributes, and Career Mode settings in real time.",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/ea-sports-fc-27-addon-1-fc-2027-live-editor.webp"
+                }
+            ]
         },
         {
             "id": 262,
