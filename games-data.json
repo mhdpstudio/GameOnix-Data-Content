@@ -6383,6 +6383,42 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T21:32:13.689+02:00"
+        },
+        {
+            "id": 274,
+            "slug": "ac-shadows",
+            "title": "Assassin’s Creed Shadows",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ac-shadows.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ac-shadows.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.1.11.0",
+            "size": "77.34 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/ac-shadows.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "ac-shadows",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Stealth",
+                "Open World"
+            ],
+            "addons": [
+                {
+                    "name": "Assassin's Creed Shadows Fix",
+                    "type": "Expansion",
+                    "link": "https://www.mediafire.com/file/6zqp3z85dxt1fhk/Assassin%2527s_Creed_Shadows_Fix.rar/file",
+                    "size": "199.72 MB",
+                    "description": "This is the crack fix (voices38) for Assassin's Creed Shadows",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/ac-shadows-addon-1-assassin-s-creed-shadows-fix.webp"
+                }
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-15T13:29:37.917+02:00"
         }
     ]
 }
