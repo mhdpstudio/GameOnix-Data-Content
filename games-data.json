@@ -1250,7 +1250,7 @@
         {
             "id": 215,
             "slug": "rdr-2",
-            "title": "Red Dead Redemption II",
+            "title": "Red Dead Redemption 2",
             "publisher": "Rockstar Games",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/rdr-2.webp",
             "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/rdr-2.webp",
@@ -1270,7 +1270,10 @@
                 "Open World",
                 "Sandbox",
                 "Shooter"
-            ]
+            ],
+            "releaseType": "update",
+            "addons": [],
+            "createdAt": "2026-11-15T02:31:10.428+02:00"
         },
         {
             "id": 128,
