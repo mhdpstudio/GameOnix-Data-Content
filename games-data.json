@@ -6510,6 +6510,32 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T00:39:22.045+02:00"
+        },
+        {
+            "id": 278,
+            "slug": "cof-ghosts",
+            "title": "Call of Duty: Ghosts",
+            "publisher": "Activision",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/cof-ghosts.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/cof-ghosts.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.749678.0",
+            "size": "23.52 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/cof-ghosts.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "cof-ghosts",
+            "mediaCount": 15,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Multiplayer"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T18:07:54.171+02:00"
         }
     ]
 }
