@@ -6695,6 +6695,33 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T22:32:48.778+02:00"
+        },
+        {
+            "id": 284,
+            "slug": "infamous-second-son",
+            "title": "inFAMOUS Second Son",
+            "publisher": "Sucker Punch Productions",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/infamous-second-son.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/infamous-second-son.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.07.2.3",
+            "size": "12.42 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/infamous-second-son.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "infamous-second-son",
+            "mediaCount": 11,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Open World",
+                "Platformer"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T23:04:21.141+02:00"
         }
     ]
 }
