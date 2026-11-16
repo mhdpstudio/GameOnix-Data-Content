@@ -4357,7 +4357,7 @@
             "version": "2.4.2.0",
             "size": "6.5 GB",
             "ico": "windows",
-            "gameLink": "https://s264klg.storage.yandex.net/rdisk/8a4d910c708251f2bed06d73ff54fda0428480e9d01a6ee7371eb1ad53b4262c/69c8623f/tsChDyldXys17tYtIuNkh4GnohrpmkRDw6P6L2eGhEMUAoEsThhj1RASqjjIaJzAqjDyeA5xeuSYMqnbSpe7ag==?uid=1927087343&filename=Tomb-Raider.rar&disposition=attachment&hash=&limit=0&content_type=application%2Fx-rar&owner_uid=1927087343&fsize=6960706213&hid=637fd93556737f4994871fce52d8070c&media_type=compressed&tknv=v3&etag=38b375654bf2001100bd95e63e389145&ts=64e1ddd1dcdc0&s=7f912e41cdea80629346c8aa6d466b5b5ad563797539c26b916ec82f16887a15&pb=U2FsdGVkX1_-5qzKB0OWPwHCW9WHKbvLm1pLeqUsI-Jf8V6-Xad9nzGLeCy88LT0GdTao4oJQB_3H1CYcwdAl6LtYIMUlaTrIiVtinN8nUQ",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/tomb-raider-2013.torrent",
             "fileType": "torrent",
             "platform": "pc",
             "mediaPrefix": "tomb-raider-2013",
@@ -4368,7 +4368,10 @@
                 "Platformer",
                 "Puzzle",
                 "Shooter"
-            ]
+            ],
+            "releaseType": "update",
+            "addons": [],
+            "createdAt": "2026-11-16T22:21:35.410+02:00"
         },
         {
             "id": 223,
