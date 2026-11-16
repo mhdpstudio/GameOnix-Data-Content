@@ -6561,6 +6561,31 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T18:15:53.356+02:00"
+        },
+        {
+            "id": 280,
+            "slug": "mortal-shell-2",
+            "title": "Mortal Shell II",
+            "publisher": "Playstack",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mortal-shell-2.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mortal-shell-2.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "97404.1875.0.0",
+            "size": "52.32 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/mortal-shell-2.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "mortal-shell-2",
+            "mediaCount": 8,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T19:49:58.022+02:00"
         }
     ]
 }
