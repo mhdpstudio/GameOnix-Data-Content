@@ -7013,6 +7013,70 @@
             "releaseType": "new",
             "createdAt": "2026-11-16T23:04:21.141+02:00",
             "availability": true
+        },
+        {
+            "id": 285,
+            "slug": "gta5-en",
+            "title": "Grand Theft Auto V Enhanced",
+            "publisher": "Rockstar Games",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/gta5-en.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/gta5-en.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.1013.20.5",
+            "size": "39.57 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/gta5-en.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "gta5-en",
+            "mediaCount": 12,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Multiplayer",
+                "Open World",
+                "Sandbox",
+                "Shooter",
+                "Racing"
+            ],
+            "addons": [
+                {
+                    "name": "ScriptHookV v3889.0 / 1158.13",
+                    "type": "Plugin",
+                    "link": "https://www.mediafire.com/file/8on5vpxbve0x7k3/ScriptHookV_v3889.0_-_1158.13.rar/file",
+                    "size": "1.53 MB",
+                    "description": "Script Hook V is the library that allows to use GTA V script native functions in custom *.asi plugins. Note that it doesn't work in GTA Online, script hook closes GTA V when player goes in multiplayer",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/gta5-addon-1-scripthookv-v3889-0-1158-13.webp"
+                },
+                {
+                    "name": "ScriptHookV DotNet v3.7.0 Nightly 189",
+                    "type": "Plugin",
+                    "link": "https://www.mediafire.com/file/v1suw7kdvxanno3/ScriptHookVDotNet_v3.7.0_Nightly_189.rar/file",
+                    "size": "2.48 MB",
+                    "description": "An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language on the .NET Framework runtime in-game.",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/gta5-addon-2-scripthookv-dotnet-v3-7-0-nightly-189.webp"
+                },
+                {
+                    "name": "ScriptHookV DotNet",
+                    "type": "Plugin",
+                    "link": "https://www.mediafire.com/file/uh8wyudosru6tgm/ScriptHookVDotNet.rar/file",
+                    "size": "788.24 KB",
+                    "description": "This is an ASI plugin for Grand Theft Auto V, based on the C++ ScriptHook by Alexander Blade, which allows running scripts written in any .NET language in-game.",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/gta5-addon-3-scripthookv-dotnet.webp"
+                },
+                {
+                    "name": "Menyoo Menu",
+                    "type": "Mod",
+                    "link": "https://www.mediafire.com/file/uroir0iwnioyia6/Mebyoo_Mod_SP.rar/file",
+                    "size": "4.51 MB",
+                    "description": "Menyoo Menu is a powerful GTA V trainer that lets you customize your gameplay with advanced features, vehicle spawning, teleportation, and much more.",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/gta5-addon-4-menyoo-menu.webp"
+                }
+            ],
+            "releaseType": "new",
+            "createdAt": "2026-11-17T00:22:16.138+02:00"
         }
     ]
 }
