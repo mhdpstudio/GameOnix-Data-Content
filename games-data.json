@@ -6586,6 +6586,32 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T19:49:58.022+02:00"
+        },
+        {
+            "id": 281,
+            "slug": "silent-hill-townfall",
+            "title": "SILENT HILL: Townfall",
+            "publisher": "Annapurna Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/silent-hill-townfall.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/silent-hill-townfall.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.4.153521.0.0",
+            "size": "38.82 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/silent-hill-townfall.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "silent-hill-townfall",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Horror"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T20:00:59.352+02:00"
         }
     ]
 }
