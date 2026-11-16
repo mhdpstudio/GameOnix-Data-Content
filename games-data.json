@@ -6669,6 +6669,32 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T21:58:20.764+02:00"
+        },
+        {
+            "id": 283,
+            "slug": "hogwarts-legacy",
+            "title": "Hogwarts Legacy",
+            "publisher": "Avalanche Software",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/hogwarts-legacy.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/hogwarts-legacy.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.10461750.0.0",
+            "size": "75.23 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/hogwarts-legacy.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "hogwarts-legacy",
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "RPG"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T22:32:48.778+02:00"
         }
     ]
 }
