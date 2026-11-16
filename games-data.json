@@ -6536,6 +6536,31 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T18:07:54.171+02:00"
+        },
+        {
+            "id": 279,
+            "slug": "the-relic-the-first-guardian",
+            "title": "The Relic: The First Guardian",
+            "publisher": "Project Cloud Games",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/the-relic-the-first-guardian.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/the-relic-the-first-guardian.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.000.027.0",
+            "size": "18.94 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/the-relic-the-first-guardian.torrent",
+            "fileType": "torrent",
+            "platform": "pc",
+            "mediaPrefix": "the-relic-the-first-guardian",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-16T18:15:53.356+02:00"
         }
     ]
 }
