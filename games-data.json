@@ -51,9 +51,18 @@
                     "size": "788.24 KB",
                     "description": "This is an ASI plugin for Grand Theft Auto V, based on the C++ ScriptHook by Alexander Blade, which allows running scripts written in any .NET language in-game.",
                     "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/gta5-addon-3-scripthookv-dotnet.webp"
+                },
+                {
+                    "name": "Menyoo Menu",
+                    "type": "Mod",
+                    "link": "https://www.mediafire.com/file/uroir0iwnioyia6/Mebyoo_Mod_SP.rar/file",
+                    "size": "4.51 MB",
+                    "description": "Menyoo Menu is a powerful GTA V trainer that lets you customize your gameplay with advanced features, vehicle spawning, teleportation, and much more.",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/gta5-addon-4-menyoo-menu.webp"
                 }
             ],
-            "createdAt": "2026-11-16T20:36:44.531+02:00"
+            "createdAt": "2026-11-17T00:06:38.760+02:00",
+            "availability": true
         },
         {
             "id": 131,
@@ -79,7 +88,8 @@
                 "Racing",
                 "Sandbox",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 204,
@@ -106,7 +116,8 @@
                 "Racing",
                 "Sandbox",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 170,
@@ -133,7 +144,8 @@
                 "Racing",
                 "Sandbox",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 163,
@@ -160,7 +172,8 @@
                 "Racing",
                 "Sandbox",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 19,
@@ -185,7 +198,8 @@
                 "Stealth",
                 "Multiplayer",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 143,
@@ -209,7 +223,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 110,
@@ -233,7 +248,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 43,
@@ -257,7 +273,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 150,
@@ -281,7 +298,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 136,
@@ -305,7 +323,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 224,
@@ -329,7 +348,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 158,
@@ -354,7 +374,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 113,
@@ -379,7 +400,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 103,
@@ -404,7 +426,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 66,
@@ -428,7 +451,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 171,
@@ -452,7 +476,8 @@
                 "Adventure",
                 "Stealth",
                 "Platformer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 222,
@@ -476,7 +501,8 @@
                 "Adventure",
                 "Stealth",
                 "Platformer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 250,
@@ -500,7 +526,8 @@
                 "Adventure",
                 "Stealth",
                 "Platformer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 56,
@@ -524,7 +551,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 228,
@@ -548,7 +576,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 31,
@@ -573,7 +602,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 140,
@@ -597,7 +627,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 55,
@@ -621,7 +652,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 124,
@@ -644,7 +676,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 21,
@@ -667,7 +700,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 199,
@@ -692,7 +726,8 @@
                 "RPG",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 155,
@@ -714,7 +749,8 @@
             "gameTypes": [
                 "Action",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 121,
@@ -736,7 +772,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 41,
@@ -762,7 +799,8 @@
                 "Co-op",
                 "Multiplayer",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 95,
@@ -788,7 +826,8 @@
                 "Survival",
                 "Open World",
                 "RPG"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 119,
@@ -811,7 +850,8 @@
                 "Action",
                 "RPG",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 112,
@@ -836,7 +876,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 18,
@@ -861,7 +902,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 134,
@@ -886,7 +928,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 105,
@@ -911,7 +954,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 133,
@@ -936,7 +980,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 78,
@@ -961,7 +1006,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 129,
@@ -985,7 +1031,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 62,
@@ -1008,7 +1055,8 @@
                 "Action",
                 "RPG",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 237,
@@ -1032,7 +1080,8 @@
                 "Adventure",
                 "Horror",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 22,
@@ -1056,7 +1105,8 @@
                 "Adventure",
                 "Horror",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 161,
@@ -1081,7 +1131,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Horror"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 197,
@@ -1106,7 +1157,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Horror"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 216,
@@ -1130,7 +1182,8 @@
                 "Adventure",
                 "Open World",
                 "Racing"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 236,
@@ -1154,7 +1207,8 @@
                 "Adventure",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 86,
@@ -1178,7 +1232,8 @@
                 "Adventure",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 106,
@@ -1201,7 +1256,8 @@
                 "Action",
                 "Shooter",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 254,
@@ -1224,7 +1280,8 @@
                 "Action",
                 "Shooter",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 102,
@@ -1248,7 +1305,8 @@
                 "Shooter",
                 "Adventure",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 80,
@@ -1273,7 +1331,8 @@
                 "Open World",
                 "Sandbox",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 215,
@@ -1301,7 +1360,8 @@
             ],
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-15T02:31:10.428+02:00"
+            "createdAt": "2026-11-15T02:31:10.428+02:00",
+            "availability": true
         },
         {
             "id": 128,
@@ -1325,7 +1385,8 @@
                 "Adventure",
                 "Fighting",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 48,
@@ -1348,7 +1409,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 234,
@@ -1371,7 +1433,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 186,
@@ -1394,7 +1457,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 83,
@@ -1417,7 +1481,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 142,
@@ -1440,7 +1505,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 9,
@@ -1466,7 +1532,8 @@
                 "Survival",
                 "Shooter",
                 "Stealth"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 249,
@@ -1492,7 +1559,8 @@
                 "Survival",
                 "Shooter",
                 "Stealth"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 7,
@@ -1515,7 +1583,8 @@
                 "Action",
                 "RPG",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 34,
@@ -1538,7 +1607,8 @@
                 "Action",
                 "RPG",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 180,
@@ -1562,7 +1632,8 @@
                 "RPG",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 205,
@@ -1585,7 +1656,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 182,
@@ -1610,7 +1682,8 @@
                 "Stealth",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 127,
@@ -1635,7 +1708,8 @@
                 "Stealth",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 148,
@@ -1660,7 +1734,8 @@
                 "Stealth",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 253,
@@ -1688,7 +1763,8 @@
             ],
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-15T21:37:41.789+02:00"
+            "createdAt": "2026-11-15T21:37:41.789+02:00",
+            "availability": true
         },
         {
             "id": 98,
@@ -1711,7 +1787,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 196,
@@ -1733,7 +1810,8 @@
             "gameTypes": [
                 "Racing",
                 "Arcade"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 168,
@@ -1756,7 +1834,8 @@
                 "Racing",
                 "Multiplayer",
                 "Arcade"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 242,
@@ -1779,7 +1858,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 200,
@@ -1804,7 +1884,8 @@
                 "Simulation",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 174,
@@ -1829,7 +1910,8 @@
                 "Simulation",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 116,
@@ -1854,7 +1936,8 @@
                 "Simulation",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 24,
@@ -1877,7 +1960,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 5,
@@ -1899,7 +1983,8 @@
             "gameTypes": [
                 "Racing",
                 "Arcade"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 87,
@@ -1922,7 +2007,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 100,
@@ -1945,7 +2031,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 10,
@@ -1967,7 +2054,8 @@
             "gameTypes": [
                 "Racing",
                 "Arcade"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 181,
@@ -1990,7 +2078,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 33,
@@ -2012,7 +2101,8 @@
             "gameTypes": [
                 "Racing",
                 "Arcade"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 243,
@@ -2035,7 +2125,8 @@
                 "Racing",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 6,
@@ -2057,7 +2148,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 68,
@@ -2079,7 +2171,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 57,
@@ -2101,7 +2194,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 203,
@@ -2126,7 +2220,8 @@
             ],
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-16T14:09:31.715+02:00"
+            "createdAt": "2026-11-16T14:09:31.715+02:00",
+            "availability": true
         },
         {
             "id": 154,
@@ -2148,7 +2243,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 108,
@@ -2170,7 +2266,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 40,
@@ -2192,7 +2289,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 14,
@@ -2214,7 +2312,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 15,
@@ -2236,7 +2335,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 221,
@@ -2258,7 +2358,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 225,
@@ -2280,7 +2381,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 248,
@@ -2302,7 +2404,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 164,
@@ -2324,7 +2427,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 235,
@@ -2346,7 +2450,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 187,
@@ -2368,7 +2473,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 70,
@@ -2390,7 +2496,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 37,
@@ -2412,7 +2519,8 @@
             "gameTypes": [
                 "Sports",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 30,
@@ -2435,7 +2543,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 88,
@@ -2458,7 +2567,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 173,
@@ -2481,7 +2591,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 63,
@@ -2504,7 +2615,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 238,
@@ -2527,7 +2639,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 138,
@@ -2550,7 +2663,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 82,
@@ -2573,7 +2687,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 36,
@@ -2596,7 +2711,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 166,
@@ -2619,7 +2735,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 74,
@@ -2642,7 +2759,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 179,
@@ -2665,7 +2783,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 89,
@@ -2688,7 +2807,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 51,
@@ -2711,7 +2831,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 96,
@@ -2734,7 +2855,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 217,
@@ -2757,7 +2879,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 178,
@@ -2780,7 +2903,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 218,
@@ -2803,7 +2927,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 111,
@@ -2826,7 +2951,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 35,
@@ -2849,7 +2975,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 120,
@@ -2872,7 +2999,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 101,
@@ -2895,7 +3023,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 77,
@@ -2918,7 +3047,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 39,
@@ -2941,7 +3071,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 147,
@@ -2964,7 +3095,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 45,
@@ -2987,7 +3119,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 190,
@@ -3010,7 +3143,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 91,
@@ -3033,7 +3167,8 @@
                 "Sports",
                 "Multiplayer",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 162,
@@ -3056,7 +3191,8 @@
                 "Action",
                 "Shooter",
                 "Horror"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 64,
@@ -3078,7 +3214,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 149,
@@ -3101,7 +3238,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 175,
@@ -3123,7 +3261,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 115,
@@ -3145,7 +3284,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 94,
@@ -3167,7 +3307,8 @@
             "gameTypes": [
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 233,
@@ -3189,7 +3330,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 130,
@@ -3211,7 +3353,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 177,
@@ -3233,7 +3376,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 126,
@@ -3255,7 +3399,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 99,
@@ -3277,7 +3422,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 47,
@@ -3300,7 +3446,8 @@
                 "Simulation",
                 "Management",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 184,
@@ -3322,7 +3469,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 75,
@@ -3344,7 +3492,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 201,
@@ -3366,7 +3515,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 76,
@@ -3388,7 +3538,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 194,
@@ -3412,7 +3563,8 @@
                 "RPG",
                 "Open World",
                 "Strategy"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 12,
@@ -3434,7 +3586,8 @@
             "gameTypes": [
                 "Strategy",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 156,
@@ -3457,7 +3610,8 @@
                 "Strategy",
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 2,
@@ -3480,7 +3634,8 @@
                 "Strategy",
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 252,
@@ -3502,7 +3657,8 @@
             "gameTypes": [
                 "Strategy",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 146,
@@ -3524,7 +3680,8 @@
             "gameTypes": [
                 "Strategy",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 84,
@@ -3547,7 +3704,8 @@
                 "Action",
                 "Strategy",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 53,
@@ -3570,7 +3728,8 @@
                 "Action",
                 "Strategy",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 117,
@@ -3593,7 +3752,8 @@
                 "Action",
                 "Adventure",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 8,
@@ -3616,7 +3776,8 @@
                 "Action",
                 "Adventure",
                 "Horror"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 109,
@@ -3641,7 +3802,8 @@
                 "Co-op",
                 "Puzzle",
                 "Platformer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 157,
@@ -3666,7 +3828,8 @@
                 "Survival",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 226,
@@ -3689,7 +3852,8 @@
                 "Adventure",
                 "Puzzle",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 240,
@@ -3712,7 +3876,8 @@
                 "Racing",
                 "Arcade",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 25,
@@ -3734,7 +3899,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 42,
@@ -3756,7 +3922,8 @@
             "gameTypes": [
                 "Platformer",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 219,
@@ -3781,7 +3948,8 @@
                 "Stealth",
                 "Co-op",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 151,
@@ -3804,7 +3972,8 @@
                 "Horror",
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 132,
@@ -3828,7 +3997,8 @@
                 "Adventure",
                 "Platformer",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 202,
@@ -3855,7 +4025,8 @@
                 "Survival",
                 "Open World",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 241,
@@ -3878,7 +4049,8 @@
                 "Action",
                 "RPG",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 152,
@@ -3904,7 +4076,8 @@
                 "Survival",
                 "Sandbox",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 232,
@@ -3926,7 +4099,8 @@
             "gameTypes": [
                 "Horror",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 246,
@@ -3949,7 +4123,8 @@
                 "Horror",
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 195,
@@ -3972,7 +4147,8 @@
                 "Horror",
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 20,
@@ -3995,7 +4171,8 @@
                 "Horror",
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 50,
@@ -4017,7 +4194,8 @@
             "gameTypes": [
                 "Horror",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 189,
@@ -4039,7 +4217,8 @@
             "gameTypes": [
                 "RPG",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 160,
@@ -4061,7 +4240,8 @@
             "gameTypes": [
                 "RPG",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 206,
@@ -4086,7 +4266,8 @@
                 "Stealth",
                 "Co-op",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 213,
@@ -4108,7 +4289,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 28,
@@ -4133,7 +4315,8 @@
                 "Online"
             ],
             "releaseType": "update",
-            "createdAt": "2026-11-14T18:56:12.459+02:00"
+            "createdAt": "2026-11-14T18:56:12.459+02:00",
+            "availability": true
         },
         {
             "id": 26,
@@ -4156,7 +4339,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 107,
@@ -4178,7 +4362,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 137,
@@ -4201,7 +4386,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 32,
@@ -4224,7 +4410,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 245,
@@ -4247,7 +4434,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 255,
@@ -4271,7 +4459,8 @@
                 "Action",
                 "Shooter",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 141,
@@ -4296,7 +4485,8 @@
                 "Adventure",
                 "Platformer",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 139,
@@ -4318,7 +4508,8 @@
             "gameTypes": [
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 4,
@@ -4343,7 +4534,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 230,
@@ -4371,7 +4563,8 @@
             ],
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-16T22:21:35.410+02:00"
+            "createdAt": "2026-11-16T22:21:35.410+02:00",
+            "availability": true
         },
         {
             "id": 223,
@@ -4396,7 +4589,8 @@
                 "Platformer",
                 "Puzzle",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 58,
@@ -4421,7 +4615,8 @@
                 "Platformer",
                 "Puzzle",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 209,
@@ -4444,7 +4639,8 @@
                 "Simulation",
                 "Management",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 1,
@@ -4466,7 +4662,8 @@
             "gameTypes": [
                 "Horror",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 231,
@@ -4491,7 +4688,8 @@
                 "Co-op",
                 "Open World",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 188,
@@ -4517,7 +4715,8 @@
                 "Co-op",
                 "Open World",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 144,
@@ -4542,7 +4741,8 @@
                 "Co-op",
                 "Sandbox",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 23,
@@ -4565,7 +4765,8 @@
                 "Stealth",
                 "Shooter",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 211,
@@ -4588,7 +4789,8 @@
                 "Action",
                 "Stealth",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 59,
@@ -4612,7 +4814,8 @@
                 "Action",
                 "Open World",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 27,
@@ -4634,7 +4837,8 @@
             "gameTypes": [
                 "Simulation",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 52,
@@ -4656,7 +4860,8 @@
             "gameTypes": [
                 "Action",
                 "RPG"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 71,
@@ -4678,7 +4883,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 208,
@@ -4701,7 +4907,8 @@
                 "Action",
                 "Adventure",
                 "Platformer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 239,
@@ -4724,7 +4931,8 @@
                 "Racing",
                 "Simulation",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 114,
@@ -4746,7 +4954,8 @@
             "gameTypes": [
                 "RPG",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 214,
@@ -4769,7 +4978,8 @@
                 "Simulation",
                 "Management",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 65,
@@ -4791,7 +5001,8 @@
             "gameTypes": [
                 "Strategy",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 69,
@@ -4814,7 +5025,8 @@
                 "Action",
                 "Shooter",
                 "Fighting"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 90,
@@ -4836,7 +5048,8 @@
             "gameTypes": [
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 125,
@@ -4858,7 +5071,8 @@
             "gameTypes": [
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 49,
@@ -4882,7 +5096,8 @@
                 "Adventure",
                 "Co-op",
                 "Platformer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 3,
@@ -4904,7 +5119,8 @@
             "gameTypes": [
                 "Racing",
                 "Arcade"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 118,
@@ -4927,7 +5143,8 @@
                 "Adventure",
                 "Platformer",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 79,
@@ -4950,7 +5167,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 212,
@@ -4973,7 +5191,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 135,
@@ -4998,7 +5217,8 @@
                 "Co-op",
                 "Multiplayer",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 122,
@@ -5020,7 +5240,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 244,
@@ -5042,7 +5263,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 159,
@@ -5064,7 +5286,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 198,
@@ -5086,7 +5309,8 @@
             "gameTypes": [
                 "Fighting",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 16,
@@ -5112,7 +5336,8 @@
                 "Co-op",
                 "Open World",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 185,
@@ -5136,7 +5361,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 229,
@@ -5160,7 +5386,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 93,
@@ -5185,7 +5412,8 @@
                 "Co-op",
                 "Adventure",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 73,
@@ -5211,7 +5439,8 @@
                 "Co-op",
                 "Open World",
                 "Sandbox"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 192,
@@ -5236,7 +5465,8 @@
                 "Co-op",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 220,
@@ -5260,7 +5490,8 @@
                 "Management",
                 "Multiplayer",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 104,
@@ -5283,7 +5514,8 @@
                 "Adventure",
                 "Platformer",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 67,
@@ -5306,7 +5538,8 @@
                 "Adventure",
                 "Platformer",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 97,
@@ -5329,7 +5562,8 @@
                 "Adventure",
                 "Platformer",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 165,
@@ -5351,7 +5585,8 @@
             "gameTypes": [
                 "Horror",
                 "Adventure"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 17,
@@ -5373,7 +5608,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 183,
@@ -5395,7 +5631,8 @@
             "gameTypes": [
                 "Multiplayer",
                 "Party"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 123,
@@ -5418,7 +5655,8 @@
                 "Horror",
                 "Multiplayer",
                 "Co-op"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 54,
@@ -5440,7 +5678,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 167,
@@ -5462,7 +5701,8 @@
             "gameTypes": [
                 "Action",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 153,
@@ -5485,7 +5725,8 @@
                 "Action",
                 "Adventure",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 172,
@@ -5508,7 +5749,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 191,
@@ -5531,7 +5773,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 169,
@@ -5554,7 +5797,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 61,
@@ -5577,7 +5821,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 44,
@@ -5601,7 +5846,8 @@
                 "Shooter",
                 "Co-op",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 247,
@@ -5625,7 +5871,8 @@
                 "Shooter",
                 "Co-op",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 13,
@@ -5648,7 +5895,8 @@
                 "Horror",
                 "Shooter",
                 "Survival"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 81,
@@ -5670,7 +5918,8 @@
             "gameTypes": [
                 "Adventure",
                 "Puzzle"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 251,
@@ -5694,7 +5943,8 @@
                 "RPG",
                 "Action",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 210,
@@ -5719,7 +5969,8 @@
                 "Simulation",
                 "Arcade",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 145,
@@ -5742,7 +5993,8 @@
                 "Adventure",
                 "Action",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 207,
@@ -5765,7 +6017,8 @@
                 "Adventure",
                 "Action",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 11,
@@ -5789,7 +6042,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 227,
@@ -5812,7 +6066,8 @@
                 "Action",
                 "Adventure",
                 "Stealth"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 29,
@@ -5836,7 +6091,8 @@
                 "Adventure",
                 "Stealth",
                 "Open World"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 60,
@@ -5862,7 +6118,8 @@
                 "Strategy",
                 "Survival",
                 "RPG"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 46,
@@ -5884,7 +6141,8 @@
             "gameTypes": [
                 "Simulation",
                 "Management"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 176,
@@ -5907,7 +6165,8 @@
                 "Adventure",
                 "Platformer",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 72,
@@ -5932,7 +6191,8 @@
                 "Co-op",
                 "Multiplayer",
                 "Stealth"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 92,
@@ -5956,7 +6216,8 @@
                 "Multiplayer",
                 "Co-op",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 38,
@@ -5980,7 +6241,8 @@
                 "Sandbox",
                 "Co-op",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 193,
@@ -6006,7 +6268,8 @@
                 "Action",
                 "Open World",
                 "Shooter"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 256,
@@ -6030,7 +6293,8 @@
                 "RPG",
                 "Adventure",
                 "Action"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 257,
@@ -6054,7 +6318,8 @@
                 "Shooter",
                 "Action",
                 "Multiplayer"
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 258,
@@ -6077,7 +6342,8 @@
                 "Action",
                 "Shooter"
             ],
-            "createdAt": "2026-11-13T23:20:22.536+02:00"
+            "createdAt": "2026-11-13T23:20:22.536+02:00",
+            "availability": true
         },
         {
             "id": 259,
@@ -6100,7 +6366,8 @@
                 "Horror",
                 "RPG"
             ],
-            "createdAt": "2026-11-14T00:22:26.010+02:00"
+            "createdAt": "2026-11-14T00:22:26.010+02:00",
+            "availability": true
         },
         {
             "id": 260,
@@ -6126,7 +6393,8 @@
                 "Open World"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T02:03:52.002+02:00"
+            "createdAt": "2026-11-14T02:03:52.002+02:00",
+            "availability": true
         },
         {
             "id": 261,
@@ -6160,7 +6428,8 @@
                     "description": "Live Editor for EA SPORTS FC 27 – Advanced in-game editing tool that lets you modify players, teams, transfers, managers, player attributes, and Career Mode settings in real time.",
                     "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/ea-sports-fc-27-addon-1-fc-2027-live-editor.webp"
                 }
-            ]
+            ],
+            "availability": true
         },
         {
             "id": 262,
@@ -6184,7 +6453,8 @@
                 "RPG"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T02:24:53.509+02:00"
+            "createdAt": "2026-11-14T02:24:53.509+02:00",
+            "availability": true
         },
         {
             "id": 264,
@@ -6209,7 +6479,8 @@
                 "Open World"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T02:33:42.053+02:00"
+            "createdAt": "2026-11-14T02:33:42.053+02:00",
+            "availability": true
         },
         {
             "id": 265,
@@ -6234,7 +6505,8 @@
                 "Shooter"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T14:55:31.845+02:00"
+            "createdAt": "2026-11-14T14:55:31.845+02:00",
+            "availability": true
         },
         {
             "id": 266,
@@ -6259,7 +6531,8 @@
                 "Shooter"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T14:55:31.845+02:00"
+            "createdAt": "2026-11-14T14:55:31.845+02:00",
+            "availability": true
         },
         {
             "id": 267,
@@ -6284,7 +6557,8 @@
                 "Shooter"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T15:11:03.053+02:00"
+            "createdAt": "2026-11-14T15:11:03.053+02:00",
+            "availability": true
         },
         {
             "id": 268,
@@ -6308,7 +6582,8 @@
                 "Platformer"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T17:34:11.277+02:00"
+            "createdAt": "2026-11-14T17:34:11.277+02:00",
+            "availability": true
         },
         {
             "id": 269,
@@ -6333,7 +6608,8 @@
                 "Stealth"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T18:38:43.388+02:00"
+            "createdAt": "2026-11-14T18:38:43.388+02:00",
+            "availability": true
         },
         {
             "id": 270,
@@ -6357,7 +6633,8 @@
                 "Fighting"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T21:32:13.689+02:00"
+            "createdAt": "2026-11-14T21:32:13.689+02:00",
+            "availability": true
         },
         {
             "id": 271,
@@ -6381,7 +6658,8 @@
                 "Fighting"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T21:32:13.689+02:00"
+            "createdAt": "2026-11-14T21:32:13.689+02:00",
+            "availability": true
         },
         {
             "id": 272,
@@ -6405,7 +6683,8 @@
                 "Fighting"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T21:32:13.689+02:00"
+            "createdAt": "2026-11-14T21:32:13.689+02:00",
+            "availability": true
         },
         {
             "id": 273,
@@ -6429,7 +6708,8 @@
                 "Fighting"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T21:32:13.689+02:00"
+            "createdAt": "2026-11-14T21:32:13.689+02:00",
+            "availability": true
         },
         {
             "id": 274,
@@ -6465,7 +6745,8 @@
                 }
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-15T14:42:05.824+02:00"
+            "createdAt": "2026-11-15T14:42:05.824+02:00",
+            "availability": true
         },
         {
             "id": 275,
@@ -6490,7 +6771,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-15T18:56:01.174+02:00"
+            "createdAt": "2026-11-15T18:56:01.174+02:00",
+            "availability": true
         },
         {
             "id": 276,
@@ -6515,7 +6797,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T00:39:22.045+02:00"
+            "createdAt": "2026-11-16T00:39:22.045+02:00",
+            "availability": true
         },
         {
             "id": 277,
@@ -6540,7 +6823,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T00:39:22.045+02:00"
+            "createdAt": "2026-11-16T00:39:22.045+02:00",
+            "availability": true
         },
         {
             "id": 278,
@@ -6566,7 +6850,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T18:07:54.171+02:00"
+            "createdAt": "2026-11-16T18:07:54.171+02:00",
+            "availability": true
         },
         {
             "id": 279,
@@ -6591,7 +6876,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T18:15:53.356+02:00"
+            "createdAt": "2026-11-16T18:15:53.356+02:00",
+            "availability": true
         },
         {
             "id": 280,
@@ -6616,7 +6902,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T19:49:58.022+02:00"
+            "createdAt": "2026-11-16T19:49:58.022+02:00",
+            "availability": true
         },
         {
             "id": 281,
@@ -6642,7 +6929,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T20:56:08.626+02:00"
+            "createdAt": "2026-11-16T20:56:08.626+02:00",
+            "availability": true
         },
         {
             "id": 282,
@@ -6668,7 +6956,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T21:58:20.764+02:00"
+            "createdAt": "2026-11-16T21:58:20.764+02:00",
+            "availability": true
         },
         {
             "id": 283,
@@ -6694,7 +6983,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T22:32:48.778+02:00"
+            "createdAt": "2026-11-16T22:32:48.778+02:00",
+            "availability": true
         },
         {
             "id": 284,
@@ -6721,7 +7011,8 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T23:04:21.141+02:00"
+            "createdAt": "2026-11-16T23:04:21.141+02:00",
+            "availability": true
         }
     ]
 }
