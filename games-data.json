@@ -7352,7 +7352,7 @@
                 "Multiplayer"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-15T15:31:21.507+02:00",
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
             "addons": [
                 {
                     "name": "FC 2027 Live Editor",
@@ -7363,7 +7363,14 @@
                     "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/ea-sports-fc-27-addon-1-fc-2027-live-editor.webp"
                 }
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4080220",
+                "minimum": "•  OS:  Windows 10/11 - 64-Bit (Latest Update).\n\n•  Processor:  AMD Ryzen 5 1600 or Intel Core i5 6600k\n\n•  Memory:  DDR4 Dual Channel 8 GB RAM\n\n•  Graphics:  AMD RX 570 or Nvidia GTX 1050 Ti\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  100 GB available space\n\n•  Additional Notes:  Estimated performance when set to \"\"Low\"\" preset: 1280x720 @ 60 FPS SSD Recommended",
+                "recommended": "•  OS:  Windows 10/11 - 64-Bit (Latest Update).\n\n•  Processor:  AMD Ryzen 7 2700X or Intel Core i7 6700\n\n•  Memory:  Dual Channel 12 GB RAM\n\n•  Graphics:  AMD RX 5600 XT or Nvidia GTX 1660\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  100 GB available space\n\n•  Additional Notes:  Estimated performance when set to \"\"Medium\"\" preset: 1920x1080 @ 60 FPS SSD Required"
+            }
         },
         {
             "id": 262,
@@ -7453,8 +7460,16 @@
                 "Shooter"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T14:55:31.845+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1659040",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  OS 64-bit Windows 10\n\n•  Processor:  Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 660 / Radeon HD 7870\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  OS 64-bit Windows 10\n\n•  Processor:  Intel CPU Core i7 4790 4 GHz\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space"
+            },
+            "addons": []
         },
         {
             "id": 266,
@@ -7512,8 +7527,16 @@
                 "Shooter"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T15:11:03.053+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1659040",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  OS 64-bit Windows 10\n\n•  Processor:  Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 660 / Radeon HD 7870\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  OS 64-bit Windows 10\n\n•  Processor:  Intel CPU Core i7 4790 4 GHz\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space"
+            },
+            "addons": []
         },
         {
             "id": 268,
@@ -7666,8 +7689,16 @@
                 "Fighting"
             ],
             "releaseType": "new",
-            "createdAt": "2026-11-14T21:32:13.689+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "234670",
+                "minimum": "•  OS *:  Windows (64bit) 7 or higher up to date\n\n•  Processor:  Intel Core2 Duo, 3.0GHz - AMD Athlon 64 X2 Dual Core 6400+ 3.2GHz\n\n•  Memory:  2 GB RAM\n\n•  Graphics:  1024 MB video card\n\n•  DirectX:  Version 11\n\n•  Storage:  23 GB available space\n\n•  Sound Card:  DirectX sound device",
+                "recommended": ""
+            },
+            "addons": []
         },
         {
             "id": 273,
@@ -7768,8 +7799,15 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-15T18:56:01.174+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "208200",
+                "minimum": "•  OS *: Windows vista/ Windows 7\n\n•  Processor: 2.0 GHz dual core\n\n•  Memory: 3 GB RAM\n\n•  Graphics: NVIDIA GeForce 9800 GT / ATI Radeon HD 5750, 512 MB video RAM\n\n•  Hard Drive: 11 GB\n\n•  Sound: Windows compatible sound card",
+                "recommended": "•  OS *: Windows Vista-64/ Windows 7-64\n\n•  Processor: 2.4 GHz dual core\n\n•  Memory: 3 GB system RAM\n\n•  Graphics: NVIDIA GeForce GTX 260 / ATI Radeon HD 5850, 768 MB video RAM\n\n•  Hard Drive: 11 GB\n\n•  Sound: Windows compatible sound card\n\n•  Additional: 3D Monitor + compatible glasses"
+            }
         },
         {
             "id": 276,
@@ -7794,8 +7832,15 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T00:39:22.045+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "10150",
+                "minimum": "•  OS *:  Windows® XP (with Service Pack 3) or Windows Vista®\n\n•  Processor:  Intel® Core™2 Duo 2.6 GHz or AMD Athlon™ 64 X2 4000+ or better\n\n•  Memory:  Vista 2 GB RAM / XP 1 GB RAM\n\n•  Graphics:  All NVIDIA® GeForce® 7800 GT 256 MB and better chipsets. All ATI Radeon™ X1800 256 MB and better chipsets\n\n•  DirectX®:  Microsoft DirectX 9.0c\n\n•  Hard Drive:  8GB of free hard drive space\n\n•  Sound:  DirectX® 9.0c compliant sound card",
+                "recommended": ""
+            }
         },
         {
             "id": 277,
@@ -7820,8 +7865,15 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T00:39:22.045+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "115320",
+                "minimum": "•  OS *:   Windows® XP / Vista / 7\n\n•  Processor:  Intel Core 2 Duo 2.6GHz, AMD Phenom X3 8750\n\n•  Memory:  2 GB RAM\n\n•  Hard Disk Space:  10 GB\n\n•  Video Card:  NVIDIA GeForce 8800 GT with 512 MB RAM, ATI Radeon HD 4850 with 512 MB RAM\n\n•  DirectX®:  9.0C or later\n\n•  Sound:  Any DirectX 9 compatible Sound Card\n\n•  Supported Input Devices:  Keyboard, Mouse, Xbox 360® Controller",
+                "recommended": "•  OS *:  Windows 7\n\n•  Processor:  Intel Core 2 Quad 2.7 GHz or better, AMD Phenom II X4 3 GHz or better\n\n•  Memory:  4 GB\n\n•  Video Card:  NVIDIA GeForce GTX 460 (1GB) or better, ATI Radeon HD 5850 (1GB) or better"
+            }
         },
         {
             "id": 278,
@@ -7880,8 +7932,15 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-16T18:15:53.356+02:00",
-            "availability": true
+            "createdAt": "2026-11-17T19:38:15.582+02:00",
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2827820",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  Processor:  Intel i5-11400 / Ryzen 7 4800H\n\n•  Memory:  16 GB RAM\n\n•  Additional Notes:  Supports 21:9 ultrawide display aspect ratio",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  Processor:  Intel i5-12650H / Ryzen 7 5800\n\n•  Memory:  16 GB RAM\n\n•  Additional Notes:  Supports 21:9 ultrawide display aspect ratio"
+            }
         },
         {
             "id": 280,
