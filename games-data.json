@@ -4728,10 +4728,10 @@
             "gameType": "Survival",
             "gameTypeIcon": "fa-tree",
             "version": "1.21.130.0",
-            "size": "947.3 MB",
+            "size": "802.64 MB",
             "ico": "windows",
-            "gameLink": "https://github.com/mhdpstudio/Games/releases/download/Windows-Game/minecraft.Bedrock.Edition.zip",
-            "fileType": "torrent",
+            "gameLink": "https://gofile.io/d/aedc06c6-b0f4-4b83-9e2b-c98121f8e1a3",
+            "fileType": "direct",
             "platform": "pc",
             "mediaPrefix": "minecraft-bedrock",
             "mediaCount": 9,
@@ -4742,7 +4742,10 @@
                 "Sandbox",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "releaseType": "update",
+            "addons": [],
+            "createdAt": "2026-11-17T17:23:29.412+02:00"
         },
         {
             "id": 23,
