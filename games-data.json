@@ -7077,6 +7077,32 @@
             ],
             "releaseType": "update",
             "createdAt": "2026-11-17T16:36:25.055+02:00"
+        },
+        {
+            "id": 286,
+            "slug": "eriksholm-the-stolen-dream",
+            "title": "Eriksholm: The Stolen Dream",
+            "publisher": "Nordic Current",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/eriksholm-the-stolen-dream.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/eriksholm-the-stolen-dream.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.4.0.0",
+            "size": "7.53 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/eriksholm-the-stolen-dream.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "eriksholm-the-stolen-dream",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Adventure",
+                "Stealth"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-17T16:40:14.722+02:00"
         }
     ]
 }
