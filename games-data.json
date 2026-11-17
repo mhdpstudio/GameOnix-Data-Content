@@ -2209,8 +2209,8 @@
             "version": "1.4.2.0",
             "size": "4.9 GB",
             "ico": "windows",
-            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/pes-2013.torrent",
-            "fileType": "torrent",
+            "gameLink": "https://s1.fastdowngames.com/fdg/Pro-Evolution-Soccer-2013.rar",
+            "fileType": "direct",
             "platform": "pc",
             "mediaPrefix": "pes2013",
             "mediaCount": 8,
@@ -2220,7 +2220,7 @@
             ],
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-16T14:09:31.715+02:00",
+            "createdAt": "2026-11-17T11:44:14.748+02:00",
             "availability": true
         },
         {
