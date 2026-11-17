@@ -145,7 +145,14 @@
                 "Sandbox",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "12210",
+                "minimum": "-  OS:  Windows 10 (64-bit)\n\n-  Processor:  Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz\n\n-  Memory:  1.5GB\n\n-  Graphics:  256MB Nvidia 7900 / 256MB ATI X1900\n\n-  DirectX Version:  DirectX 9.0c Compliant Card\n\n-  Hard Drive:  22GB of Hard Disc Space\n\n-  Sound Card:  5.1 Channel Audio Card",
+                "recommended": ""
+            }
         },
         {
             "id": 163,
@@ -224,7 +231,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "289650",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 680 or AMD Radeon HD 7970 (2 GB VRAM)\n\n-  Storage:  50 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card with latest drivers\n\n-  Additional Notes:  Windows-compatible keyboard and mouse required, optional controller",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i7-3770 @ 3.4 GHz or AMD FX-8350 @ 4.0 GHz or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 780 or AMD Radeon R9 290X (3 GB VRAM)\n\n-  Storage:  50 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card with latest drivers\n\n-  Additional Notes:  Supported video cards at the time of release: NVIDIA GeForce GTX 680 or better, GeForce GTX 700 series; AMD Radeon HD7970 or better, Radeon R9 200 series Note: Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 110,
@@ -324,7 +338,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "48190",
+                "minimum": "-  OS *:  Windows® XP (32-64 bits) /Windows Vista®(32-64 bits)\n\n-  Processor:  Intel Core® 2 Duo 1.8 GHZ or AMD Athlon X2 64 2.4GHZ\n\n-  Memory:  1.5 GB Windows® XP / 2 GB Windows Vista® - Windows 7®\n\n-  Graphics:  256 MB DirectX® 9.0–compliant card with Shader Model 3.0 or higher (see supported list*)\n\n-  DirectX®:  9.0\n\n-  Hard Drive:  8 GB\n\n-  Sound:  DirectX 9.0 –compliant sound card\n\n-  Peripherals:  Keyboard, mouse, optional controller\n\n-  Supported Video Cards:  ATI® RADEON®  HD 2000/3000/4000/5000/6000 series, NVIDIA GeForce® 8/9/100/200/300/400/500 series\n\n- Note* * This product does not support Windows® 98/ME/2000/NT\nRequires a Uplay account.",
+                "recommended": "-  OS *:  Windows® XP (32-64 bits) /Windows Vista®(32-64 bits)\n\n-  Processor:  Intel Core® 2 Duo E6700 2.6 GHz or AMD Athlon 64 X2 6000+ or better\n\n-  Memory:  1.5 GB Windows® XP / 2 GB Windows Vista® - Windows 7®\n\n-  Graphics:  GeForce 8800 GT or ATI Radeon HD 4700 or better\n\n-  DirectX®:  9.0\n\n-  Hard Drive:  8 GB\n\n-  Sound:  5.1 sound card\n\n-  Peripherals:  Keyboard, mouse, joystick optional (Xbox 360® Controller for Windows recommended)\n\n-  Supported Video Cards:  ATI® RADEON®  HD 2000/3000/4000/5000/6000 series, NVIDIA GeForce® 8/9/100/200/300/400/500 series\n\n- Note* * This product does not support Windows® 98/ME/2000/NT\nRequires a Uplay account."
+            }
         },
         {
             "id": 224,
@@ -349,7 +370,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "201870",
+                "minimum": "-  OS *:  Windows® XP SP3 / Windows Vista® SP2\n\n-  Processor:  Intel® Core™2 Duo E4400 @ 2.0 GHz or AMD Athlon™ 64 X2 4000+ @ 2.1GHz\n\n-  Memory:  1.5 GB Windows® XP / 2 GB Windows Vista, 7\n\n-  Graphics:  256 MB DirectX® 9.0–compliant card with Shader Model 4.0 or higher (see supported list)*\n\n-  DirectX®:  DirectX® June2010 or newer\n\n-  Hard Drive:  12 GB\n\n-  Sound:  DirectX 9.0–compliant sound card\n\n-  Peripherals:  Keyboard, mouse, optional controller\n\n-  Internet:  Temporary broadband connection required for one-time product registration at first launch, permanent broadband connection required for multi-player.\n*This product does not support Windows® 98/ME/2000/NT\nSupported Video Cards at Time of Release:\n\nAMD Radeon™ HD2600XT or better/3000/4000/5000/6000 desktop series\n\nNVIDIA® GeForce® 8600GTS or better/9/GT200/GT400/GT500 desktop series\n\nLaptop versions of these cards may work but are NOT officially supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ for this game on our support website at .",
+                "recommended": "-  OS *:  Windows® XP SP3 / Windows Vista® SP2\n\n-  Processor:   Intel® Core™2 Duo E6700 @ 2.6 GHz or AMD Athlon™ 64 X2 6000+ @ 3.0 GHz or better\n\n-  Memory:  2 GB Windows® XP / Windows Vista® / Windows® 7\n\n-  Graphics:  512 MB DirectX® 9.0–compliant card with Shader Model 5.0 or higher (see supported list)*\n\n-  DirectX®:  DirectX® June2010 or newer\n\n-  Hard Drive:  12 GB\n\n-  Sound:  Surround Sound 5.1 capable sound card\n\n-  Peripherals:  Keyboard, mouse, joystick optional (Xbox 360® Controller for Windows recommended)\n\n-  Internet:  Temporary broadband connection required for one-time product registration at first launch, permanent broadband connection required for multi-player.\n*This product does not support Windows® 98/ME/2000/NT\nSupported Video Cards at Time of Release:\n\nAMD Radeon™ HD2600XT or better/3000/4000/5000/6000 desktop series\n\nNVIDIA® GeForce® 8600GTS or better/9/GT200/GT400/GT500 desktop series\n\nLaptop versions of these cards may work but are NOT officially supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ for this game on our support website at ."
+            }
         },
         {
             "id": 158,
@@ -375,7 +403,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3035570",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  INTEL® Core™ i7-4790K (INTEL® Core™ i5-8400 for Intel® ARC™ with Rebar) / Ryzen™ 5 1600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Intel® Arc™ A380 (6 GB) / NVIDIA® GeForce® GTX 1060 (6 GB) / AMD Radeon™ RX 570 (4 GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  40 GB available space\n\n-  VR Support:  N/A\n\n-  Additional Notes:  Video Preset: Low / Target: 30 fps",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Intel® Arc™ A750 (8 GB) / NVIDIA® GeForce® GTX 1660 Ti (6 GB) / AMD Radeon™ RX 5600 XT (6 GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  40 GB available space\n\n-  VR Support:  N/A\n\n-  Additional Notes:  Video Preset: High / Target: 60 fps"
+            }
         },
         {
             "id": 113,
@@ -401,7 +436,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "582160",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz or equivalent\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 or AMD R9 270 (2048 MB VRAM with Shader Model 5.0 or better)\n\n-  DirectX:  Version 11\n\n-  Storage:  42 GB available space\n\n-  Additional Notes:  Video Preset: Lowest (720p). Game contains Denuvo  and VMProtect  anti-piracy technology.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 760 or AMD R9 280X (3GB VRAM with Shader Model 5.0 or better)\n\n-  Storage:  42 GB available space\n\n-  Additional Notes:  Video Preset: High (1080p). Game contains Denuvo  and VMProtect  anti-piracy technology."
+            }
         },
         {
             "id": 103,
@@ -427,7 +469,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "812140",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64bit versions only)\n\n-  Processor:  AMD FX 6300 @ 3.8 GHz, Ryzen 3 - 1200, Intel Core i5 2400 @ 3.1 GHz (MORE DETAILS HERE)\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon R9 285, NVIDIA GeForce GTX 660 (2GB VRAM with Shader Model 5.0) (MORE DETAILS HERE)\n\n-  DirectX:  Version 11\n\n-  Storage:  46+ GB available space\n\n-  Additional Notes:  Video Preset: Lowest (720p)",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64bit versions only)\n\n-  Processor:  AMD FX-8350 @ 4.0 GHz, Ryzen 5 - 1400, Intel Core i7-3770 @ 3.5 GHz or better (MORE DETAILS HERE)\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon R9 290, NVIDIA GeForce GTX 970  (4GB VRAM with Shader Model 5.0) or better (MORE DETAILS HERE)\n\n-  Storage:  46+ GB available space\n\n-  Additional Notes:  Video Preset: High (1080p)"
+            }
         },
         {
             "id": 66,
@@ -452,7 +501,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "260210",
+                "minimum": "-  OS *:  Windows Vista SP2, Windows 10(64-bit versions only)\n\n-  Processor:  Intel Core i3 2105 @ 3.1 GHz or AMD Phenom 2 X4 955 @ 3.2GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  Nvidia GeForce 8800GT or AMD Radeon HD4870 (512MB VRAM & Shader Model 4.0)\n\n-  Storage:  3500 MB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Supported video cards at time of release: Nvidia GeForce 8800GT or better, GeForce 9, GTX 200, GTX 400, GTX 500, GTX 600, GTX 700 series. AMD Radeon HD4870 or better, HD5000, HD6000, HD7000, R7 and R9 series.   Note: Latest GeForce drivers tested: 331.65 for all series. Latest Radeon drivers tested: 13.9 Legacy for Radeon HD4870 and Windows Vista, 13.9 for Radeon HD5000 and above.  Laptop versions of these cards may work but are NOT officially supported.",
+                "recommended": "-  OS *:  Windows Vista SP2, Windows 10(64-bit versions only)\n\n-  Processor:  Intel Core i5 2400S @ 2.5 GHz or AMD FX 4100 @ 3,6 GHz or better\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 570 or AMD Radeon HD7870 (1250MB VRAM & Shader Model 5.0) or better\n\n-  Storage:  3500 MB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Supported video cards at time of release: Nvidia GeForce 8800GT or better, GeForce 9, GTX 200, GTX 400, GTX 500, GTX 600, GTX 700 series. AMD Radeon HD4870 or better, HD5000, HD6000, HD7000, R7 and R9 series.   Note: Latest GeForce drivers tested: 331.65 for all series. Latest Radeon drivers tested: 13.9 Legacy for Radeon HD4870 and Windows Vista, 13.9 for Radeon HD5000 and above.  Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 171,
@@ -477,7 +533,14 @@
                 "Stealth",
                 "Platformer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "359610",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core 2 Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  nVidia GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0)\n\n-  DirectX:  Version 10\n\n-  Storage:  4 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Video Drivers: nVidia GeForce 347.52 and AMD Catalyst Omega 14.12",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i3 2105 @ 3.1 GHz or AMD Phenom II X4 955 @ 3.2 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  nVidia GeForce GTX 470 or AMD Radeon HD5870 or better (1024MB VRAM with Shader Model 5.0)\n\n-  DirectX:  Version 10\n\n-  Storage:  4 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Video Drivers: nVidia GeForce 347.52 and AMD Catalyst Omega 14.12.    Supported video cards at the time of release: nVidia GeForce GTS 450 or better, GTX 500, GTX 600, GTX 700 series; AMD Radeon HD5770 or better, Radeon HD6000, HD7000, R7 200, R9 200 series    Note: Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 222,
@@ -502,7 +565,14 @@
                 "Stealth",
                 "Platformer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "354380",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core 2 Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  nVidia GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0)\n\n-  DirectX:  Version 10\n\n-  Storage:  4 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Video Drivers: nVidia GeForce 347.52 and AMD Catalyst Omega 14.12",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i3 2105 @ 3.1 GHz or AMD Phenom II X4 955 @ 3.2 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  nVidia GeForce GTX 470 or AMD Radeon HD5870 or better (1024MB VRAM with Shader Model 5.0)\n\n-  DirectX:  Version 10\n\n-  Storage:  4 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Video Drivers: nVidia GeForce 347.52 and AMD Catalyst Omega 14.12.    Supported video cards at the time of release: nVidia GeForce GTS 450 or better, GTX 500, GTX 600, GTX 700 series; AMD Radeon HD5770 or better, Radeon HD6000, HD7000, R7 200, R9 200 series    Note: Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 250,
@@ -527,7 +597,14 @@
                 "Stealth",
                 "Platformer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "359600",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core 2 Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  nVidia GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0)\n\n-  DirectX:  Version 10\n\n-  Storage:  4 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Video Drivers: nVidia GeForce 347.52 and AMD Catalyst Omega 14.12",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i3 2105 @ 3.1 GHz or AMD Phenom II X4 955 @ 3.2 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  nVidia GeForce GTX 470 or AMD Radeon HD5870 or better (1024MB VRAM with Shader Model 5.0)\n\n-  DirectX:  Version 10\n\n-  Storage:  4 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Video Drivers: nVidia GeForce 347.52 and AMD Catalyst Omega 14.12.    Supported video cards at the time of release: nVidia GeForce GTS 450 or better, GTX 500, GTX 600, GTX 700 series; AMD Radeon HD5770 or better, Radeon HD6000, HD7000, R7 200, R9 200 series    Note: Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 56,
@@ -552,7 +629,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "311560",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core2Quad Q6600 @ 2.4 GHz or AMD Athlon II X4 620 @ 2.6 GHzH\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  nVidia GeForce GTS450 or AMD Radeon HD5670 (1024MB VRAM) or Intel HD4600\n\n-  DirectX:  Version 11\n\n-  Storage:  12 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest driver\n\n-  Additional Notes:  Supported Video Cards at time of release: NVIDIA GeForce GTS 450 or better, GeForce 500, 600, 700, 900 series / AMD Radeon HD 5670 or better, Radeon HD 6000, 7000, R7, R9 series /  Intel HD4600, HD5200 /  Note: Laptop versions of these cards may work but are NOT officially supported.",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i5 2400s @ 2.5 GHz or better / AMD FX-6100 @ 3.3 GHz or better\n\n-  Graphics:  nVidia GeForce GTX 560Ti (1024 VRAM) or better / AMD Radeon HD 6870 (1024 VRAM) or better\n\n-  DirectX:  Version 11\n\n-  Storage:  12 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest driver"
+            }
         },
         {
             "id": 228,
@@ -577,7 +661,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "277590",
+                "minimum": "-  OS *:  Windows Vista SP2 or  Windows 10(64-bit versions only)\n\n-  Processor:  Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 260 or AMD Radeon HD 4870 (512MB VRAM with Shader Model 4.0 or higher)\n\n-  Storage:  30 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Windows-compatible keyboard and mouse required, optional controller",
+                "recommended": "-  OS *:  Windows Vista SP2 or  Windows 10(64-bit versions only)\n\n-  Processor:  Intel Core i5 2400S @ 2.5 GHz or AMD Phenom II x4 940 @ 3.0 GHz or better\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 470 or AMD Radeon HD 5850 (1024MB VRAM with Shader Model 5.0) or better\n\n-  Storage:  30 GB available space\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  Supported video cards at the time of release: Nvidia GeForce GTX 260 or better and GeForce GTX 400, GTX 500, GTX 600 and GTX 700 series. AMD Radeon HD4870 or better and Radeon HD5000, HD6000 and HD7000 series. Note: Latest GeForce drivers tested: 327.23 for all series. Latest Radeon drivers tested: 13.1 for Radeon HD4000, 13.4 for Radeon HD5000, HD6000 and HD7000 series on Vista and 13.9 for Radeon HD5000, HD6000 and HD7000 series on Win7 and Win8.  Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 31,
@@ -603,7 +694,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2208920",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (versions 64 bits uniquement)\n\n-  Processor:  AMD Ryzen 3 1200 3.1 GHz / Intel Core i5-4460 3.2 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD R9 380 /NVIDIA GeForce GTX 960\n\n-  DirectX:  Version 12\n\n-  Storage:  160 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (versions 64 bits uniquement)\n\n-  Processor:  AMD Ryzen 5 1600 3.2 GHz / Intel Core i7-4790 3.6 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD R9 380 /NVIDIA GeForce GTX 960\n\n-  DirectX:  Version 12\n\n-  Storage:  160 GB available space"
+            }
         },
         {
             "id": 140,
@@ -628,7 +726,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "368500",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i5 2400s @ 2.5 GHz / AMD FX 6350 @ 3.9 GHz\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 / AMD Radeon R9 270 (2GB VRAM with Shader Model 5.0)\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i7 3770 @ 3.5 GHz / AMD FX 8350 @ 4.0 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 760 (4GB) or the newer GTX 970 (4GB) / AMD Radeon R9 280X (3GB of VRAM) or better\n\n-  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n-  Additional Notes:  *Technical Notice from the developer: For a recommended experience, the game requires a video card with at least 3GB of VRAM when playing at a full HD resolution. While we encourage you to fiddle with the advanced options to fully customize your gaming experience, please keep an eye out for the VRAM meter usage when you adjust these settings."
+            }
         },
         {
             "id": 55,
@@ -701,7 +806,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "240",
+                "minimum": "1.7 GHz Processor, 512MB RAM, DirectX&reg; 8.1 level Graphics Card (Requires support for SSE), Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection\n\nRecommended:  Pentium 4 processor (3.0GHz, or better), 1GB RAM, DirectX&reg; 9 level Graphics Card, Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection",
+                "recommended": ""
+            }
         },
         {
             "id": 199,
@@ -727,7 +839,14 @@
                 "Adventure",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1091500",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit Windows 10\n\n-  Processor:  Core i7-6700 or Ryzen 5 1600\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380\n\n-  DirectX:  Version 12\n\n-  Storage:  70 GB available space\n\n-  Additional Notes:  SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit Windows 10\n\n-  Processor:  Core i7-12700 or Ryzen 7 7800X3D\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770\n\n-  DirectX:  Version 12\n\n-  Storage:  70 GB available space\n\n-  Additional Notes:  SSD required."
+            }
         },
         {
             "id": 155,
@@ -750,7 +869,14 @@
                 "Action",
                 "Adventure"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "601150",
+                "minimum": "-  OS:  WINDOWS® 10 (64-BIT Required)\n\n-  Processor:  Intel® Core™ i5-4460, AMD FX™-6300, or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x with 2GB Video RAM, or better\n\n-  DirectX:  Version 11\n\n-  Storage:  35 GB available space\n\n-  Additional Notes:  *Xinput support Controllers recommended *Internet connection required for game activation. (Network connectivity uses Steam® developed by Valve® Corporation.)",
+                "recommended": "-  OS:  WINDOWS® 10 / 11\n\n-  Processor:  Intel® Core™ i7-3770, AMD FX™-9590, or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 1060 with 6GB VRAM, AMD Radeon™ RX 480 with 8GB VRAM, or better\n\n-  DirectX:  Version 12\n\n-  Storage:  35 GB available space\n\n-  Additional Notes:  *Xinput support Controllers recommended *Internet connection required for game activation. (Network connectivity uses Steam® developed by Valve® Corporation.)"
+            }
         },
         {
             "id": 121,
@@ -773,7 +899,14 @@
                 "Action",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "782330",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  64-bit Windows 7 / 64-Bit Windows 10\n\n-  Processor:  Intel Core i5 @ 3.3 GHz or better, or AMD Ryzen 3 @ 3.1 GHz or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1050Ti (4GB), GTX 1060 (3GB), GTX 1650 (4GB) or AMD Radeon R9 280(3GB), AMD Radeon R9 290 (4GB), RX 470 (4GB)\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  80 GB available space\n\n-  Additional Notes:  ( 1080p / 60 FPS / Low Quality Settings )",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit Windows 10\n\n-  Processor:  Intel Core i7-6700K or better, or AMD Ryzen 7 1800X or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 (6GB), NVIDIA GeForce 970 (4GB), AMD RX 480 (8GB)\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  80 GB available space\n\n-  Additional Notes:  ( 1080p / 60 FPS / High Quality Settings ) - *On NVIDIA GTX 970 cards Texture Quality should be set to Medium"
+            }
         },
         {
             "id": 41,
@@ -800,7 +933,14 @@
                 "Multiplayer",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "239140",
+                "minimum": "-  OS *:  Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit\n\n-  Processor:  Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz\n\n-  Memory:  4 GB RAM DDR3\n\n-  Hard Drive:  40 GB free space\n\n-  Graphics:  NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)\n\n-  DirectX®:  Version 11\n\n-  Sound:  DirectX® compatible\n\n-  Additional Notes:  Laptop versions of graphics cards may work but are NOT officially supported.\n\nWindows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)",
+                "recommended": "-  OS *:  Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit\n\n-  Processor:  Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz\n\n-  Memory:  8 GB RAM DDR3\n\n-  Hard Drive:  40 GB free space\n\n-  Graphics:  NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)\n\n-  DirectX®:  Version 11\n\n-  Sound:  DirectX® compatible\n\n-  Additional Notes:  Laptop versions of graphics cards may work but are NOT officially supported.\n\nWindows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)"
+            }
         },
         {
             "id": 95,
@@ -851,7 +991,14 @@
                 "RPG",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1245620",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  INTEL CORE I5-8400 or AMD RYZEN 3 3300X\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  60 GB available space\n\n-  Sound Card:  Windows Compatible Audio Device\n\n-  Additional Notes:",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  INTEL CORE I7-8700K or AMD RYZEN 5 3600X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  60 GB available space\n\n-  Sound Card:  Windows Compatible Audio Device\n\n-  Additional Notes:"
+            }
         },
         {
             "id": 112,
@@ -877,7 +1024,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "13520",
+                "minimum": "-  Supported OS:  Windows® 2000/XP (only)\n\n-  Processor:  AMD Athlon™ 1 GHz or Pentium® III 1 GHz\n\n-  Memory:  256 MB\n\n-  Graphics:  64 MB DirectX® 9.0b-compliant graphics card (see supported list*)\n\n-  Sound:  DirectX 9.0b compliant PCI card (Sound Blaster Audigy series recommended)\n\n-  DirectX:  DirectX 9.0b or higher\n\n-  Hard Disk Space:  4 GB\n\n-  Multiplay:  Broadband with 64 Kbps upstream (512 Kbps upstream to host 8 players)\n\n-  Mouse/Keyboard:  Windows compatible mouse and keyboard required",
+                "recommended": "-  Supported OS:  Windows 2000/XP (only)\n\n-  Processor:  AMD Athlon 2-3 GHz or Pentium 4 2-3 GHz\n\n-  Memory:  512-1024 MB\n\n-  Sound:  Sound Blaster® Audigy® series (see supported list*)\n\n-  Graphics:  128 MB GeForce™ 4 128 MB to GeForce FX 5950; ATI Radeon 9500-9800 XT\n\n-  *Supported video cards at time of retail release:  NVIDIA GeForce 2/3/4/FX families ( NVIDIA based cards must have ForceWare drivers 53.03 or later; GeForce 2 and GeForce 4 MX cards do not support all graphics features). ATI Radeon 8500/9000 families (ATI Radeon 9500-9800 XT recommended; ATI-based cards must have Catalyst drivers 3.9 or higher). Laptop models of the listed cards are not fully supported. For an up-to-date list of supported chipsets, video cards, and operating systems, please visit the FAQ for this game at: ."
+            }
         },
         {
             "id": 18,
@@ -903,7 +1057,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "19900",
+                "minimum": "-  Supported OS:  Microsoft Windows XP or Windows Vista (64 is supported)\n\n-  Processor:  Pentium 4  3.2 Ghz, Pentium D 2.66 Ghz, AMD Athlon 64 3500+  or better\n\n-  Memory:  1 GB\n\n-  Graphics:  256 MB, Shader Model 3 required, NVidia 6800 or ATI X1650 or better*\n\n-  Hard Drive:  3.5 GB (Multiple saves and user created maps will increase the amount of needed hard disk space.)\n\n- *Supported Video cards: NVidia 6800,  NVidia 7000 series, 8000 series, 9000 series, 200 series. 8800M and 8700M supported for laptops. ATI X1650 – 1950  series , HD2000  series , HD3000  series , HD4000 series",
+                "recommended": "-  Processor:  Intel Core 2 Duo Family, AMD 64 X2 5200+, AMD Phenom or better\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  512 MB, NVidia 8600 GTS or better,  ATI X1900 or better*\n\n-  Sound:  5.1 sound card recommended"
+            }
         },
         {
             "id": 134,
@@ -929,7 +1090,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "220240",
+                "minimum": "-  OS *: Windows XP, Windows Vista\n\n-  Processor: Intel Core®2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz or better\n\n-  Memory: 4 GB RAM\n\n-  Graphics: 512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)\n\n-  DirectX®: 9.0c\n\n-  Hard Drive: 15 GB HD space\n\n-  Sound: DirectX Compatible  (Recommended Surround Sound 5.1 capable)\n\n-  Other Requirements: Broadband Internet connection\n\n-  Additional: *Supported Video Cards at Time of Release: AMD Radeon™ HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA® GeForce® 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at .\nRequires a UPlay account",
+                "recommended": "-  Memory: 4 GB RAM\n\n-  Graphics: 512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)\n\n-  DirectX®: 11\n\n-  Hard Drive: 15 GB HD space\n\n-  Sound: DirectX Compatible  (Recommended Surround Sound 5.1 capable)\n\n-  Other Requirements: Broadband Internet connection\n\n-  Additional: *Supported Video Cards at Time of Release: AMD Radeon™ HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA® GeForce® 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at .\nRequires a UPlay account"
+            }
         },
         {
             "id": 105,
@@ -955,7 +1123,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "298110",
+                "minimum": "-  OS:  Windows 10 (64-bit)\n\n-  Processor:  2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  30 GB available space\n\n-  Sound Card:  DirectX-compatible (5.1 surround sound recommended)\n\n-  Additional Notes:  Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)",
+                "recommended": "-  OS:  Windows 10 (64-bit)\n\n-  Processor:  2.5 GHz Intel® Core™ i5-2400S or 4.0 GHz AMD FX-8350 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 680 or AMD Radeon R9 290X or better (2 GB VRAM)\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  30 GB available space\n\n-  Sound Card:  DirectX-compatible (5.1 surround sound recommended)\n\n-  Additional Notes:  Supported video cards at the time of release: NVIDIA GeForce GTX 460 or better, GeForce GTX 700 series; AMD Radeon HD5850 or better, Radeon R9 series. Note: Laptop versions of these cards may work but are NOT officially supported."
+            }
         },
         {
             "id": 133,
@@ -981,7 +1156,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "552520",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)\n\n-  DirectX:  Version 9.0c\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space\n\n-  Additional Notes:  Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)\n\n-  DirectX:  Version 9.0c\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space\n\n-  Additional Notes:  Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology."
+            }
         },
         {
             "id": 78,
@@ -1007,7 +1189,14 @@
                 "Stealth",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "371660",
+                "minimum": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i3-550 | AMD Phenom II X4 955 or equivalent\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 460 (1GB VRAM) | AMD Radeon HD 5770 (1GB VRAM) or equivalent\n\n-  Storage:  20 GB available space\n\n-  Additional Notes:  Windows-compatible keyboard, mouse, headset, optional controller. Supported Video Cards at Time of Release: AMD Radeon™ HD 5770 (1 GB VRAM) or better, HD 7000 / 200  / 300 / Fury X series, NVIDIA® GeForce® GTX 460 (1 GB VRAM) or better, GTX 500 / 600 / 700 / 900 / TITAN series. Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at . HIGH SPEED INTERNET ACCESS AND A VALID UPLAY ACCOUNT REQUIRED TO ACTIVATE THE GAME AFTER INSTALLATION, TO AUTHENTICATE YOUR SYSTEM AND CONTINUE GAMEPLAY AFTER ANY RE-ACTIVATION, TO ACCESS ONLINE FEATURES AND TO UNLOCK EXCLUSIVE CONTENT. SUCH CONTENT MAY ONLY BE UNLOCKED ONE SINGLE TIME WITH A UNIQUE KEY. YOU MUST BE AT LEAST 13 TO CREATE A UPLAY ACCOUNT WITHOUT PARENTAL CONSENT. UBISOFT MAY CANCEL ACCESS TO ONE OR MORE SPECIFIC ONLINE FEATURES UPON 30-DAYS PRIOR NOTICE, PUBLISHED AT . Game contains Denuvo  anti-tamper technology.",
+                "recommended": "-  OS:  Windows 10 (64-bit versions only)\n\n-  Processor:  Intel Core i7-2600K | AMD FX-8350 or equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 780 | AMD Radeon R9 280X or equivalent\n\n-  Storage:  20 GB available space\n\n-  Additional Notes:  Windows-compatible keyboard, mouse, headset, optional controller. Supported Video Cards at Time of Release: AMD Radeon™ HD 5770 (1 GB VRAM) or better, HD 7000 / 200  / 300 / Fury X series, NVIDIA® GeForce® GTX 460 (1 GB VRAM) or better, GTX 500 / 600 / 700 / 900 / TITAN series. Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at . HIGH SPEED INTERNET ACCESS AND A VALID UPLAY ACCOUNT REQUIRED TO ACTIVATE THE GAME AFTER INSTALLATION, TO AUTHENTICATE YOUR SYSTEM AND CONTINUE GAMEPLAY AFTER ANY RE-ACTIVATION, TO ACCESS ONLINE FEATURES AND TO UNLOCK EXCLUSIVE CONTENT. SUCH CONTENT MAY ONLY BE UNLOCKED ONE SINGLE TIME WITH A UNIQUE KEY. YOU MUST BE AT LEAST 13 TO CREATE A UPLAY ACCOUNT WITHOUT PARENTAL CONSENT. UBISOFT MAY CANCEL ACCESS TO ONE OR MORE SPECIFIC ONLINE FEATURES UPON 30-DAYS PRIOR NOTICE, PUBLISHED AT . Game contains Denuvo  anti-tamper technology."
+            }
         },
         {
             "id": 129,
@@ -1056,7 +1245,14 @@
                 "RPG",
                 "Adventure"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2322010",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 20H1\n\n-  Processor:  Intel i5-4670k or AMD Ryzen 3 1200\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 1060 (6GB) or AMD RX 5500 XT (8GB) or Intel Arc A750\n\n-  DirectX:  Version 12\n\n-  Storage:  190 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 20H1\n\n-  Processor:  Intel i5-8600 or AMD Ryzen 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA RTX 2060 Super or AMD RX 5700 or Intel Arc A770\n\n-  DirectX:  Version 12\n\n-  Storage:  190 GB available space"
+            }
         },
         {
             "id": 237,
@@ -1081,7 +1277,14 @@
                 "Horror",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "108710",
+                "minimum": "-  OS *:  Windows XP SP2\n\n-  Processor:  Dual Core 2GHz Intel or 2.8GHz AMD\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  DirectX 10 compatible with 512MB RAM\n\n-  DirectX®:  9.0c\n\n-  Hard Drive:  8 GB HD space\n\n-  Sound:  DirectX 9.0c compatible",
+                "recommended": "-  OS *:  Windows 7\n\n-  Processor:  Quad Core 2.66GHz Intel or 3.2GHz AMD\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  DirectX 10 compatible or later with 1GB RAM\n\n-  DirectX®:  10\n\n-  Hard Drive:  8 GB HD space\n\n-  Sound:  DirectX 9.0c compatible"
+            }
         },
         {
             "id": 22,
@@ -1132,7 +1335,14 @@
                 "Co-op",
                 "Horror"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "500",
+                "minimum": "-  Supported OS:  Windows® 7 32/64-bit / Vista 32/64 / XP\n\n-  Processor:  Pentium 4 3.0GHz\n\n-  Memory:  1 GB\n\n-  Graphics:  128 MB, Shader model 2.0, ATI 9600, NVidia 6600 or better\n\n-  Hard Drive:  At least 7.5 GB of free space\n\n-  Sound Card:  DirectX 9.0c compatible sound card",
+                "recommended": "-  Supported OS:  Windows® 7 32/64-bit / Vista 32/64 / XP\n\n-  Processor:  Intel core 2 duo 2.4GHz\n\n-  Memory:  1 GB\n\n-  Graphics:  Shader model 3.0, NVidia 7600, ATI X1600 or better"
+            }
         },
         {
             "id": 197,
@@ -1158,7 +1368,14 @@
                 "Co-op",
                 "Horror"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "550",
+                "minimum": "-  OS *:  Windows® 7 32/64-bit / Vista 32/64 / XP\n\n-  Processor:  Pentium 4 3.0GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better\n\n-  DirectX:  Version 9.0c\n\n-  Storage:  13 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card",
+                "recommended": "-  OS *:  Windows® 7 32/64-bit / Vista 32/64 / XP\n\n-  Processor:  Intel core 2 duo 2.4GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  Video Card Shader model 3.0. NVidia 7600, ATI X1600 or better\n\n-  DirectX:  Version 9.0c\n\n-  Storage:  13 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card"
+            }
         },
         {
             "id": 216,
@@ -1183,7 +1400,14 @@
                 "Open World",
                 "Racing"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "234140",
+                "minimum": "-  OS *:  64 bit: Vista, Win 7, Win 8, Win 10\n\n-  Processor:  Intel Core i5-650, 3.2 GHz or AMD Phenom II X4 965, 3.4 Ghz\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660ti (2 GB Memory or higher) or AMD Radeon HD 7870 (2 GB Memory or higher)\n\n-  DirectX:  Version 11\n\n-  Storage:  32 GB available space\n\n-  Additional Notes:  PlayStation 4 controller support",
+                "recommended": "-  OS *:  64 bit: Win 7 SP1, Win 8.1, Win 10\n\n-  Processor:  Intel Core i7-3770, 3.4 GHz or AMD FX-8350, 4.0 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 760 (3 GB Memory or higher) or AMD Radeon HD 7970 (3 GB Memory or higher)\n\n-  DirectX:  Version 11\n\n-  Storage:  32 GB available space\n\n-  Additional Notes:  PlayStation 4 controller support"
+            }
         },
         {
             "id": 236,
@@ -1208,7 +1432,14 @@
                 "Open World",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "40990",
+                "minimum": "-  OS *:  Windows XP / Vista / 7 / 8 / 10\n\n-  Processor:  1.4 GHz or faster\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  3D Graphics card compatible with DirectX 9.0\n\n-  DirectX:  Version 9.0\n\n-  Storage:  3 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card\nCompatibility notice:  Windows 8 and above require DirectPlay. Windows XP 64-bit is not supported.",
+                "recommended": ""
+            }
         },
         {
             "id": 86,
@@ -1306,7 +1537,14 @@
                 "Adventure",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "204100",
+                "minimum": "- OS: Windows 10 64 Bit\n\n- Processor: Intel Dual Core 2.4 GHZ - i7 3930K 6 Core x 3.06 GHZ / AMD Dual Core 2.6 GHZ - FX-8150 8 Core x 3.6 GHZ\n\n- Memory: 2GB - 16GB RAM\n\n- Hard Drive: 35GB of free HDD Space\n\n- Graphics: NVIDIA® 8600 GT 512MB VRAM – NVIDIA® GeForce® GTX 680 2GB VRAM / Radeon HD 3400 512MB VRAM - Radeon HD 7970 3GB VRAM\n\n- Sound Card: 100% Direct X 9.0 compatible – Direct X 9.0 compatible supporting Dolby Digital Live\n\nInitial activation requires internet connection and Rockstar Social Club (13+ to register); software installation required including Sony DADC SecuROM; DirectX, and Microsoft’s Windows .NET Framework, and Microsoft Visual C++ 2008 SP1 Redistributable Package (x86).\n\nPartner Requirements\nPlease refer to your hardware manufacturer and  for current compatibility information. Some system components such as integrated graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.\n\nPlease check the terms of service of this site before purchasing this software.\nOver time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and  for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.",
+                "recommended": ""
+            }
         },
         {
             "id": 80,
@@ -1332,7 +1570,14 @@
                 "Sandbox",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2668510",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-Bit\n\n-  Processor:  Intel® Core™ i5-4670 / AMD FX-9590\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 960 / AMD Radeon R7 360\n\n-  DirectX:  Version 12\n\n-  Storage:  12 GB available space\n\n-  Sound Card:  Direct X Compatible",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-Bit\n\n-  Processor:  Intel® Core™ i5-8500 / AMD Ryzen 5 3500X\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA RTX 2070 / AMD RX 5700 XT\n\n-  DirectX:  Version 12\n\n-  Storage:  12 GB available space\n\n-  Sound Card:  Direct X Compatible\n\n-  Additional Notes:  SSD recommended"
+            }
         },
         {
             "id": 215,
@@ -1361,7 +1606,14 @@
             "releaseType": "update",
             "addons": [],
             "createdAt": "2026-11-15T02:31:10.428+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1174180",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 - 64-bit\n\n-  Processor:  Intel® Core™ i5-2500K / AMD FX-6300\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  150 GB available space\n\n-  Sound Card:  Direct X Compatible",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 - 64-bit\n\n-  Processor:  Intel® Core™ i7-4770K / AMD Ryzen 5 1500X\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  150 GB available space\n\n-  Sound Card:  Direct X Compatible"
+            }
         },
         {
             "id": 128,
@@ -1386,7 +1638,14 @@
                 "Fighting",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "202170",
+                "minimum": "-  OS *:  Windows Vista Service Pack 2\n\n-  Processor:  Core 2 Duo 2.4 GHz or Althon X2 2.7 GHz\n\n-  Memory:  2GB\n\n-  Hard Disk Space:  15GB\n\n-  Video Card:  DirectX 10 or 11 compatible Nvidia or AMD ATI card, ATI Radeon 3870 or higher, Nvidia GeForce 8800 GT or higher\n\n-  DirectX®:  10\n\n-  Sound:  DirectX compatible sound card",
+                "recommended": "-  OS *:  Windows 7\n\n-  Processor:  Quad-core Intel or AMD CPU\n\n-  Memory:  4GB\n\n-  Hard Disk Space:  15GB\n\n-  Video Card:  DirectX 11 Nvidia or AMD ATI card, Nvidia GeForce GTX 560 or ATI Radeon 6950\n\n-  DirectX®:  11\n\n-  Sound:  DirectX compatible sound card"
+            }
         },
         {
             "id": 48,
@@ -1458,7 +1717,14 @@
                 "Adventure",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1817190",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit 1909\n\n-  Processor:  Intel Core i3-4160, 3.6 GHz or AMD equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 950 or AMD Radeon RX 470\n\n-  DirectX:  Version 12\n\n-  Storage:  75 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit 1909\n\n-  Processor:  Intel Core i5-4670, 3.4 Ghz or AMD Ryzen 5 1600, 3.2 Ghz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GTX 1060 6GB or AMD Radeon RX 580 8GB\n\n-  DirectX:  Version 12\n\n-  Storage:  75 GB available space\n\n-  Additional Notes:  75 GB SSD space Recommended"
+            }
         },
         {
             "id": 83,
@@ -1482,7 +1748,14 @@
                 "Adventure",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1817070",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i3-4160, 3.6 GHz or AMD equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 950 or AMD Radeon RX 470\n\n-  DirectX:  Version 12\n\n-  Storage:  75 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i5-4670, 3.4 Ghz or AMD Ryzen5 1600, 3.2 Ghz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GTX 1060 6GB or AMD Radeon RX 580 8GB\n\n-  DirectX:  Version 12\n\n-  Storage:  75 GB available space"
+            }
         },
         {
             "id": 142,
@@ -1506,7 +1779,14 @@
                 "Adventure",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2651280",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11 (version 1909 or higher)\n\n-  Processor:  Intel Core i3-8100 or AMD Ryzen 3 3100\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1650 or AMD Radeon RX 5500 XT\n\n-  Storage:  140 GB available space\n\n-  Additional Notes:  SSD Required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11 (version 1909 or higher)\n\n-  Processor:  Intel Core i5-8400 or AMD Ryzen 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700\n\n-  Storage:  140 GB available space\n\n-  Additional Notes:  SSD Required"
+            }
         },
         {
             "id": 9,
@@ -1709,7 +1989,14 @@
                 "Open World",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "447040",
+                "minimum": "-  OS *:  Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\n\n-  Processor:  Intel Core i5 2400s @ 2.5 GHz, AMD FX 6120 @ 3.5 GHz or better\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 with 2 GB VRAM or AMD Radeon HD 7870, with 2 GB VRAM or better - See supported List*\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  27 GB available space\n\n-  Sound Card:  DirectX compatible using the latest drivers\n\n-  Additional Notes:  Minimum specs above for 720p , 30+ FPS, Low graphic settings // Periphericals: Microsoft Xbox One Controller, DUALSHOCK® 4 Controller, Windows-compatible keyboard, mouse, optional controller / Multiplayer: 256 kbps or faster broadband connection / Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at .  High speed internet access and a valid Ubisoft account are required to activate the game after installation, to authenticate your system and continue gameplay after any re-activation, access online features, play online or unlock exclusive content. Game contains EasyAntiCheat  anti-cheat technology and Denuvo  anti-tamper technology.",
+                "recommended": "-  OS *:  Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\n\n-  Processor:  Intel Core i5 3470 @ 3.2 GHz, AMD FX 8120 @ 3.9 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 780 | AMD Radeon R9 290, with 3GB VRAM or better - See supported List*\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  27 GB available space\n\n-  Sound Card:  DirectX-compatible using the latest drivers\n\n-  Additional Notes:  Recommended specs above for 1080p , 30+ FPS, High graphic settings // SUPPORTED VIDEO CARDS AT TIME OF RELEASE: • NVIDIA® GeForce® GTX600 Series: GTX660 or better / GeForce® GTX700 Series: GTX760 or better / GeForce® GTX900 Series: GTX950 or better / GeForce® GTX1000 Series: GTX1060 or better. • AMD Radeon™ HD 7000 series: Radeon™ HD7870 or better / Radeon™ 200 series: Radeon R9 270 or better / Radeon™ 300/Fury X series: Radeon™ R9 370 or better / Radeon 400 series: Radeon RX460 or better. Game contains EasyAntiCheat  anti-cheat technology and Denuvo  anti-tamper technology."
+            }
         },
         {
             "id": 148,
@@ -1735,7 +2022,14 @@
                 "Open World",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2239550",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit versions)\n\n-  Processor:  Intel Core i5-4460 or AMD Ryzen 5 1400 290X\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 970, NVIDIA GeForce GTX 1650, or AMD Radeon R9 290X\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  115 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit versions)\n\n-  Processor:  Intel Core i7-4790 or AMD Ryzen 5 1600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060, NVIDIA GeForce GTX 1660 S, or AMD Radeon RX 480\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  115 GB available space"
+            }
         },
         {
             "id": 253,
@@ -1764,7 +2058,14 @@
             "releaseType": "update",
             "addons": [],
             "createdAt": "2026-11-15T21:37:41.789+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "699130",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7\n\n-  Processor:  AMD A10-5700 / Intel Core i3-3220\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD R7-240 / GForce 650Ti / Intel 630\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  50 GB available space\n\n-  Sound Card:  Yes",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  AMD Ryzen 5 2400G / Intel core i7-3970\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  AMD Radeon R9 280 / Nvidia GeForce GTX 960\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  50 GB available space\n\n-  Sound Card:  Yes"
+            }
         },
         {
             "id": 98,
@@ -1937,7 +2238,14 @@
                 "Arcade",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1551360",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 version 18362.0 or higher\n\n-  Processor:  Intel i5-4460 or AMD Ryzen 3 1200\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVidia GTX 970, AMD RX 470, OR Intel Arc A380\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  110 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 version 18362.0 or higher\n\n-  Processor:  Intel i5-8400 or AMD Ryzen 5 1500X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVidia GTX 1070, AMD RX 590, OR Intel Arc A750\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  110 GB available space"
+            }
         },
         {
             "id": 24,
@@ -2497,7 +2805,14 @@
                 "Sports",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1506830",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 - 64-Bit (Latest Update)\n\n-  Processor:  Intel Core i3-6100 @ 3.7GHz or AMD Athlon X4 880K @4GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB\n\n-  Storage:  50 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 - 64-Bit (Latest Update)\n\n-  Processor:  Intel i5-3550 @ 3.40GHz or AMD FX 8150 @ 3.6GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 670 or AMD Radeon R9 270X\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  50 GB available space"
+            }
         },
         {
             "id": 37,
@@ -2568,7 +2883,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2630",
+                "minimum": "3D hardware accelerator card required - 100% DirectX 9.0c compatible 64MB hardware accelerator video card and the latest drivers*, Microsoft Windows 2000/XP, Pentium IV 1.4GHz or AMD Athlon XP 1700+ processor or higher, 256MB RAM (512MB RAM recommended), 100% DirectX 9.0c compatible 16-bit sound card and latest drivers, 100% Windows 2000/XP compatible mouse, keyboard and latest drivers, 4.0GB of uncompressed free hard disk space (plus 600MB for Windows 2000/XP swap file)\nMulti-player Requirements:\n\n- Internet (TCP/IP) and LAN (TCP/IP) play supported\n\n- Internet play requires broadband connection and latest drivers\n\n- LAN play requires network interface card and latest drivers\n\nImportant Notice: *Some 3D accelerator cards with the chipset listed here may not be compatible with the 3D acceleration features utilized by Call of Duty. Please refer to your hardware manufacturer for 100% DirectX 9.0c compatibility.\nSupported Chipsets\n\n- ATI Radeon 8500\n\n- ATI Radeon 9000\n\n- ATI Radeon 9200\n\n- ATI Radeon 9500\n\n- ATI Radeon 9600\n\n- ATI Radeon 9700\n\n- ATI Radeon 9800\n\n- ATI Radeon X300\n\n- ATI Radeon X550\n\n- ATI Radeon X600\n\n- ATI Radeon X700\n\n- ATI Radeon X800\n\n- ATI Radeon X850\n\n- nVidia GeForce 2 Ultra\n\n- All nVidia GeForce 3/Ti Series\n\n- All nVidia GeForce 4/Ti Series\n\n- All nVidia GeForce FX Series\n\n- All nVidia GeForce 6 Series\n\n- Recommend nVidia GeForce 7 Series or higher",
+                "recommended": ""
+            }
         },
         {
             "id": 173,
@@ -2592,7 +2914,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "10090",
+                "minimum": "-  Supported OS:   Windows XP/Vista/7\n\n-  Processor:  Pentium 4 @ 3 GHz/AMD 64 3200+\n\n-  Memory:  512 MB (1 GB for Vista)\n\n-  Hard Drive:  8 GB Free\n\n-  DirectX version:  DirectX 9.0c\n\n-  Sound:  on-board or better\n\n-  Graphics Card:  256 MB (nVidia GeForce 6600/ATI Radeon X1600)",
+                "recommended": ""
+            }
         },
         {
             "id": 63,
@@ -2784,7 +3113,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1985810",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 64-bit (v.1803 or higher)\n\n-  Processor:  Intel® Core™ i3-4340 or AMD FX-6300*\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 670 / NVIDIA® GeForce® GTX 1650 or AMD Radeon™ HD 7950\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  175 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 64-bit (latest update)\n\n-  Processor:  Intel® Core™ i5-2500K or AMD Ryzen™ R5 1600X Processor\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 970 / NVIDIA® GeForce® GTX 1660 Super or AMD Radeon™ R9 390 / AMD Radeon™ RX 580\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  175 GB available space"
+            }
         },
         {
             "id": 89,
@@ -3168,7 +3504,14 @@
                 "Multiplayer",
                 "Fighting"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2315690",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit: Windows 10\n\n-  Processor:  Intel Core i5-3550 / AMD FX 8150\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce GTX 1060 / Radeon RX 480\n\n-  DirectX:  Version 12\n\n-  Storage:  90 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card\n\n-  Additional Notes:  SSD recommended | AVX - Compatible processor | At least 3GB of Video Memory",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit: Windows 10\n\n-  Processor:  Intel i7-4790 / AMD FX 8350\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce GTX 1070 / Radeon RX 5600 XT\n\n-  DirectX:  Version 12\n\n-  Storage:  90 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible sound card\n\n-  Additional Notes:  SSD recommended | AVX - Compatible processor | At least 6GB of Video Memory"
+            }
         },
         {
             "id": 162,
@@ -3239,7 +3582,14 @@
                 "Shooter",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3764200",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11 (64bit required)\n\n-  Processor:  Intel corei5-8500 / AMD Ryzen 5 3500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce GTX 1660 6GB /  Radeon RX 5500 XT 8GB\n\n-  DirectX:  Version 12\n\n-  Additional Notes:  Supports 1080p gameplay (using upscaling, native resolution of 640p)/30fps. Note: Frame rate may drop when the processing load is high. An SSD is required.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11 (64bit required)\n\n-  Processor:  Intel Core i7-8700 / AMD Ryzen 5 5500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce RTX 2060 Super 8GB / Radeon RX 6600 8GB\n\n-  DirectX:  Version 12\n\n-  Additional Notes:  Supports 1080p gameplay (using upscaling, native resolution of 720p)/60fps. Note: Frame rate may drop when the processing load is high. An SSD is required."
+            }
         },
         {
             "id": 175,
@@ -3262,7 +3612,14 @@
                 "Fighting",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "389730",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7/8/10 (64-bit OS required)\n\n-  Processor:  Intel Core i3-4160 @ 3.60GHz or equivalent\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 2GB, GTX 750Ti 2GB, or equivalent\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  60 GB available space\n\n-  Sound Card:  DirectX compatible soundcard or onboard chipset",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7/8/10 (64-bit OS required)\n\n-  Processor:  Intel Core i5-4690 3.5 GHz or equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 equivalent or higher \n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  60 GB available space\n\n-  Sound Card:  DirectX compatible soundcard or onboard chipset"
+            }
         },
         {
             "id": 115,
@@ -3285,7 +3642,14 @@
                 "Fighting",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1778820",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-Bit\n\n-  Processor:  Intel Core i5-6600K/AMD Ryzen 5 1600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  100 GB available space\n\n-  Sound Card:  DirectX compatible soundcard/Onboard chipset\n\n-  Additional Notes:  *\"FPS (frame rate/second): Stable over 60\" is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-Bit\n\n-  Processor:  Intel Core i7-7700K/AMD Ryzen 5 2600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XT\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  100 GB available space\n\n-  Sound Card:  DirectX compatible soundcard/Onboard chipset\n\n-  Additional Notes:  *\"FPS (frame rate/second): Stable over 60\" is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice."
+            }
         },
         {
             "id": 94,
@@ -3308,7 +3672,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1332010",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel Core i5-2300 | AMD FX-6350\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  10 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel Core i5-8400 | AMD Ryzen 5 2600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 780, 3 GB | AMD Radeon R9 290X, 4 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  10 GB available space"
+            }
         },
         {
             "id": 233,
@@ -3331,7 +3702,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2986370",
+                "minimum": "-  OS:  Windows (64-bit) 10\n\n-  Processor:  i5 3rd gen / RYZEN 5 2nd gen\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 1050 Ti / AMD R9 270X\n\n-  DirectX:  Version 11\n\n-  Storage:  5 GB available space",
+                "recommended": "-  OS:  Windows (64-bit) 10\n\n-  Processor:  i5 7th gen / Ryzen 5 3rd gen\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  NVIDIA GTX 1660 / AMD RX 480\n\n-  DirectX:  Version 11\n\n-  Storage:  5 GB available space"
+            }
         },
         {
             "id": 130,
@@ -3354,7 +3732,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3441460",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows (64-bit) 10\n\n-  Processor:  3GHz 4-Core or Similar\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVidia GeForce GTX 1650 or Radeon RX 580\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  4 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows (64-bit) 10\n\n-  Processor:  3.3GHz 4-Core/6-Core or Similar\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce 1080Ti or AMD Radeon RX 5700 XT\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  4 GB available space"
+            }
         },
         {
             "id": 177,
@@ -3377,7 +3762,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2625420",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11 (64-Bit)\n\n-  Processor:  Intel Core i5-6600@ 3.1 GHz or AMD R5 1600X @ 3.5 GHz or equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1650 or equivalent",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11 (64-Bit)\n\n-  Processor:  Intel Core i5 10400 3.1 GHz or AMD Ryzen 5 2600x 3.1 GHz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3060 or equivalent"
+            }
         },
         {
             "id": 126,
@@ -3400,7 +3792,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1136160",
+                "minimum": "-  OS *:  Windows 7\n\n-  Processor:  2 GHz Dual Core CPU\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  Intel HD Graphics 4000 or better\n\n-  Storage:  4500 MB available space",
+                "recommended": "-  OS:  Windows 10\n\n-  Processor:  2.5 GHz Dual Core CPU\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Geforce GTX 970/Radeon RX470 or better\n\n-  Storage:  5 GB available space"
+            }
         },
         {
             "id": 99,
@@ -3423,7 +3822,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1563180",
+                "minimum": "-  OS *:  Windows 7\n\n-  Processor:  2 GHz Dual Core CPU\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Intel HD Graphics 4000 or better\n\n-  Storage:  7 GB available space",
+                "recommended": "-  OS:  Windows 10\n\n-  Processor:  2.5 GHz Dual Core CPU\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  Geforce GTX 970/Radeon RX470 or better\n\n-  Storage:  7 GB available space"
+            }
         },
         {
             "id": 47,
@@ -3447,7 +3853,14 @@
                 "Management",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1190970",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64bit\n\n-  Processor:  AMD Ryzen 5 1st gen / Intel Core i5 7th gen\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon RX 580 4GB / NVIDIA GeForce GTX 1060 6GB\n\n-  DirectX:  Version 11\n\n-  Storage:  10 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  AMD Ryzen 5 3rd gen / Intel Core i5 10th gen\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  AMD Radeon RX 5700XT 8GB / NVIDIA RTX 2070 8GB\n\n-  DirectX:  Version 11\n\n-  Storage:  14 GB available space"
+            }
         },
         {
             "id": 184,
@@ -3493,7 +3906,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "621060",
+                "minimum": "-  OS *:  Windows 7 or higher\n\n-  Processor:  Intel Core i5-2500K or AMD Athlon X4 740 (or equivalent)\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  GeForce GTX 660 (2048 MB) or Radeon R9 285 (2048 MB) - Integrated GPUs may work but are not supported.\n\n-  DirectX:  Version 9.0c\n\n-  Storage:  30 GB available space\n\n-  Sound Card:  DirectX compatible",
+                "recommended": ""
+            }
         },
         {
             "id": 201,
@@ -3539,7 +3959,14 @@
                 "Simulation",
                 "Management"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1160920",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit)\n\n-  Processor:  Intel Core i3 3.0 GHz or Ryzen 3xxx\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVidia GeForce GTX 960 4GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  7 GB available space\n\n-  Additional Notes:  While the game was created with dedicated GPUs in mind, recent tests show it also runs on a modern integrated GPU if you stick to a lower display resolution like 720p. Try the demo and see if it works for you.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64-bit)\n\n-  Processor:  Intel Core i5 (recent generation)\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVidia GeForce GTX 1070 6GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  7 GB available space"
+            }
         },
         {
             "id": 194,
@@ -3658,7 +4085,14 @@
                 "Strategy",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "373930",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7, 8, 10\n\n-  Processor:  AMD or Intel, 3 GHz Dual-Core or 2.6 GHz Quad-Core\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  AMD Radeon HD 7850, NVIDIA GeForce 660 series\n\n-  Storage:  12 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7, 8, 10\n\n-  Processor:  AMD Quad-Core @ 3.8 GHz or Intel Quad-Core @ 3.2 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon RX 470 or NVIDIA GeForce 1050 Ti series and above\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  12 GB available space"
+            }
         },
         {
             "id": 146,
@@ -3705,7 +4139,14 @@
                 "Strategy",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3024040",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11 64 Bit\n\n-  Processor:  Intel® Core™ i3-6100 or equivalent (Arm processors are not supported)\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Graphics Card with 2GB VRAM (for 1080p) or 3GB VRAM (for 1440p) or 4GB VRAM (for 4k)\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  7 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system"
+            }
         },
         {
             "id": 53,
@@ -3777,7 +4218,14 @@
                 "Adventure",
                 "Horror"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1449690",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 64Bit Service Pack 1\n\n-  Processor:  Intel Core 2 Duo 2.8GHz\n\n-  Memory:  3 GB RAM\n\n-  Graphics:  Nvidia GeForce GTS 450 2GB\n\n-  DirectX:  Version 11\n\n-  Storage:  45 GB available space\n\n-  Sound Card:  DirectX 11 sound device",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 64Bit Service Pack 1\n\n-  Processor:  Intel Core i5-2500K\n\n-  Memory:  3 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 960\n\n-  DirectX:  Version 11\n\n-  Storage:  45 GB available space\n\n-  Sound Card:  DirectX 11 sound device"
+            }
         },
         {
             "id": 109,
@@ -3803,7 +4251,14 @@
                 "Puzzle",
                 "Platformer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1426210",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 8.1 64-bit or Windows 10 64-bit\n\n-  Processor:  Intel Core i3-2100T or AMD FX 6100\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 660 or AMD R7 260x\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  50 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 8.1 64-bit or Windows 10 64-bit\n\n-  Processor:  Intel Core i5 3570K or AMD Ryzen 3 1300x\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 980 or AMD R9 290X\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  50 GB available space"
+            }
         },
         {
             "id": 157,
@@ -3829,7 +4284,14 @@
                 "Open World",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1259420",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bits\n\n-  Processor:  Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4 GB)\n\n-  DirectX:  Version 11\n\n-  Storage:  70 GB available space\n\n-  Additional Notes:  Though not required, SSD for storage and 16 GB of memory is recommended",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bits\n\n-  Processor:  Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8 GB)\n\n-  DirectX:  Version 11\n\n-  Storage:  70 GB available space\n\n-  Additional Notes:  Though not required, SSD for storage is recommended"
+            }
         },
         {
             "id": 226,
@@ -3853,7 +4315,14 @@
                 "Puzzle",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "334470",
+                "minimum": "-  OS *:  Windows 2000/ Vista / XP\n\n-  Processor:  1 Ghz\n\n-  Memory:  256 MB RAM\n\n-  DirectX:  Version 9.0\n\n-  Storage:  100 MB available space",
+                "recommended": ""
+            }
         },
         {
             "id": 240,
@@ -3900,7 +4369,14 @@
                 "Action",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "33100",
+                "minimum": "-  OS *: Windows 2000 / XP / Vista\n\n-  Processor:  400 MHz\n\n-  Memory:  128 MB\n\n-  Graphics:  Direct3D compatible 3D graphics card with 32 MB RAM\n\n-  DirectX®:  7.0\n\n-  Hard Drive:  50 MB Free Space\n\n-  Sound:  DirectSound compatible sound card",
+                "recommended": ""
+            }
         },
         {
             "id": 42,
@@ -3973,7 +4449,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4100940",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel Core i3 9100 / AMD Ryzen 5 3500\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 1650 / Radeon RX 470\n\n-  DirectX:  Version 12",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel Core i9-11900k / AMD Ryzen 9 5900x\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce RTX 3070 / Radeon RX 6800XT\n\n-  DirectX:  Version 12"
+            }
         },
         {
             "id": 132,
@@ -3998,7 +4481,14 @@
                 "Platformer",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "424840",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:   Windows 7, 64-bit\n\n-  Processor:   Intel CPU Core i3\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Nvidia GTX 460\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  10 GB available space\n\n-  Additional Notes:  SSE4.2 required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:   Windows 7, 64-bit\n\n-  Processor:   Intel CPU Core i7\n\n-  Memory:  8 GB RAM\n\n-  Graphics:   Nvidia GPU GeForce GTX 660\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  10 GB available space\n\n-  Additional Notes:  SSE4.2 required"
+            }
         },
         {
             "id": 202,
@@ -4026,7 +4516,14 @@
                 "Open World",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1203620",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel Core i5-6400 (2.7 GHz 4 Core) / AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  60 GB available space\n\n-  Sound Card:  on board",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel i7-8700 (3.7 GHz 6 Core) / AMD Ryzen 7 2700X (3.7 GHz 8 Core) or equivalent\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA RTX 2070 Super (req. 6GB VRAM) / AMD Radeon RX 6700 XT (req. 6GB VRAM) / Intel ARC A770\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  60 GB available space\n\n-  Sound Card:  on board\n\n-  Additional Notes:  SSD recommended."
+            }
         },
         {
             "id": 241,
@@ -4100,7 +4597,14 @@
                 "Horror",
                 "Adventure"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1295920",
+                "minimum": "-  OS *:  Windows 7 or higher\n\n-  Processor:  2 GHz or higher\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  geforce 960 or higher\n\n-  DirectX:  Version 11\n\n-  Storage:  4 GB available space",
+                "recommended": ""
+            }
         },
         {
             "id": 246,
@@ -4124,7 +4628,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1670870",
+                "minimum": "-  OS *:  WINDOWS® 7, 8, 8.1, 10, 11\n\n-  Processor:  Intel® Core™ i3 or AMD Ryzen™ 3\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 950 or AMD Radeon™ R7 370\n\n-  DirectX:  Version 10\n\n-  Storage:  10 GB available space",
+                "recommended": "-  OS:  Windows 10\n\n-  Processor:  Intel® Core™ i5 or AMD Ryzen™ 5\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 1060 or AMD Radeon™ RX 480\n\n-  Storage:  10 GB available space"
+            }
         },
         {
             "id": 195,
@@ -4172,7 +4683,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "282140",
+                "minimum": "-  OS *:  64-bit Windows Vista\n\n-  Processor:  Core i3 / AMD A6 2.4Ghz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 260 / AMD Radeon HD 5750. OpenGL 3.3\n\n-  Storage:  25 GB available space\n\n-  Additional Notes:  Integrated Intel graphics are not supported. They should work (Intel HD 4000-series or better), but with issues.",
+                "recommended": "-  OS *:  64-bit Windows 7\n\n-  Processor:  Core i5 / AMD FX 2.4Ghz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 480 / AMD Radeon HD 5970. OpenGL 3.3\n\n-  Storage:  25 GB available space\n\n-  Additional Notes:  Integrated Intel graphics are not supported. They should work (Intel HD 4000-series or better), but with issues."
+            }
         },
         {
             "id": 50,
@@ -4195,7 +4713,14 @@
                 "Horror",
                 "Adventure"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3420300",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  i3\n\n-  Memory:  2048 MB RAM\n\n-  Graphics:  Motherboard Graphics\n\n-  DirectX:  Version 6.0\n\n-  Storage:  1 GB available space\n\n-  Sound Card:  Motherboard\n\n-  VR Support:  No\n\n-  Additional Notes:  None",
+                "recommended": "- Requires a 64-bit processor and operating system"
+            }
         },
         {
             "id": 189,
@@ -4290,7 +4815,14 @@
                 "Fighting",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1790600",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel Core i5-9600K / AMD Ryzen 5 2600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 980 / AMD Radeon RX 590 / Intel Arc A750\n\n-  DirectX:  Version 12\n\n-  Storage:  29 GB available space\n\n-  Additional Notes:  Estimated performance: 1080p/60fps with graphics settings at \"Low\". Framerate might drop in graphics-intensive scenes. - 64-bit processor and operating system are required.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 / Windows 11\n\n-  Processor:  Intel Core i7-9700K / AMD Ryzen 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce RTX 2060 / AMD Radeon RX Vega 64\n\n-  DirectX:  Version 12\n\n-  Storage:  29 GB available space\n\n-  Additional Notes:  Estimated performance: 1080p/60fps with graphics settings at \"High\". Framerate might drop in graphics-intensive scenes. - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API."
+            }
         },
         {
             "id": 28,
@@ -4316,7 +4848,14 @@
             ],
             "releaseType": "update",
             "createdAt": "2026-11-14T18:56:12.459+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "945360",
+                "minimum": "-  OS:  Windows 10 x32bit\n\n-  Processor:  INTEL i3-4330\n\n-  Memory:  1 GB RAM\n\n-  Graphics:  INTEL HD Graphics 4600",
+                "recommended": "-  OS:  Windows 10 x64bit\n\n-  Processor:  INTEL i3-4330\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Nvidia GTX 650"
+            }
         },
         {
             "id": 26,
@@ -4340,7 +4879,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1985820",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64 Bit (latest update)\n\n-  Processor:  Intel Core i3-4340 or AMD FX-6300\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 960 or AMD Radeon RX 470\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  36 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Window 10 64 Bit (latest update) or Windows 11 64 Bit (latest update)\n\n-  Processor:  Intel Core i5-2500k or AMD Ryzen 5 1600X\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 or AMD Radeon RX 580\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  177 GB available space"
+            }
         },
         {
             "id": 107,
@@ -4387,7 +4933,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4384550",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 64 Bit (latest update)\n\n-  Processor:  AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 960 or Intel® Arc™ A580\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Additional Notes:  SSD with 128 GB available space at launch",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 64 Bit (latest update) or Windows® 11 64 Bit (latest update)\n\n-  Processor:  AMD Ryzen™ 5 1600X or Intel® Core™ i7-6700K\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  AMD Radeon™ RX 6600XT or NVIDIA® GeForce® GTX 1080Ti / RTX 3060\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Additional Notes:  SSD with 128 GB available space at launch"
+            }
         },
         {
             "id": 32,
@@ -4460,7 +5013,14 @@
                 "Shooter",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4435490",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 64 Bit (latest update)*\n\n-  Processor:  AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 or Intel® Arc™ A580\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  115 GB available space\n\n-  Sound Card:  DirectX compatible\n\n-  Additional Notes:  *Trial, Beta or Insider versions of compatible Windows® operating systems may not be supported. SSD with 115 GB available space at launch.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 11 64 Bit (latest update)*\n\n-  Processor:  AMD Ryzen™ 5 3600 or Intel® Core™ i7-8700K\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  AMD Radeon™ RX 6600XT, NVIDIA® GeForce® RTX 3060 or Intel® Arc™ B580\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  115 GB available space\n\n-  Sound Card:  DirectX compatible\n\n-  Additional Notes:  *Trial, Beta or Insider versions of compatible Windows® operating systems may not be supported. SSD with 115 GB available space at launch."
+            }
         },
         {
             "id": 141,
@@ -4509,7 +5069,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1222140",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit)\n\n-  Processor:  Intel Core i5-2300 @ 2.8 GHz or AMD Ryzen 3 1200 @ 3.1GHz or AMD FX-8350 @ 4.2GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 780 or AMD HD 7950 with 3GB VRAM minimum (Support of Vulkan 1.1 required)\n\n-  Storage:  55 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit)\n\n-  Processor:  Intel Core i5-6600 @ 3.3 GHz or AMD Ryzen 3 1300 X @ 3.4 GHz\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 1060 or AMD Radeon RX 580 with 4GB VRAM minimum (Support of Vulkan 1.1 required)\n\n-  Storage:  55 GB available space"
+            }
         },
         {
             "id": 4,
@@ -4535,7 +5102,14 @@
                 "Co-op",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1304930",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel Core i7-3770 or AMD Ryzen 5 1400\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 650 Ti, 2 GB or Radeon R7 360, 2 GB or Intel Arc A310, 4GB\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space\n\n-  Additional Notes:  Low 720p @ 30 FPS, DX11, Ray Tracing OFF",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  WIndows 10\n\n-  Processor:  Intel Core i7-6700K or AMD Ryzen 5 2600X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1660, 6 GB or AMD Radeon RX Vega 56, 8 GB or Intel Arc A580, 8GB\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space\n\n-  Additional Notes:  High 1080p @ 60 FPS, DX12, Ray Tracing OFF"
+            }
         },
         {
             "id": 230,
@@ -4640,7 +5214,14 @@
                 "Management",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2456740",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel i5 10400, AMD Ryzen 5 3600\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  NVIDIA RTX 2060 (6G VRAM), AMD Radeon RX 5600 XT (6G VRAM)\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  intel i7 12700k, AMD Ryzen 7 7800x3D\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA RTX 3070 (8G VRAM), AMD Radeon RX 6800 XT (16GB VRAM)\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  60 GB available space"
+            }
         },
         {
             "id": 1,
@@ -4663,7 +5244,14 @@
                 "Horror",
                 "Adventure"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1790930",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i7-8700K | AMD Ryzen 5 3600X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® RTX 2060 or AMD Radeon™ RX 6600\n\n-  Storage:  18 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system"
+            }
         },
         {
             "id": 231,
@@ -4689,7 +5277,14 @@
                 "Open World",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2080690",
+                "minimum": "-  OS *:  Windows 7\n\n-  Processor:  Intel Dual-Core 2.4 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce 8800GT",
+                "recommended": "-  OS *:  Windows 7\n\n-  Processor:  Quad Core Processor\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 560"
+            }
         },
         {
             "id": 188,
@@ -4716,7 +5311,14 @@
                 "Open World",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "346110",
+                "minimum": "-  OS *:  Windows 7/8.1/10 (64-bit versions)\n\n-  Processor:  Intel Core i5-2400/AMD FX-8320 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better\n\n-  DirectX:  Version 10\n\n-  Storage:  60 GB available space\n\n-  Additional Notes:  Requires broadband internet connection for multiplayer",
+                "recommended": ""
+            }
         },
         {
             "id": 144,
@@ -4769,7 +5371,14 @@
                 "Shooter",
                 "Action"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "6900",
+                "minimum": "-  OS:  Microsoft Windows 95/98/ME\n\n-  Processor:  Pentium II 300 MHz\n\n-  Memory:  64 MB RAM\n\n-  Graphics:  100% DirectX 7.0a-compatible 3d Accelerated Card with 12MB VRAM\n\n-  DirectX:  Version 7.0a\n\n-  Storage:  400 MB available space\n\n-  Sound Card:  100% DirectX 7.0a-compatible Sound Card\n\n-  Additional Notes:  100% Windows 95/98/ME compatible mouse and keyboard",
+                "recommended": "-  OS:  Microsoft Windows 95/98/ME\n\n-  Processor:  Pentium III equivalent or greater\n\n-  Memory:  128 MB RAM\n\n-  Graphics:  100% DirectX 7.0a-compatible 3d Accelerated Card with 32 MB VRAM\n\n-  DirectX:  Version 7.0a\n\n-  Storage:  400 MB available space\n\n-  Sound Card:  100% DirectX 7.0a-compatible Sound Card\n\n-  Additional Notes:  100% Windows 95/98/ME compatible mouse and keyboard"
+            }
         },
         {
             "id": 211,
@@ -4793,7 +5402,14 @@
                 "Stealth",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "6850",
+                "minimum": "Microsoft Windows 98/ME/XP, Pentium 3 450 MHz or equivalent, 100% DirectX 8.1 compatible video card with at least 16 megabytes of video memory, 128 MB system RAM, 100% DirectX 8.1 compatible sound card, 800 MB uncompressed free hard drive space, 100% Windows 98/ME/XP compatible mouse and keyboard\nRecommended:  Pentium 3 1GHz equivalent or greater, 256 MB system RAM, 100% DirectX 8.1 compatible 3D Accelerator video card with 32 MB video RAM, 100% DirectX 8.1 compatible EAX Advanced HD Sound Card",
+                "recommended": ""
+            }
         },
         {
             "id": 59,
@@ -4864,7 +5480,14 @@
                 "Action",
                 "RPG"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2358720",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i5-8400 / AMD Ryzen 5 1600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB\n\n-  DirectX:  Version 11\n\n-  Storage:  130 GB available space\n\n-  Sound Card:  Windows Compatible Audio Device\n\n-  Additional Notes:  HDD Supported, SSD Recommended. The above specifications were tested with DLSS/FSR/XeSS enabled.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i7-9700 / AMD Ryzen 5 5500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 2060 / AMD Radeon RX 5700 XT / INTEL Arc A750\n\n-  DirectX:  Version 12\n\n-  Storage:  130 GB available space\n\n-  Sound Card:  Windows Compatible Audio Device\n\n-  Additional Notes:  SSD Required. The above specifications were tested with DLSS/FSR/XeSS enabled."
+            }
         },
         {
             "id": 71,
@@ -4887,7 +5510,14 @@
                 "Action",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "57900",
+                "minimum": "-  OS *:  Windows XP/Vista/7\n\n-  Processor:  Intel Core 2 Duo @ 2.0 Ghz / AMD Athlon 64 X2 @ 2.0 Ghz\n\n-  Memory:  1 Gb\n\n-  Hard Disk Space:  10 Gb free\n\n-  Video Memory:  256 MB\n\n-  Video Card:  nVidia GeForce 7600 / ATI Radeon HD 2600\n\n-  Sound Card:  DirectX Compatible\n\n-  OTHER REQUIREMENTS & SUPPORTS:  Initial installations required (included with the game) are Microsoft DirectX, Visual C++ 2005 Redistributable (ATL), Visual C++ 2008 Redistributable, and AMD Dual Core Optimizer. (AMD optimizer required only for specific AMD processors to run the game correctly, but installs for all of them.)\n\n-  OTHER REQUIREMENTS & SUPPORTS:  Does not support Windows XP 64",
+                "recommended": "-  OS *:  Windows XP/Vista/7\n\n-  Processor:  Intel Core 2 Duo @ 2.4 Ghz / AMD Athlon 64 X2 @ 2.6 Ghz\n\n-  Memory:  2GB\n\n-  Hard Disk Space:  10 Gb free\n\n-  Video Memory:  512 MB\n\n-  Video Card:  nVidia GeForce 8800 GTS / ATI Radeon HD 3850\n\n-  Sound Card:  DirectX Compatible\n\n-  OTHER REQUIREMENTS & SUPPORTS:  Initial installations required (included with the game) are Microsoft DirectX, Visual C++ 2005 Redistributable (ATL), Visual C++ 2008 Redistributable, and AMD Dual Core Optimizer. (AMD optimizer required only for specific AMD processors to run the game correctly, but installs for all of them.)"
+            }
         },
         {
             "id": 208,
@@ -4935,7 +5565,14 @@
                 "Simulation",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "805550",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 x64 20H2 (October 2020 Update)\n\n-  Processor:  Intel Core i5-4460 or AMD FX-8120\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  GeForce GTX 750 4GB, Radeon RX 460 4GB\n\n-  DirectX:  Version 11\n\n-  Storage:  50 GB available space\n\n-  Sound Card:  Integrated\n\n-  VR Support:  SteamVR or Oculus PC. Keyboard or gamepad required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 x64 - 21H2\n\n-  Processor:  Intel Core i5-8600K or AMD Ryzen 5 2600X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce GTX 1070 8 GB, Radeon RX 580 8GB\n\n-  DirectX:  Version 11\n\n-  Storage:  50 GB available space\n\n-  Sound Card:  Integrated"
+            }
         },
         {
             "id": 114,
@@ -4958,7 +5595,14 @@
                 "RPG",
                 "Adventure"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1903340",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  Intel Core i7-8700K / AMD Ryzen 5 1600X\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 6 GB / AMD Radeon RX 5600 XT 6 GB / Intel Arc A380 6 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  55 GB available space\n\n-  Additional Notes:  SSD required. Minimum specs allow for 1080p 30FPS low settings gameplay.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  Intel Core i7-12700K / AMD Ryzen 7 5800X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3060 Ti 8 GB / AMD Radeon RX 6800 XT 16 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  55 GB available space\n\n-  Additional Notes:  SSD required. Recommended specs allow for 1080p 60FPS high settings gameplay."
+            }
         },
         {
             "id": 214,
@@ -5005,7 +5649,14 @@
                 "Strategy",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1604270",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 x64\n\n-  Processor:  Intel Core i7-6700 (4* 3400) / AMD Ryzen 3 2200G (4 * 3500)\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce GTX 1650 (4096 MB) / Radeon RX 570 (4096 MB)\n\n-  Storage:  85 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 x64\n\n-  Processor:  Intel Core i9-9900k (8 * 3600) / AMD Ryzen 7 5800X3D (8 * 3400)\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce RTX 3080 (10240 MB) / Radeon RX 6800 XT (16384 MB)\n\n-  Storage:  85 GB available space"
+            }
         },
         {
             "id": 69,
@@ -5052,7 +5703,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "960910",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 or later (64 bit)\n\n-  Processor:  Intel Core i5-4430 @ 3.0 GHz or AMD FX-6300 @ 3.5 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 660 with 2GB VRAM or AMD Radeon HD 7870 with 2GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  35 GB available space\n\n-  Additional Notes:  720p, 30 FPS",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 or later (64 bit)\n\n-  Processor:  Intel Core i5-6600K @ 3.5GHz or AMD Ryzen 3 1300X @ 3.4GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 970 with 4GB VRAM or AMD Radeon R9 390 with 4GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  35 GB available space\n\n-  Additional Notes:  1080p, 60 FPS"
+            }
         },
         {
             "id": 125,
@@ -5075,7 +5733,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "960990",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 or later (64 bit)\n\n-  Processor:  Intel Core i5-4430 @ 3.0 GHz or AMD FX-6300 @ 3.5 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 660 with 2GB VRAM or AMD Radeon HD 7870 with 2GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  49 GB available space\n\n-  Additional Notes:  720p, 30 FPS",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 or later (64 bit)\n\n-  Processor:  Intel Core i5-6600K @ 3.5GHz or AMD Ryzen 3 1300X @ 3.4GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 970 with 4GB VRAM or AMD Radeon R9 390 with 4GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  49 GB available space\n\n-  Additional Notes:  1080p, 60 FPS"
+            }
         },
         {
             "id": 49,
@@ -5100,7 +5765,14 @@
                 "Co-op",
                 "Platformer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "620",
+                "minimum": "-  OS *:  Windows 7 / Vista / XP\n\n-  Processor:  3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  Video card must be 128 MB or more and with support for Pixel Shader 2.0b (ATI Radeon X800 or higher / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000 or higher).\n\n-  DirectX:  Version 9.0c\n\n-  Storage:  8 GB available space\n\n-  Sound Card:  DirectX 9.0c compatible",
+                "recommended": ""
+            }
         },
         {
             "id": 3,
@@ -5147,7 +5819,14 @@
                 "Platformer",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "48000",
+                "minimum": "-  OS:  Windows 10 or later\n\n-  Processor:  2 GHz\n\n-  Memory:  4GB\n\n-  Hard Disk Space:  150MB\n\n-  Video Card:  Integrated graphics from 2020 or later. Shader Model 3.0 required\n\n-  DirectX®:  9.0c",
+                "recommended": ""
+            }
         },
         {
             "id": 79,
@@ -5267,7 +5946,14 @@
                 "Fighting",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "307780",
+                "minimum": "-  OS *:  64-bit: Vista, Win 7, Win 8, Win 10\n\n-  Processor:  Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz\n\n-  Memory:  3 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 460 | AMD Radeon HD 5850\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  36 GB available space",
+                "recommended": "-  OS *:  64-bit: Win 7, Win 8, Win 10\n\n-  Processor:  Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 | AMD Radeon HD 7950\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  44 GB available space"
+            }
         },
         {
             "id": 159,
@@ -5290,7 +5976,14 @@
                 "Fighting",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "976310",
+                "minimum": "-  OS *:  64-bit Windows 7 / Windows 10\n\n-  Processor:  Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection",
+                "recommended": "-  OS *:  64-bit Windows 7 / Windows 10\n\n-  Processor:  Intel Core i5-2300, 2.8 GHz / AMD FX-6300, 3.5GHz or AMD Ryzen™ 5 1400, 3.2 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 or RX 570\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection"
+            }
         },
         {
             "id": 198,
@@ -5313,7 +6006,14 @@
                 "Fighting",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1971870",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel® Core™ i5-6600 | AMD Ryzen™ 3 3100 or Ryzen™ 5 2600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce® GTX 1660 or AMD Radeon™ RX 590 or Intel® Arc™ A750\n\n-  DirectX:  Version 12\n\n-  Storage:  140 GB available space\n\n-  Additional Notes:  SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11 64-bit\n\n-  Processor:  Intel® Core™ i5-8400 | AMD Ryzen™ 5 3600X\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GeForce® GTX 2080 Ti or AMD Radeon™ RX 5700 XT or Intel® Arc™ A770\n\n-  DirectX:  Version 12\n\n-  Storage:  140 GB available space\n\n-  Additional Notes:  SSD, 1440p/High"
+            }
         },
         {
             "id": 16,
@@ -5340,7 +6040,14 @@
                 "Open World",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "242760",
+                "minimum": "-  OS *:  Windows 7\n\n-  Processor:  Intel Dual-Core 2.4 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GeForce 8800GT\n\n-  DirectX:  Version 9.0\n\n-  Storage:  5 GB available space\n\n-  Sound Card:  DirectX®-compatible\n\n-  VR Support:  SteamVR or Oculus PC\n\n-  Additional Notes:  32bit windows users need to ensure they have at least 4gb of ram usable on their system.",
+                "recommended": "-  OS *:  Windows 7\n\n-  Processor:  Quad Core Processor\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 560\n\n-  DirectX:  Version 9.0\n\n-  Storage:  5 GB available space\n\n-  Sound Card:  DirectX®-compatible"
+            }
         },
         {
             "id": 185,
@@ -5365,7 +6072,14 @@
                 "Co-op",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "313120",
+                "minimum": "-  OS *:  Windows 7\n\n-  Processor:  X64 Quad Core CPU 2.0GHz+\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  2GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  4 GB available space",
+                "recommended": "-  OS:  Windows 10 (64-bit)\n\n-  Processor:  X64 Quad Core CPU 3.0GHz+\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  4GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  4 GB available space"
+            }
         },
         {
             "id": 229,
@@ -5390,7 +6104,14 @@
                 "Co-op",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "815370",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7/8/10 64-bit\n\n-  Processor:  3.2 GHz Dual Core Processor\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  GeForce GTX 660, Radeon RX 460 or equivalent with 2 GB of video RAM\n\n-  DirectX:  Version 11\n\n-  Storage:  8 GB available space\n\n-  Sound Card:  DirectX compatible",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7/8/10 64-bit\n\n-  Processor:  3.2 GHz Dual Core Processor\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce 970, Radeon RX 580 or equivalent with 4GB of video RAM\n\n-  DirectX:  Version 11\n\n-  Storage:  8 GB available space\n\n-  Sound Card:  DirectX compatible"
+            }
         },
         {
             "id": 93,
@@ -5416,7 +6137,14 @@
                 "Adventure",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "648800",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 or later\n\n-  Processor:  Intel Core i5 2.6GHz or similar\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  GeForce GTX 700 series or similar\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  10 GB available space\n\n-  Additional Notes:  64-bit operating system is required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 or later\n\n-  Processor:  Intel Core i5-6600 3.3GHz or similar\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce GTX 1050 series or similar\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  10 GB available space\n\n-  Additional Notes:  64-bit operating system is required"
+            }
         },
         {
             "id": 73,
@@ -5443,7 +6171,14 @@
                 "Open World",
                 "Sandbox"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "892970",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 or later\n\n-  Processor:  2.6 GHz Quad Core or similar\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce GTX 950 or Radeon HD 7970\n\n-  DirectX:  Version 11\n\n-  Storage:  1 GB available space\n\n-  Additional Notes:  The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 or later\n\n-  Processor:  i5 3GHz or Ryzen 5 3GHz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce GTX 1060 or Radeon RX 580\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  1 GB available space"
+            }
         },
         {
             "id": 192,
@@ -5469,7 +6204,14 @@
                 "Adventure",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "264710",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows Vista SP2 or newer, 64-bit\n\n-  Processor:  Intel Haswell 2 cores / 4 threads @ 2.5Ghz or equivalent\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  Intel HD 4600 or equivalent - This includes most GPUs scoring greater than 950 points in the 3DMark Fire Strike benchmark\n\n-  DirectX:  Version 11\n\n-  Storage:  20 GB available space\n\n-  VR Support:  SteamVR. Keyboard or gamepad required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows Vista SP2 or newer, 64-bit\n\n-  Processor:  Intel Haswell 4 cores / 4 threads @ 3.2Ghz or equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GTX 550 Ti or equivalent, 2GB VRAM\n\n-  DirectX:  Version 11\n\n-  Storage:  20 GB available space"
+            }
         },
         {
             "id": 220,
@@ -5494,7 +6236,14 @@
                 "Multiplayer",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "227300",
+                "minimum": "-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i5-6400 or AMD Ryzen 3 1200 or similar\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)\n\n-  Hard Drive:  25 GB available space (Euro Truck Simulator 2 base game)",
+                "recommended": "-  OS:  Windows 10 64-bit\n\n-  Processor:  Intel Core i5-9600 or AMD Ryzen 5 3600 or similar\n\n-  Memory:  12 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM)\n\n-  Hard Drive:  25 GB available space (Euro Truck Simulator 2 base game)"
+            }
         },
         {
             "id": 104,
@@ -5518,7 +6267,14 @@
                 "Platformer",
                 "Action"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "367520",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 version 21H1 (build 19043) or newer\n\n-  Processor:  Intel Core i3-3240, AMD FX-4300\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)\n\n-  DirectX:  Version 10\n\n-  Storage:  9 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 version 21H1 (build 19043) or newer\n\n-  Processor:  Intel Core i5-3470\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)\n\n-  DirectX:  Version 10\n\n-  Storage:  9 GB available space"
+            }
         },
         {
             "id": 67,
@@ -5542,7 +6298,14 @@
                 "Platformer",
                 "Action"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1030300",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 version 21H1 (build 19043) or newer\n\n-  Processor:  Intel Core i3-3240, AMD FX-4300\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)\n\n-  DirectX:  Version 10\n\n-  Storage:  8 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 version 21H1 (build 19043) or newer\n\n-  Processor:  Intel Core i5-3470\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)\n\n-  DirectX:  Version 10\n\n-  Storage:  8 GB available space"
+            }
         },
         {
             "id": 97,
@@ -5566,7 +6329,14 @@
                 "Platformer",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "304430",
+                "minimum": "-  OS:  Windows 10 (64-bit OS required)\n\n-  Processor:  Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent\n\n-  DirectX:  Version 9.0c\n\n-  Storage:  3 GB available space\n\n-  Sound Card:  100% DirectX 9.0c compatible sound card",
+                "recommended": "-  OS:  Windows 10 or later (64-bit OS required)\n\n-  Processor:  Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 660, Radeon R9-270\n\n-  DirectX:  Version 11\n\n-  Storage:  3 GB available space\n\n-  Sound Card:  100% DirectX 9.0c compatible sound card"
+            }
         },
         {
             "id": 165,
@@ -5635,7 +6405,14 @@
                 "Multiplayer",
                 "Party"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3097560",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 (64-bit)\n\n-  Processor:  Intel® Core™ i5-4670 (quad-core) / AMD® FX-Series™ FX-4350 (quad-core)\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 1050 (2 GB) / AMD® Radeon™ RX-460 (4 GB) / Intel® Arc™ A380 (6 GB)\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  15 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows® 10 (64-bit)\n\n-  Processor:  Intel® Core™ i5-7600 (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 2060 (6 GB) / AMD® Radeon™ RX 580 (8 GB) / Intel® Arc™ A580 (8 GB)\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  15 GB available space"
+            }
         },
         {
             "id": 123,
@@ -5659,7 +6436,14 @@
                 "Multiplayer",
                 "Co-op"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "739630",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64Bit\n\n-  Processor:  Intel Core i5-4590 / AMD Ryzen 5 2600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX 970 / AMD Radeon R9 390\n\n-  DirectX:  Version 11\n\n-  Storage:  21 GB available space\n\n-  VR Support:  OpenXR\n\n-  Additional Notes:  Minimum Specs are for VR, lower specs may work for Non-VR.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64Bit\n\n-  Processor:  Intel Core i5-10600 / AMD Ryzen 5 3600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA RTX 2060 / AMD Radeon RX 5700\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  21 GB available space"
+            }
         },
         {
             "id": 54,
@@ -5682,7 +6466,14 @@
                 "Action",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "955050",
+                "minimum": "-  OS *:  Windows 7 64 Bit\n\n-  Processor:  i5-3470 INTEL or AMD Equivalent\n\n-  Memory:  6 GB RAM\n\n-  Graphics:  Nvidia GTX 660 or AMD Radeon HD 7770\n\n-  DirectX:  Version 11\n\n-  Storage:  4 GB available space\n\n-  Additional Notes:",
+                "recommended": "-  OS:  Windows 10 64 Bit\n\n-  Processor:  i7-4790K INTEL or AMD Equivalent\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GTX 1060 or AMD Radeon R9 390\n\n-  DirectX:  Version 11\n\n-  Storage:  4 GB available space\n\n-  Additional Notes:"
+            }
         },
         {
             "id": 167,
@@ -5705,7 +6496,14 @@
                 "Action",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1178830",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64 bit（1903）\n\n-  Processor:  INTEL E3-1230v2 / AMD FX-8350\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GTX960(4G)\n\n-  DirectX:  Version 11\n\n-  Storage:  13 GB available space\n\n-  Additional Notes:",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64 Bit（2004）\n\n-  Processor:  INTEL i7-4790K / AMD FX-9590\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GTX1060(6G)\n\n-  DirectX:  Version 12\n\n-  Storage:  13 GB available space\n\n-  Additional Notes:  (Hight Ray Tracing)：NVIDIA RTX 3080 / (Normal Ray Tracing)：NVIDIA RTX 3060"
+            }
         },
         {
             "id": 153,
@@ -5729,7 +6527,14 @@
                 "Adventure",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "12200",
+                "minimum": "-  OS:  Windows 10\n\n-  Processor:  Intel Pentium 4 (3+ GHZ) / AMD Athlon 3000+\n\n-  Memory:  1 GB RAM\n\n-  Graphics:  DirectX 9.0c Shader 3.0 supported, Nvidia 6800 or 7300 or better, ATI Radeon X1300 or better\n\n-  DirectX Version:  DirectX 9.0c\n\n-  Hard Drive:  4.7 GB free space\n\n-  Sound Card:  DX9-compatible\n\n-  Input:  Keyboard, Mouse, Xbox 360 Controller supported",
+                "recommended": ""
+            }
         },
         {
             "id": 172,
@@ -5777,7 +6582,14 @@
                 "Shooter",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "883710",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  WINDOWS® 10 (64-BIT Required)\n\n-  Processor:  Intel® Core™ i5-4460 or AMD FX™-6300 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 960 or AMD Radeon™ RX 460\n\n-  DirectX:  Version 12\n\n-  Storage:  26 GB available space\n\n-  Additional Notes:  This game is expected to run at 1080p/30 FPS. If you have don't have enough graphics memory to run the game at your selected texture quality, you must go to Options > Graphics and lower the texture quality or shadow quality, or decrease the resolution. An internet connection is required for product activation. (Network connectivity uses Steam® developed by Valve® Corporation.)",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  WINDOWS® 10 (64-BIT Required)\n\n-  Processor:  Intel® Core™ i7-3770 or AMD FX™-9590 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 1060 or AMD Radeon™ RX 480  with 3GB VRAM\n\n-  DirectX:  Version 12\n\n-  Storage:  26 GB available space\n\n-  Additional Notes:  This game is expected to run at 1080p/60 FPS. An internet connection is required for product activation. (Network connectivity uses Steam® developed by Valve® Corporation.)"
+            }
         },
         {
             "id": 169,
@@ -5801,7 +6613,14 @@
                 "Shooter",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "952060",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  WINDOWS® 10 (64-BIT Required)\n\n-  Processor:  Intel® Core™ i5-4460 or AMD FX™-6300 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 960 or AMD Radeon™ RX 460\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  45 GB available space\n\n-  Additional Notes:  Anticipated performance at these specifications is 1080p/30FPS for Resident Evil 3 and 720p/30FPS for Resident Evil Resistance. If you don't have enough graphics memory to run the game at your selected texture quality, you must go to Options > Graphics and lower the texture quality or shadow quality, or decrease the resolution. An internet connection is required for product activation. In addition, an internet connection is required at all times when playing Resident Evil Resistance. (Network connectivity uses Steam® developed by Valve® Corporation.)",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  WINDOWS® 10 (64-BIT) / 11\n\n-  Processor:  Intel® Core™ i7-3770 or AMD FX™-9590 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 1060 or AMD Radeon™ RX 480 with 3GB VRAM\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  45 GB available space\n\n-  Additional Notes:  Anticipated performance at these specifications is 1080p/60FPS. An internet connection is required for product activation. In addition, an internet connection is required at all times when playing Resident Evil Resistance. (Network connectivity uses Steam® developed by Valve® Corporation.)"
+            }
         },
         {
             "id": 61,
@@ -5825,7 +6644,14 @@
                 "Shooter",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2050650",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit)\n\n-  Processor:  AMD Ryzen 3 1200 / Intel Core i5-7500\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Additional Notes:  Estimated performance (when set to Prioritize Performance): 1080p/45fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit)/Windows 11 (64 bit)\n\n-  Processor:  AMD Ryzen 5 3600 / Intel Core i7 8700\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Additional Notes:  Estimated performance: 1080p/60fps ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing."
+            }
         },
         {
             "id": 44,
@@ -5850,7 +6676,14 @@
                 "Co-op",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "21690",
+                "minimum": "-  Supported OS:  Windows®10\n\n-  Processor:  Intel Core™ 2 Quad 2.4GHz or better, AMD Phenom™ II x4 3.4GHZ or better\n\n-  Memory:  4GB or better\n\n-  Graphics:  512 MB VRAM, NVIDIA® GeForce 9800 series or better, ATI Radeon HD 7770 or better\n\n-  Display:   Minimum 800 x 600 pixel resolution\n\n-  Sound:  DirectSound Compatible (DirectX 9.0c or higher)\n\n-  DirectX®:  DirectX 9.0c / Shader 3.0  or better\n\n-  Hard Drive:  15 GB free hard drive space\n\n-  Peripherals:  Keyboard and mouse\n\nInternet connection required for game activation.",
+                "recommended": "-  Supported OS:  Windows®10\n\n-  Processor:  Intel Core™ i5-3570 or better, AMD Phenom™ II x4 3.4GHZ or better\n\n-  Memory:  4GB or better\n\n-  Graphics:  512 MB VRAM, NVIDIA(R) GeForce® GTX 650 or better, ATI Radeon HD 7770 or better\n\n-  Display:   Minimum 1280 x 720 pixel resolution\n\n-  Sound:  DirectSound Compatible (DirectX 9.0c or higher)\n\n-  DirectX®:  DirectX 9.0c / Shader 3.0 or better\n\n-  Hard Drive:  15 GB free hard drive space\n\n-  Peripherals:  Keyboard and mouse, controller supported\n\nInternet connection required for game activation."
+            }
         },
         {
             "id": 247,
@@ -5875,7 +6708,14 @@
                 "Co-op",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "221040",
+                "minimum": "-  OS: Windows®10\n\n-  Processor: : Intel® CoreTM2 Duo 2.4 Ghz or better, AMD AthlonTM X2 2.8 Ghz or better\n\n-  Memory: 2 GB RAM\n\n-  Graphics: NVIDIA® GeForce® 8800GTS or better\n\n-  DirectX®: 9.0c\n\n-  Hard Drive: 16 GB HD space\n\n-  Sound: Standard audio device\n\n-  Other Requirements: Broadband Internet connection",
+                "recommended": "-  OS: Windows®10\n\n-  Processor: Intel® CoreTM2 Quad 2.7 Ghz or better, AMD PhenomTM II X4 3 Ghz or better\n\n-  Memory: 4 GB RAM\n\n-  Graphics: NVIDIA® GeForce® GTX 560 or better\n\n-  DirectX®: 9.0c\n\n-  Hard Drive: 16 GB HD space\n\n-  Sound: Standard audio device"
+            }
         },
         {
             "id": 13,
@@ -5899,7 +6739,14 @@
                 "Shooter",
                 "Survival"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1196590",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit)\n\n-  Processor:  AMD Ryzen 3 1200  ／ Intel Core i5-7500\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  AMD Radeon RX 560 with 4GB VRAM ／ NVIDIA GeForce GTX 1050 Ti with 4GB VRAM\n\n-  DirectX:  Version 12\n\n-  Additional Notes:  Estimated performance (when set to Prioritize Performance): 1080p/60fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit)/Windows 11 (64 bit)\n\n-  Processor:  AMD Ryzen 5 3600 ／ Intel Core i7 8700\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  AMD Radeon RX 5700 ／ NVIDIA GeForce GTX 1070\n\n-  DirectX:  Version 12\n\n-  Additional Notes:  Estimated performance: 1080p/60fps ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing."
+            }
         },
         {
             "id": 81,
@@ -5922,7 +6769,14 @@
                 "Adventure",
                 "Puzzle"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3357650",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11 (64 bit)\n\n-  Processor:  Intel Core i5-8500 / AMD Ryzen 5 3500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1660 6 GB / Radeon RX 5500 XT 8 GB\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space\n\n-  Additional Notes:  Estimated performance when set to \"Performance\" preset: 1080p/45 fps.  Framerate might drop in graphics-intensive scenes.  SSD recommended.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11 (64 bit)\n\n-  Processor:  Intel Core i7-8700 / AMD Ryzen 5 5500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 2060 Super 8GB / Radeon RX 6600 8GB\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  40 GB available space\n\n-  Additional Notes:  Estimated performance when set to \"Balanced\" preset: 1080p/60 fps.  Frame rate might drop in graphics-intensive scenes. AMD Radeon RX 6700 XT 12GB or NVIDIA GeForce RTX 3060 12GB required to support ray tracing.  SSD recommended."
+            }
         },
         {
             "id": 251,
@@ -5973,7 +6827,14 @@
                 "Arcade",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2483190",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 22H2 (version 19045) or higher\n\n-  Processor:  Intel i5-8400 OR AMD Ryzen 5 1600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GTX 1650 OR AMD RX 6500 XT OR Intel Arc A380\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  167 GB available space\n\n-  Additional Notes:  SSD Required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 22H2 (version 19045) or higher\n\n-  Processor:  Intel i5-12400F OR AMD Ryzen 5 5600X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA RTX 3060 Ti OR AMD RX 6700 XT OR Intel Arc A580\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  167 GB available space\n\n-  Additional Notes:  SSD Required"
+            }
         },
         {
             "id": 145,
@@ -6021,7 +6882,14 @@
                 "Action",
                 "Open World"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3280350",
+                "minimum": "-  OS:  Windows 10/11 Version 1909 or newer\n\n-  Processor:  Intel Core i3-10100, AMD Ryzen 3 3100\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1660, AMD Radeon RX 5500 XT 8GB\n\n-  Storage:  150 GB available space\n\n-  Additional Notes:  SSD Required",
+                "recommended": "-  OS:  Windows 10/11 Version 1909 or newer\n\n-  Processor:  Intel Core i7-11700, AMD Ryzen 7 5700X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3070, AMD Radeon RX 6800\n\n-  Storage:  150 GB available space\n\n-  Additional Notes:  SSD Required"
+            }
         },
         {
             "id": 11,
@@ -6169,7 +7037,14 @@
                 "Platformer",
                 "Action"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1809540",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64bit\n\n-  Processor:  AMD Athlon X4 | Intel Core i5 4460\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GTX 950 | AMD R7 370\n\n-  DirectX:  Version 11\n\n-  Storage:  15 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 64bit\n\n-  Processor:  AMD Ryzen 3 | Intel i5 Skylake\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GTX 970 | AMD RX 570\n\n-  DirectX:  Version 11\n\n-  Storage:  15 GB available space"
+            }
         },
         {
             "id": 72,
@@ -6195,7 +7070,14 @@
                 "Multiplayer",
                 "Stealth"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1144200",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10, Windows 11\n\n-  Processor:  Intel Core i5-4430 / AMD FX-6300\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB\n\n-  DirectX:  Version 11\n\n-  Storage:  60 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit Windows 10, 64-bit Windows 11\n\n-  Processor:  AMD Ryzen 5-1600 / Intel Core i5-7600K\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Nvidia GTX 1060 6GB or better\n\n-  DirectX:  Version 11\n\n-  Storage:  60 GB available space"
+            }
         },
         {
             "id": 92,
@@ -6220,7 +7102,14 @@
                 "Co-op",
                 "Action"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1222700",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit\n\n-  Processor:  Intel core i3-2100T @ 2.5GHz/AMD FX 6100, or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 650Ti 2GB, AMD Radeon HD 7750 2GB\n\n-  Storage:  25 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit\n\n-  Processor:  Intel Core i5 3570K; AMD Ryzen 3 1300x or equivalent\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GTX 960; AMD R9 290 or equivalent\n\n-  Storage:  25 GB available space"
+            }
         },
         {
             "id": 38,
@@ -6245,7 +7134,14 @@
                 "Co-op",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "850190",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  i5 4690k\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  GTX 1050 Ti (4GB VRAM)\n\n-  DirectX:  Version 11\n\n-  Storage:  12 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10\n\n-  Processor:  i5 9400F\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GTX 1070 (8GB VRAM)\n\n-  DirectX:  Version 11\n\n-  Storage:  12 GB available space"
+            }
         },
         {
             "id": 193,
@@ -6272,7 +7168,14 @@
                 "Open World",
                 "Shooter"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "22300",
+                "minimum": "-  Operating system:  Windows XP/Vista\n\n-  Processor:  2.4 Ghz Intel Pentium 4 or equivalent processor\n\n-  Memory:  1 GB (XP)/ 2 GB (Vista)\n\n-  Hard disk space:  7 GB\n\n-  Video:  Direct X 9.0c compliant video card with 256MB RAM (NVIDIA 6800 or better/ATI X850 or better)\n\n-  Sound:  DirectX®: 9.0c\n\n-  Controller support:   Xbox 360 controller\n\n-  Other Requirements:  Online play requires log-in to Games For Windows - Live\n\nSupported Video Card Chipsets:\n\n-  NVIDIA  GeForce 200 series, Geforce 9800 series, Geforce 9600 series, Geforce 8800 series, Geforce 8600 series, Geforce 8500 series, Geforce 8400 series, Geforce 7900 series, Geforce 7800 series, Geforce 7600 series, Geforce 7300 series, GeForce 6800 series\n\n-  ATI  HD 4800 series, HD 4600 series, HD 3800 series, HD 3600 series, HD 3400 series, HD 2900 series, HD 2600 series, HD 2400 series, X1900 series, X1800 series, X1600 series, X1300 series, X850 series",
+                "recommended": "-  Operating system:  Windows XP/Vista\n\n-  Processor:  Intel Core 2 Duo processor\n\n-  Memory:  2 GB System RAM\n\n-  Hard disk space:  7 GB\n\n-  Video:  Direct X 9.0c compliant video card with 512MB RAM (NVIDIA 8800 series, ATI 3800 series)\n\n-  Sound:  DirectX®: 9.0c\n\n-  Controller support:   Xbox 360 controller"
+            }
         },
         {
             "id": 256,
@@ -6297,7 +7200,14 @@
                 "Adventure",
                 "Action"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2638890",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  Intel Core i5-8400 / AMD Ryzen 3 3100\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce GTX 1660(6GB) / Radeon RX 5500 XT(8GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  50 GB available space\n\n-  Additional Notes:  30 FPS gameplay can be achieved on the 'Low' Graphics Preset at 1080p resolution (using upscaling). Note: The frame rate may drop during periods of excessive load. Note: An SSD is required. - The specifications are subject to change without prior notice. - Super Resolution is enabled via NVIDIA DLSS 4.5 and AMD FSR 3.1. - Upscaling performance estimations were made based on DLSS 4.0 and FSR 3.1 usage. - Depending on your specifications, it is advised to increase the memory available in your system if you wish to run other programs (such as for recording footage, or streaming) while playing the game.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  Intel Core i5-10400 / AMD Ryzen 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  GeForce RTX 2060 Super (8GB) / Radeon RX 6600(8GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  50 GB available space\n\n-  Additional Notes:  60 FPS gameplay can be achieved on the 'Medium' Graphics Preset at 1080p resolution (using upscaling). Note: The frame rate may drop during periods of excessive load. Note: An SSD is required. - The specifications are subject to change without prior notice. - Super Resolution is enabled via NVIDIA DLSS 4.5 and AMD FSR 3.1. - Upscaling performance estimations were made based on DLSS 4.0 and FSR 3.1 usage. - Depending on your specifications, it is advised to increase the memory available in your system if you wish to run other programs (such as for recording footage, or streaming) while playing the game."
+            }
         },
         {
             "id": 257,
@@ -6322,7 +7232,14 @@
                 "Action",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "476600",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows 7 64-Bit or later\n\n-  Processor:  CPU: Intel® Core™ i3 3225 3.3 GHz or AMD Ryzen™ 5 1400\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 660 @ 2 GB / GTX 1050 or ATI® Radeon™ HD 7850 @ 2GB / AMD RX 550\n\n-  DirectX:  Version 11\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  90 GB available space\n\n-  Sound Card:  DirectX Compatible",
+                "recommended": "- Requires a 64-bit processor and operating system"
+            }
         },
         {
             "id": 258,
@@ -6346,7 +7263,14 @@
                 "Shooter"
             ],
             "createdAt": "2026-11-13T23:20:22.536+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1693280",
+                "minimum": "-  OS:  Windows 10\n\n-  Processor:  Intel or AMD 64-bit 2.0 GHz Processor\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  AMD Radeon HD 5000 Series/NVidia GT 420/Intel HD 5000\n\n-  Storage:  250 MB available space",
+                "recommended": ""
+            }
         },
         {
             "id": 259,
@@ -6397,7 +7321,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T02:03:52.002+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3751950",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit only), Windows 11\n\n-  Processor:  Intel Core i7-8700K 3.7 GHz, AMD Ryzen 5 3600 3.6 GHz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1660 (6GB), AMD Radeon RX5500XT (8GB) or Intel ARC A580 (8GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  65  GB available space\n\n-  Additional Notes:  SSD with DRAM cache required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (64 bit only), Windows 11\n\n-  Processor:  Intel Core i5-10600K 4.1 GHz, AMD Ryzen 5 3600 3.6 GHz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3060 (12GB),AMD Radeon RX6600XT (8GB), or Intel ARC B580 (12GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  65 GB available space\n\n-  Additional Notes:  SSD with DRAM cache required"
+            }
         },
         {
             "id": 261,
@@ -6457,7 +7388,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T02:24:53.509+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2001760",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel Core i5-8400 or AMD Ryzen 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1070 (8 GB) or AMD Radeon RX 580 (8 GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  45 GB available space\n\n-  Additional Notes:  Low 1080p @ 40fps w/ DLSS (RTX 20-50 Series) or FSR1 (Performance). SSD required.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  Intel Core i7-12700K or AMD Ryzen 7 5800X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3060 (12 GB) or AMD Radeon RX 6700 XT (12 GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  45 GB available space\n\n-  Additional Notes:  Med 1080p @ 60fps w/ DLSS or FSR3 (Performance). SSD required."
+            }
         },
         {
             "id": 264,
@@ -6483,7 +7421,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T02:33:42.053+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3751260",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10, DirectX12\n\n-  Processor:  Intel Core i5-11400F / AMD Ryzen 7 2700X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GTX 1060 / Radeon RX 580\n\n-  DirectX:  Version 12\n\n-  Storage:  60 GB available space\n\n-  Additional Notes:  VRAM: 6GB // Storage on SSD",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10, DirectX12\n\n-  Processor:  Intel Core i7-11700K / AMD Ryzen 7 5700X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA RTX 4060 / Radeon RX 7600 XT / Intel Arc B580\n\n-  DirectX:  Version 12\n\n-  Storage:  60 GB available space\n\n-  Additional Notes:  VRAM: 8GB // Storage on SSD"
+            }
         },
         {
             "id": 265,
@@ -6535,7 +7480,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T14:55:31.845+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1659040",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  OS 64-bit Windows 10\n\n-  Processor:  Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 660 / Radeon HD 7870\n\n-  DirectX:  Version 12\n\n-  Storage:  60 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  OS 64-bit Windows 10\n\n-  Processor:  Intel CPU Core i7 4790 4 GHz\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB\n\n-  DirectX:  Version 12\n\n-  Storage:  60 GB available space"
+            }
         },
         {
             "id": 267,
@@ -6586,7 +7538,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T17:34:11.277+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4131730",
+                "minimum": "-  OS:  64-bit Windows 10 Home, Pro, Enterprise, or Education, version 1903 or newer\n\n-  Processor:  Intel Core i5-4460 or AMD Ryzen 3 1200\n\n-  Memory:  4 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 960 or AMD Radeon R7 370\n\n-  Storage:  10 GB available space",
+                "recommended": "-  OS:  64-bit Windows 10 Home, Pro, Enterprise, or Education, version 1903 or newer\n\n-  Processor:  Intel Core i7-7700 or AMD Ryzen 7 1700\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 1060 or AMD Radeon RX 580\n\n-  Storage:  10 GB available space"
+            }
         },
         {
             "id": 269,
@@ -6612,7 +7571,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T18:38:43.388+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3768760",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  MICROSOFT WINDOWS 10/11, 64-BIT\n\n-  Processor:  INTEL CORE i5 9500, AMD RYZEN 5 3500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GFORCE GTX 1660, AMD RX 5700, INTEL DISCRETE GPU EQUIVALENT\n\n-  Storage:  80 GB available space\n\n-  Additional Notes:  SSD required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  MICROSOFT WINDOWS 10/11, 64-BIT\n\n-  Processor:  INTEL CORE i5 13500, AMD RYZEN 5 7600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GEFORCE RTX 3060 TI, AMD RX 6700 XT, INTEL DISCRETE GPU EQUIVALENT\n\n-  Storage:  80 GB available space\n\n-  Additional Notes:  SSD required"
+            }
         },
         {
             "id": 270,
@@ -6637,7 +7603,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T21:32:13.689+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "495140",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows (64bit) 7 or higher up to date\n\n-  Processor:  Intel Core2 Duo, 3.0GHz - AMD Athlon 64 X2 Dual Core 6400+ 3.2GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  1024 MB video card\n\n-  DirectX:  Version 11\n\n-  Storage:  8 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system"
+            }
         },
         {
             "id": 271,
@@ -6662,7 +7635,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T21:32:13.689+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "543870",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS *:  Windows (64bit) 7 or higher up to date\n\n-  Processor:  Intel Core2 Duo, 3.0GHz - AMD Athlon 64 X2 Dual Core 6400+ 3.2GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  1024 MB video card\n\n-  DirectX:  Version 11\n\n-  Storage:  8 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system"
+            }
         },
         {
             "id": 272,
@@ -6712,7 +7692,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-14T21:32:13.689+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "349040",
+                "minimum": "-  OS *:  Windows (64bit) 7 or higher up to date\n\n-  Processor:  Intel Core2 Duo, 3.0GHz - AMD Athlon 64 X2 Dual Core 6400+ 3.2GHz\n\n-  Memory:  2 GB RAM\n\n-  Graphics:  1024 MB video card\n\n-  DirectX:  Version 11\n\n-  Storage:  40 GB available space",
+                "recommended": ""
+            }
         },
         {
             "id": 274,
@@ -6749,7 +7736,14 @@
             ],
             "releaseType": "new",
             "createdAt": "2026-11-15T14:42:05.824+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3159330",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  INTEL® Core TM i7 8700K AMD RYZEN 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA® GEFORCE GTX 1650 4GB / AMD RX-5500 XT 8GB / INTEL® ARC TM A380 6GB (REBAR ON)\"\n\n-  DirectX:  Version 12\n\n-  Storage:  115 GB available space\n\n-  Additional Notes:  The game must be installed on a SSD.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel® Core™ i5 11600k/AMD Ryzen™ 5 5600x\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB (REBAR ON)\n\n-  DirectX:  Version 12\n\n-  Storage:  115 GB available space\n\n-  Additional Notes:  The game must be installed on a SSD."
+            }
         },
         {
             "id": 275,
@@ -6854,7 +7848,14 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T18:07:54.171+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "209160",
+                "minimum": "-  OS : Windows 7 64-Bit / Windows 8 64-Bit\nCPU : Intel® Core™ 2 Duo E8200 2.66 GHZ / AMD Phenom™ X3 8750 2.4 GHZ or better\nRAM : 6 GB RAM\nHDD \t: 40 GB HD space\nVideo : NVIDIA® GeForce™ GTS 450 / ATI® Radeon™ HD 5870 or better\nSound : DirectX® compatible sound card\nDirectX® : DirectX® 11\nInternet : Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation.",
+                "recommended": "-  OS : Windows 7 64-Bit / Windows 8 64-Bit\nCPU : Intel® Core™ i5 – 680 @ 3.6GHz\nRAM : 8 GB RAM\nHDD \t: 40 GB HD space\nVideo : NVIDIA® GeForce™ GTX 760 @ 4GB\nSound : DirectX® compatible sound card\nDirectX® : DirectX® 11\nInternet : Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation."
+            }
         },
         {
             "id": 279,
@@ -6906,7 +7907,14 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T19:49:58.022+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2584270",
+                "minimum": "-  OS:  Windows 10 / 11\n\n-  Processor:  Intel Core i7-10700K @ 3.8 GHz or better or AMD Ryzen 5 3600 @ 3.6 GHz or better\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 2060 SUPER 8 GB or AMD Radeon RX 6600 8 GB\n\n-  DirectX:  Version 12\n\n-  Storage:  70 GB available space\n\n-  Additional Notes:  SSD required",
+                "recommended": ""
+            }
         },
         {
             "id": 281,
@@ -6933,7 +7941,14 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T20:56:08.626+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1636440",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11 x64\n\n-  Processor:  AMD Ryzen 5 3600 / Intel i7-8700K\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 2060 Super / AMD Radeon RX 6600\n\n-  DirectX:  Version 12\n\n-  Storage:  75 GB available space\n\n-  Sound Card:  Windows Compatible Audio Device\n\n-  Additional Notes:  Playing on minimum requirements should enable to play on Low settings at 1080p 30fps.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11 x64\n\n-  Processor:  AMD Ryzen 7 5700X / Intel i7-9700K\n\n-  Memory:  32 GB RAM\n\n-  Graphics:  NVIDIA GeForce RTX 3080 / AMD Radeon RX 7800 XT\n\n-  DirectX:  Version 12\n\n-  Storage:  75 GB available space\n\n-  Sound Card:  Windows Compatible Audio Device\n\n-  Additional Notes:  Playing on recommended requirements should enable play on High settings at 4K 30fps (using DLSS,FSR or TSR Balanced mode)."
+            }
         },
         {
             "id": 282,
@@ -6960,7 +7975,14 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T21:58:20.764+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "418370",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  WINDOWS® 10 (64-BIT Required)\n\n-  Processor:  Intel® Core™ i5-4460, 2.70GHz or AMD FX™-6300 or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 960 or AMD Radeon™ RX 460\n\n-  DirectX:  Version 12\n\n-  Storage:  24 GB available space\n\n-  Sound Card:  DirectSound compatible (must support DirectX® 9.0c or higher)\n\n-  Additional Notes:  Hardware specification target 1080P/30FPS. May require reduction in Texture Quality settings or turning Texture streaming to OFF due to high VRAM requirements. *Internet connection required for game activation.",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  WINDOWS® 10 (64-BIT Required) / Windows 11 (64-BIT Required)\n\n-  Processor:  Intel® Core™ i7 3770 3.4GHz  or AMD equivalent or better\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA® GeForce® GTX 1060 with 3GB VRAM\n\n-  DirectX:  Version 12\n\n-  Storage:  24 GB available space\n\n-  Sound Card:  DirectSound compatible (must support DirectX® 9.0c or higher)\n\n-  Additional Notes:  Hardware specification target 1080P/60FPS. *Internet connection required for game activation."
+            }
         },
         {
             "id": 283,
@@ -6987,7 +8009,14 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-16T22:32:48.778+02:00",
-            "availability": true
+            "availability": true,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "990080",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit Windows 10\n\n-  Processor:  Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB\n\n-  DirectX:  Version 12\n\n-  Storage:  85 GB available space\n\n-  Additional Notes:  SSD (Preferred), HDD (Supported), 720p/30 fps, Low Quality Settings",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  64-bit Windows 10\n\n-  Processor:  Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770\n\n-  DirectX:  Version 12\n\n-  Storage:  85 GB available space\n\n-  Additional Notes:  SSD, 1080p/60 fps, High Quality Settings"
+            }
         },
         {
             "id": 284,
@@ -7079,7 +8108,14 @@
                 }
             ],
             "releaseType": "update",
-            "createdAt": "2026-11-17T16:36:25.055+02:00"
+            "createdAt": "2026-11-17T16:36:25.055+02:00",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3240220",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (latest service pack)\n\n-  Processor:  Intel® Core™ i7-4770 | AMD FX™-9590\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce® GTX 1630 (4GB VRAM) | AMD Radeon™ RX 6400 (4GB VRAM)\n\n-  Storage:  105 GB available space\n\n-  Sound Card:  DirectX 10 Compatible\n\n-  Additional Notes:  SSD Required  |  Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and  for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.  Other requirements: Installation and online play requires log-in to Rockstar Games account (minimum age varies) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Launcher, DirectX, Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication and verification software that recognizes certain hardware attributes for entitlement, digital rights management, anti-cheat and moderation software, system, and other support purposes.  *Compatible PC and/or device required. 3D Audio via Windows Spatial Sound compatible audio systems",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  Intel® Core™ i5-9600K | AMD Ryzen™ 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce® RTX 3060 (8GB VRAM) | AMD Radeon™ RX 6600XT (8GB VRAM)\n\n-  Storage:  105 GB available space\n\n-  Sound Card:  Windows Spatial Sound-compatible audio system; solution containing Dolby Atmos® support required for a Dolby Atmos® experience\n\n-  Additional Notes:  SSD with DirectStorage-compatibility"
+            }
         },
         {
             "id": 286,
@@ -7105,7 +8141,14 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-17T16:40:14.722+02:00"
+            "createdAt": "2026-11-17T16:40:14.722+02:00",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2377280",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10, Windows 11 (64-bit versions)\n\n-  Processor:  Intel Core i7-8700K / AMD Ryzen 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce GTX 980 / AMD Radeon RX 580\n\n-  Storage:  15 GB available space",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10, Windows 11 (64-bit versions)\n\n-  Processor:  Intel Core i5-10400 / AMD Ryzen 5 5500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GeForce RTX 2070 / AMD Radeon RX 5700 XT\n\n-  Storage:  15 GB available space"
+            }
         },
         {
             "id": 287,
@@ -7131,7 +8174,14 @@
             ],
             "addons": [],
             "releaseType": "new",
-            "createdAt": "2026-11-17T18:14:42.208+02:00"
+            "createdAt": "2026-11-17T18:14:42.208+02:00",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "3669870",
+                "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 / 11 (64 bit)\n\n-  Processor:  Intel i5-8500 / AMD Ryzen 5 3500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580\n\n-  Storage:  120 GB available space\n\n-  Additional Notes:  SSD Required",
+                "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 / 11 (64 bit)\n\n-  Processor:  Intel Core i7-10700 / AMD Ryzen 7 3700X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Geforce RTX 3060 Ti / Radeon RX 6700 XT / Intel Arc B580\n\n-  Storage:  120 GB available space\n\n-  Additional Notes:  SSD Required"
+            }
         }
     ]
 }
