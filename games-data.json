@@ -5126,8 +5126,8 @@
             "version": "2.4.2.0",
             "size": "6.5 GB",
             "ico": "windows",
-            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/tomb-raider-2013.torrent",
-            "fileType": "torrent",
+            "gameLink": "https://up.downloadcomputergames.net/0/0/files/TombRaider2013-GOTYEdition.zipgo7zuIbk",
+            "fileType": "direct",
             "platform": "pc",
             "mediaPrefix": "tomb-raider-2013",
             "mediaCount": 7,
@@ -5140,7 +5140,7 @@
             ],
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-16T22:21:35.410+02:00",
+            "createdAt": "2026-11-17T23:28:40.570+02:00",
             "availability": true
         },
         {
