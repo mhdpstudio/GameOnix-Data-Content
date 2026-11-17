@@ -7106,6 +7106,32 @@
             "addons": [],
             "releaseType": "new",
             "createdAt": "2026-11-17T16:40:14.722+02:00"
+        },
+        {
+            "id": 287,
+            "slug": "control-resonant",
+            "title": "CONTROL Resonant",
+            "publisher": "Remedy Entertainment",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/control-resonant.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/control-resonant.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "0.563.737.9",
+            "size": "59.82 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/control-resonant.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "control-resonant",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "createdAt": "2026-11-17T18:14:42.208+02:00"
         }
     ]
 }
