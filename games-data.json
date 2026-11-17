@@ -2448,8 +2448,8 @@
             "version": "1.0.3.0",
             "size": "6.9 GB",
             "ico": "windows",
-            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/pes2009.torrent",
-            "fileType": "torrent",
+            "gameLink": "https://s1.uptogames.net/utg1/Pro-Evolution-Soccer-2009.rar",
+            "fileType": "direct",
             "platform": "pc",
             "mediaPrefix": "pes2009",
             "mediaCount": 2,
@@ -2457,7 +2457,10 @@
                 "Sports",
                 "Multiplayer"
             ],
-            "availability": true
+            "availability": true,
+            "releaseType": "update",
+            "addons": [],
+            "createdAt": "2026-11-17T21:43:28.772+02:00"
         },
         {
             "id": 68,
