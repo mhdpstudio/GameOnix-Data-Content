@@ -6837,7 +6837,10 @@
                 "steamAppId": "2483190",
                 "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 22H2 (version 19045) or higher\n\n-  Processor:  Intel i5-8400 OR AMD Ryzen 5 1600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Nvidia GTX 1650 OR AMD RX 6500 XT OR Intel Arc A380\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  167 GB available space\n\n-  Additional Notes:  SSD Required",
                 "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 22H2 (version 19045) or higher\n\n-  Processor:  Intel i5-12400F OR AMD Ryzen 5 5600X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA RTX 3060 Ti OR AMD RX 6700 XT OR Intel Arc A580\n\n-  DirectX:  Version 12\n\n-  Network:  Broadband Internet connection\n\n-  Storage:  167 GB available space\n\n-  Additional Notes:  SSD Required"
-            }
+            },
+            "releaseType": "update",
+            "addons": [],
+            "createdAt": "2026-11-18T14:08:22.876+02:00"
         },
         {
             "id": 145,
