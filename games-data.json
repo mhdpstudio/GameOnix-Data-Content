@@ -8282,6 +8282,72 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  I5-4460 – 3.2 Ghz, Ryzen5 1600\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  GTX 770, RX 470\n\n•  DirectX:  Version 9.0\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  8 GB available space"
             },
             "createdAt": "2026-11-18T12:53:47.288+02:00"
+        },
+        {
+            "id": 289,
+            "slug": "anno-1404",
+            "title": "Anno 1404",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/anno-1404.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/anno-1404.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2010.12.08",
+            "size": "4.92 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/anno-1404.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "anno-1404",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Strategy",
+                "Sandbox"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1281630",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  FX 4130 – 3.9 Ghz, I3-3220 – 3.3 Ghz\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  GTX 660, R7 265\n\n•  DirectX:  Version 9.0\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  7.8 GB available space\n\n•  Sound Card:  Any",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  I5-4460 – 3.2 Ghz, Ryzen5 1600\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  GTX 770, RX 470\n\n•  DirectX:  Version 9.0\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  7.8 GB available space\n\n•  Sound Card:  Any"
+            },
+            "createdAt": "2026-11-18T13:09:33.033+02:00"
+        },
+        {
+            "id": 290,
+            "slug": "anno-2070",
+            "title": "Anno 2070",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/anno-2070.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/anno-2070.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "3.0.8045.0",
+            "size": "3.45 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/anno-2070.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "anno-2070",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Strategy",
+                "Sandbox"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "48240",
+                "minimum": "•  OS:  Windows 10(64-bit versions only)\n\n•  Processor:  2 GHz Intel® Core™2 Duo or AMD Athlon™ 64 X2 or better\n\n•  Memory:  2 GB (4 GB recommended)\n\n•  Graphics:  512 MB DirectX® 9.0c–compatible with Shader Model 3.0 or higher (see supported list)*\n\n•  DirectX®:  9.0c\n\n•  Hard Drive:  5 GB\n\n•  Sound:  DirectX 9.0c–compliant\n\n•  Peripherals:  Windows-compatible mouse and keyboard\n\n•  Internet Connection:  Temporary broadband connection for product registration, permanent broadband connection for multiplayer.\n*Supported Video Cards at Time of Release:\n\nATI Radeon™ X1000/HD 2000/3000/4000/5000/6000 series\n\nNVIDIA® GeForce® 7/8/9/100/200/300/400/500 series\n\nLaptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at: .\n\nRequires a UPlay account",
+                "recommended": ""
+            },
+            "createdAt": "2026-11-18T13:09:33.033+02:00"
         }
     ]
 }
