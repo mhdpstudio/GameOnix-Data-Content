@@ -8381,6 +8381,48 @@
                 "recommended": "•  OS:  Windows 10(64bit versions)\n\n•  Processor:  Intel Core i5 2400s @ 2.5 GHz or AMD FX 4100 @ 3.6\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  nVidia GeForce GTX 680 or AMD Radeon HD7970 or better (2048MB VRAM or more, with Shader Model 5.0)\n\n•  Storage:  35 GB available space\n\n•  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n•  Additional Notes:  Game contains Denuvo  anti-tamper technology."
             },
             "createdAt": "2026-11-18T13:18:35.873+02:00"
+        },
+        {
+            "id": 292,
+            "slug": "anno-1800",
+            "title": "Anno 1800",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/anno-1800.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/anno-1800.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "18.4.1412158.0",
+            "size": "28.72 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/anno-1800.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "anno-1800",
+            "mediaCount": 11,
+            "gameTypes": [
+                "Strategy",
+                "Sandbox"
+            ],
+            "addons": [
+                {
+                    "name": "Anno 1800 Crack Fix",
+                    "type": "Crack",
+                    "link": "https://www.mediafire.com/file/uqpu0gbvse8bq31/Anno_1800_Crack_Fix.rar/file",
+                    "size": "212.10 MB",
+                    "description": "This is the crack fix (voices38) for Anno 1800",
+                    "logo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/addons/anno-1800-addon-1-anno-1800-crack-fix.webp"
+                }
+            ],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "916440",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10(64-bit versions only)\n\n•  Processor:  Intel i5 3470, AMD FX 6350\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)\n\n•  DirectX:  Version 11\n\n•  Storage:  60 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10(64-bit versions only)\n\n•  Processor:  Intel i5 4690k, AMD Ryzen 5 1400\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce 970 GTX or AMD Radeon RX 480 (4 GB of VRAM, Shader Model 5.1)\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space"
+            },
+            "createdAt": "2026-11-18T13:43:00.553+02:00"
         }
     ]
 }
