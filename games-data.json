@@ -8249,6 +8249,39 @@
                 "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 / 11 (64 bit)\n\n-  Processor:  Intel i5-8500 / AMD Ryzen 5 3500\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580\n\n-  Storage:  120 GB available space\n\n-  Additional Notes:  SSD Required",
                 "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 / 11 (64 bit)\n\n-  Processor:  Intel Core i7-10700 / AMD Ryzen 7 3700X\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Geforce RTX 3060 Ti / Radeon RX 6700 XT / Intel Arc B580\n\n-  Storage:  120 GB available space\n\n-  Additional Notes:  SSD Required"
             }
+        },
+        {
+            "id": 288,
+            "slug": "anno-1701",
+            "title": "Anno 1701",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/anno-1701.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/anno-1701.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2006.2.3",
+            "size": "4.23 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/anno-1701.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "anno-1701",
+            "mediaCount": 4,
+            "gameTypes": [
+                "Strategy",
+                "Sandbox"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2820140",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  FX 4130 – 3.9 Ghz, I3-3220 – 3.3 Ghz\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  GTX 660, R7 265\n\n•  DirectX:  Version 9.0\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  8 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  I5-4460 – 3.2 Ghz, Ryzen5 1600\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  GTX 770, RX 470\n\n•  DirectX:  Version 9.0\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  8 GB available space"
+            },
+            "createdAt": "2026-11-18T12:53:47.288+02:00"
         }
     ]
 }
