@@ -8348,6 +8348,39 @@
                 "recommended": ""
             },
             "createdAt": "2026-11-18T13:09:33.033+02:00"
+        },
+        {
+            "id": 291,
+            "slug": "anno-2205",
+            "title": "Anno 2205",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/anno-2205.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/anno-2205.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.8.3741.13270",
+            "size": "10.52 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/anno-2205.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "anno-2205",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Strategy",
+                "Sandbox"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "375910",
+                "minimum": "•  OS:  Windows 10(64bit versions)\n\n•  Processor:  Intel Core i5 750 @ 2.6 GHz or AMD Phenom II X4 @ 3.2 GHz\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  nVidia GeForce GTX460 or AMD Radeon HD5870 (1024MB VRAM with Shader Model 5.0)\n\n•  Storage:  35 GB available space\n\n•  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n•  Additional Notes:  Game contains Denuvo  anti-tamper technology.",
+                "recommended": "•  OS:  Windows 10(64bit versions)\n\n•  Processor:  Intel Core i5 2400s @ 2.5 GHz or AMD FX 4100 @ 3.6\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  nVidia GeForce GTX 680 or AMD Radeon HD7970 or better (2048MB VRAM or more, with Shader Model 5.0)\n\n•  Storage:  35 GB available space\n\n•  Sound Card:  DirectX Compatible Sound Card with latest drivers\n\n•  Additional Notes:  Game contains Denuvo  anti-tamper technology."
+            },
+            "createdAt": "2026-11-18T13:18:35.873+02:00"
         }
     ]
 }
