@@ -756,7 +756,18 @@
         "able": true,
         "kind": "digital-code",
         "idType": "",
-        "packs": [],
+        "packs": [
+            {
+                "title": "Grand Theft Auto VI",
+                "price": "5099",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/gta-vi-ps5/grand-theft-auto-vi.webp",
+                "discoverSection": "Games",
+                "type": ":Ultimate Edition",
+                "stock": true,
+                "popular": false,
+                "oldPrice": "5499"
+            }
+        ],
         "publisher": "Rockstar Games"
     }
 ]
