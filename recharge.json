@@ -770,6 +770,11 @@
         ],
         "publisher": "Rockstar Games",
         "platform": "playstation",
-        "platformVersion": "ps5"
+        "platformVersion": "ps5",
+        "homeHeroEyebrow": "",
+        "homeHeroTitle": "",
+        "homeHeroDescription": "",
+        "homeHeroTags": [],
+        "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/gta-vi-ps5.webp"
     }
 ]
