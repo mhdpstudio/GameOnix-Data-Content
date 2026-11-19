@@ -744,5 +744,19 @@
                 "stock": true
             }
         ]
+    },
+    {
+        "type": "Games",
+        "id": "gta-vi-ps5",
+        "gift": false,
+        "name": "Grand Theft Auto VI",
+        "whatsappNumber": "",
+        "paymentNumber": "",
+        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/gta-vi-ps5.webp",
+        "able": true,
+        "kind": "digital-code",
+        "idType": "",
+        "packs": [],
+        "publisher": "Rockstar Games"
     }
 ]
