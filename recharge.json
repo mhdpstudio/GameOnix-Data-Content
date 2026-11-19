@@ -768,6 +768,8 @@
                 "oldPrice": "5499"
             }
         ],
-        "publisher": "Rockstar Games"
+        "publisher": "Rockstar Games",
+        "platform": "playstation",
+        "platformVersion": "ps5"
     }
 ]
