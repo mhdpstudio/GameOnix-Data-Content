@@ -775,6 +775,41 @@
         "homeHeroTitle": "",
         "homeHeroDescription": "",
         "homeHeroTags": [],
-        "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/gta-vi-ps5.webp"
+        "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/gta-vi-ps5.webp",
+        "featuredOnHome": true,
+        "digitalCodeGroup": "gta-vi"
+    },
+    {
+        "type": "Games",
+        "id": "gta-vi-xbox",
+        "gift": false,
+        "name": "Grand Theft Auto VI",
+        "publisher": "Rockstar Games",
+        "platform": "xbox",
+        "platformVersion": "",
+        "digitalCodeGroup": "gta-vi",
+        "featuredOnHome": true,
+        "whatsappNumber": "",
+        "paymentNumber": "",
+        "image": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/icons/gta-vi-xbox.webp",
+        "able": true,
+        "kind": "digital-code",
+        "idType": "",
+        "packs": [
+            {
+                "title": "Grand Theft Auto VI",
+                "price": "5099",
+                "img": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/images/gta-vi-xbox/grand-theft-auto-vi.webp",
+                "discoverSection": "Games",
+                "type": ":Ultimate Edition",
+                "stock": true,
+                "popular": true,
+                "oldPrice": "5499"
+            }
+        ],
+        "homeHeroEyebrow": "",
+        "homeHeroTitle": "",
+        "homeHeroDescription": "",
+        "homeHeroTags": []
     }
 ]
