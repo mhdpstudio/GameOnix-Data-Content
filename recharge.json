@@ -764,7 +764,7 @@
                 "discoverSection": "Games",
                 "type": ":Ultimate Edition",
                 "stock": true,
-                "popular": false,
+                "popular": true,
                 "oldPrice": "5499"
             }
         ],
