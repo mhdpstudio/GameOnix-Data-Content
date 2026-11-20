@@ -777,7 +777,8 @@
         "homeHeroTags": [],
         "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/gta-vi-ps5.webp",
         "featuredOnHome": true,
-        "digitalCodeGroup": "gta-vi"
+        "digitalCodeGroup": "gta-vi",
+        "homeHeroLogo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-logos/gta-vi-ps5.webp"
     },
     {
         "type": "Games",
