@@ -141,7 +141,8 @@
                 "stock": true,
                 "popular": true
             }
-        ]
+        ],
+        "featuredOnHome": true
     },
     {
         "type": "Top-Up",
