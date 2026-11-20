@@ -535,7 +535,14 @@
                 "stock": true,
                 "popular": true
             }
-        ]
+        ],
+        "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/steam-gift-cards.webp",
+        "homeHeroLogo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-logos/steam-gift-cards.webp",
+        "homeHeroTitle": "Steam Gift Cards",
+        "homeHeroEyebrow": "",
+        "homeHeroDescription": "",
+        "homeHeroTags": [],
+        "featuredOnHome": true
     },
     {
         "type": "Gift Cards",
