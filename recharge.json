@@ -142,7 +142,13 @@
                 "popular": true
             }
         ],
-        "featuredOnHome": true
+        "featuredOnHome": true,
+        "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/pubg.webp",
+        "homeHeroLogo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-logos/pubg.webp",
+        "homeHeroTitle": "PUBG",
+        "homeHeroEyebrow": "",
+        "homeHeroDescription": "",
+        "homeHeroTags": []
     },
     {
         "type": "Top-Up",
