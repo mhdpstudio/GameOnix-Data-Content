@@ -62,7 +62,9 @@
                 }
             ],
             "createdAt": "2026-11-17T16:36:50.834+02:00",
-            "availability": true
+            "availability": true,
+            "featuredOnHome": true,
+            "homeFeatureOrder": 0
         },
         {
             "id": 131,
@@ -410,7 +412,9 @@
                 "steamAppId": "3035570",
                 "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  INTEL® Core™ i7-4790K (INTEL® Core™ i5-8400 for Intel® ARC™ with Rebar) / Ryzen™ 5 1600\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  Intel® Arc™ A380 (6 GB) / NVIDIA® GeForce® GTX 1060 (6 GB) / AMD Radeon™ RX 570 (4 GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  40 GB available space\n\n-  VR Support:  N/A\n\n-  Additional Notes:  Video Preset: Low / Target: 30 fps",
                 "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10/11\n\n-  Processor:  Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  Intel® Arc™ A750 (8 GB) / NVIDIA® GeForce® GTX 1660 Ti (6 GB) / AMD Radeon™ RX 5600 XT (6 GB)\n\n-  DirectX:  Version 12\n\n-  Storage:  40 GB available space\n\n-  VR Support:  N/A\n\n-  Additional Notes:  Video Preset: High / Target: 60 fps"
-            }
+            },
+            "featuredOnHome": true,
+            "homeFeatureOrder": 1
         },
         {
             "id": 113,
@@ -5350,7 +5354,9 @@
             "availability": true,
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-17T17:23:29.412+02:00"
+            "createdAt": "2026-11-17T17:23:29.412+02:00",
+            "featuredOnHome": true,
+            "homeFeatureOrder": 5
         },
         {
             "id": 23,
@@ -6840,7 +6846,9 @@
             },
             "releaseType": "update",
             "addons": [],
-            "createdAt": "2026-11-18T14:08:22.876+02:00"
+            "createdAt": "2026-11-18T14:08:22.876+02:00",
+            "featuredOnHome": true,
+            "homeFeatureOrder": 4
         },
         {
             "id": 145,
@@ -8350,7 +8358,9 @@
                 "minimum": "•  OS:  Windows 10(64-bit versions only)\n\n•  Processor:  2 GHz Intel® Core™2 Duo or AMD Athlon™ 64 X2 or better\n\n•  Memory:  2 GB (4 GB recommended)\n\n•  Graphics:  512 MB DirectX® 9.0c–compatible with Shader Model 3.0 or higher (see supported list)*\n\n•  DirectX®:  9.0c\n\n•  Hard Drive:  5 GB\n\n•  Sound:  DirectX 9.0c–compliant\n\n•  Peripherals:  Windows-compatible mouse and keyboard\n\n•  Internet Connection:  Temporary broadband connection for product registration, permanent broadband connection for multiplayer.\n*Supported Video Cards at Time of Release:\n\nATI Radeon™ X1000/HD 2000/3000/4000/5000/6000 series\n\nNVIDIA® GeForce® 7/8/9/100/200/300/400/500 series\n\nLaptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at: .\n\nRequires a UPlay account",
                 "recommended": ""
             },
-            "createdAt": "2026-11-18T13:09:33.033+02:00"
+            "createdAt": "2026-11-18T13:09:33.033+02:00",
+            "featuredOnHome": true,
+            "homeFeatureOrder": 2
         },
         {
             "id": 291,
@@ -8425,7 +8435,9 @@
                 "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10(64-bit versions only)\n\n•  Processor:  Intel i5 3470, AMD FX 6350\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)\n\n•  DirectX:  Version 11\n\n•  Storage:  60 GB available space",
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10(64-bit versions only)\n\n•  Processor:  Intel i5 4690k, AMD Ryzen 5 1400\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce 970 GTX or AMD Radeon RX 480 (4 GB of VRAM, Shader Model 5.1)\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space"
             },
-            "createdAt": "2026-11-18T13:43:00.553+02:00"
+            "createdAt": "2026-11-18T13:43:00.553+02:00",
+            "featuredOnHome": true,
+            "homeFeatureOrder": 3
         },
         {
             "id": 293,
