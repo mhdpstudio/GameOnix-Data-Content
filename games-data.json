@@ -8641,5 +8641,22 @@
             },
             "createdAt": "2026-11-21T17:33:55.458+02:00"
         }
-    ]
+    ],
+    "homeSections": [
+        {
+            "id": "55579abd-c176-48e8-9a3f-9fc909dd53d1",
+            "title": "Most Downloaded",
+            "subtitle": "",
+            "layout": "shelf",
+            "gameSlugs": [
+                "ea-sports-fc-27",
+                "infamous-second-son",
+                "gta5-en",
+                "gta-v",
+                "rdr-2",
+                "ac-mirage"
+            ]
+        }
+    ],
+    "comingSoon": []
 }
