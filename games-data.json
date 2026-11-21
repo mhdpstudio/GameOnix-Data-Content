@@ -8560,6 +8560,38 @@
                 "recommended": "•  OS:  Windows 11\n\n•  Processor:  Intel i7 12th Gen\n\n•  Memory:  10 GB RAM\n\n•  Graphics:  Nvidia RTX 3060\n\n•  DirectX:  Version 12\n\n•  Storage:  20 GB available space\n\n•  Sound Card:  N/A"
             },
             "createdAt": "2026-11-21T17:24:00.131+02:00"
+        },
+        {
+            "id": 297,
+            "slug": "superliminal",
+            "title": "Superliminal",
+            "publisher": "Pillow Castle Games",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/superliminal.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/superliminal.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.10.2021.11.12.858.39",
+            "size": "2.23 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/superliminal.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "superliminal",
+            "mediaCount": 5,
+            "gameTypes": [
+                "Puzzle"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1049410",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows 7\n\n•  Processor:  2.0GHz\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  NVidia GTX 750\n\n•  DirectX:  Version 10\n\n•  Storage:  12 GB available space\n\n•  Additional Notes:  Minimum: 3GB VRAM",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  2.4GHz\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  Nvidia GTX 1070\n\n•  DirectX:  Version 10\n\n•  Storage:  12 GB available space\n\n•  Additional Notes:  Recommended: 4GB VRAM"
+            },
+            "createdAt": "2026-11-21T17:28:48.891+02:00"
         }
     ]
 }
