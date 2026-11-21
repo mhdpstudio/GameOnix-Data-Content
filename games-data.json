@@ -64,7 +64,8 @@
             "createdAt": "2026-11-17T16:36:50.834+02:00",
             "availability": true,
             "featuredOnHome": true,
-            "homeFeatureOrder": 0
+            "homeFeatureOrder": 0,
+            "homeFeatureImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/featured/gta5.webp"
         },
         {
             "id": 131,
