@@ -63,7 +63,7 @@
             ],
             "createdAt": "2026-11-17T16:36:50.834+02:00",
             "availability": true,
-            "featuredOnHome": true,
+            "featuredOnHome": false,
             "homeFeatureOrder": 0,
             "homeFeatureImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/featured/gta5.webp"
         },
@@ -8196,7 +8196,10 @@
                 "steamAppId": "3240220",
                 "minimum": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 10 (latest service pack)\n\n-  Processor:  Intel® Core™ i7-4770 | AMD FX™-9590\n\n-  Memory:  8 GB RAM\n\n-  Graphics:  NVIDIA GeForce® GTX 1630 (4GB VRAM) | AMD Radeon™ RX 6400 (4GB VRAM)\n\n-  Storage:  105 GB available space\n\n-  Sound Card:  DirectX 10 Compatible\n\n-  Additional Notes:  SSD Required  |  Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and  for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.  Other requirements: Installation and online play requires log-in to Rockstar Games account (minimum age varies) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Launcher, DirectX, Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication and verification software that recognizes certain hardware attributes for entitlement, digital rights management, anti-cheat and moderation software, system, and other support purposes.  *Compatible PC and/or device required. 3D Audio via Windows Spatial Sound compatible audio systems",
                 "recommended": "- Requires a 64-bit processor and operating system\n\n-  OS:  Windows 11\n\n-  Processor:  Intel® Core™ i5-9600K | AMD Ryzen™ 5 3600\n\n-  Memory:  16 GB RAM\n\n-  Graphics:  NVIDIA GeForce® RTX 3060 (8GB VRAM) | AMD Radeon™ RX 6600XT (8GB VRAM)\n\n-  Storage:  105 GB available space\n\n-  Sound Card:  Windows Spatial Sound-compatible audio system; solution containing Dolby Atmos® support required for a Dolby Atmos® experience\n\n-  Additional Notes:  SSD with DirectStorage-compatibility"
-            }
+            },
+            "featuredOnHome": true,
+            "homeFeatureOrder": 0,
+            "homeFeatureImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/featured/gta5-en.webp"
         },
         {
             "id": 286,
