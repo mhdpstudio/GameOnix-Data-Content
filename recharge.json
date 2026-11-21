@@ -757,7 +757,13 @@
                 "popular": false,
                 "stock": true
             }
-        ]
+        ],
+        "homeHeroImage": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-heroes/discord-membership-gift-cards.webp",
+        "homeHeroLogo": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/recharge/home-logos/discord-membership-gift-cards.webp",
+        "homeHeroTitle": "Discord Membership Gift Cards",
+        "homeHeroEyebrow": "",
+        "homeHeroDescription": "",
+        "homeHeroTags": []
     },
     {
         "type": "Games",
