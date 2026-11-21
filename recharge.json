@@ -763,7 +763,8 @@
         "homeHeroTitle": "Discord Membership Gift Cards",
         "homeHeroEyebrow": "",
         "homeHeroDescription": "",
-        "homeHeroTags": []
+        "homeHeroTags": [],
+        "featuredOnHome": true
     },
     {
         "type": "Games",
