@@ -8527,6 +8527,39 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 11 x64\n\n•  Processor:  Core i5-14600K | AMD Ryzen 5 7600X\n\n•  Memory:  32 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 4070 Ti | AMD RX7900XT, 12GB VRAM\n\n•  DirectX:  Version 12\n\n•  Storage:  70 GB available space\n\n•  Additional Notes:  SSD required. Targeting 1440p \\ 60fps on Medium preset. The listed specifications were evaluated using TSR and comparable technologies."
             },
             "createdAt": "2026-11-18T15:12:59.049+02:00"
+        },
+        {
+            "id": 296,
+            "slug": "subliminal",
+            "title": "Subliminal",
+            "publisher": "Infini Fun",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/subliminal.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/subliminal.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.3.4",
+            "size": "13.32 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/subliminal.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "subliminal",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Horror",
+                "Puzzle"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2300840",
+                "minimum": "•  OS:  Windows 10\n\n•  Processor:  Intel i5 10th Gen\n\n•  Memory:  6 GB RAM\n\n•  Graphics:  Nvidia GTX 1060\n\n•  DirectX:  Version 12\n\n•  Storage:  20 GB available space\n\n•  Sound Card:  N/A",
+                "recommended": "•  OS:  Windows 11\n\n•  Processor:  Intel i7 12th Gen\n\n•  Memory:  10 GB RAM\n\n•  Graphics:  Nvidia RTX 3060\n\n•  DirectX:  Version 12\n\n•  Storage:  20 GB available space\n\n•  Sound Card:  N/A"
+            },
+            "createdAt": "2026-11-21T17:24:00.131+02:00"
         }
     ]
 }
