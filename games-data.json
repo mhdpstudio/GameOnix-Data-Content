@@ -8643,6 +8643,41 @@
                 "recommended": ""
             },
             "createdAt": "2026-11-21T17:33:55.458+02:00"
+        },
+        {
+            "id": 299,
+            "slug": "mfs-2024",
+            "title": "Microsoft Flight Simulator 2024",
+            "publisher": "Asobo Studio",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mfs-2024.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mfs-2024.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2024.19.11",
+            "size": "9.52 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/mfs-2024.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "mfs-2024",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Simulation",
+                "Sandbox"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2537590",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  AMD Ryzen 5 2600X or Intel Core i7-6800K\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Radeon RX 5700 or GeForce GTX 970\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  50 GB available space\n\n•  Additional Notes:  Network Speed of 10 Mbps Bandwidth",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  AMD Ryzen 7 2700X or Intel Core i7-10700K\n\n•  Memory:  32 GB RAM\n\n•  Graphics:  Radeon RX 5700 XT or GeForce RTX 2080\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  50 GB available space\n\n•  Additional Notes:  Network Speed of 50 Mbps Bandwidth"
+            },
+            "createdAt": "2026-11-22T17:57:31.149+02:00"
         }
     ],
     "homeSections": [
