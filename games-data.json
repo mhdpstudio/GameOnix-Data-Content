@@ -8893,6 +8893,46 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 (64-bit)\n\n•  Processor:  Intel® Core™ i5-7600 (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)\n\n•  Memory:  12 GB RAM\n\n•  Graphics:  NVIDIA® GeForce® GTX 1060 (6 GB) / AMD® Radeon™ RX 580 (8 GB)  / Intel® Arc™ A580 (8 GB)\n\n•  DirectX:  Version 12\n\n•  Storage:  15 GB available space"
             },
             "createdAt": "2026-11-23T18:34:51.682+02:00"
+        },
+        {
+            "id": 306,
+            "slug": "gtat",
+            "title": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+            "publisher": "Rockstar Games",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/gtat.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/gtat.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2021.11.11",
+            "size": "33.12 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/gtat.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "gtat",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Adventure",
+                "Multiplayer",
+                "Open World",
+                "Racing",
+                "Sandbox",
+                "Shooter"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1546970",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  Intel® Core™ i5-6600K / AMD FX-6300\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  Nvidia GeForce GTX 760 2GB / AMD Radeon R9 280 3GB\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  5 GB available space\n\n•  Sound Card:  DirectX compatible",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  Intel® Core™ i7-6600K / AMD Ryzen 5 2600\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia GeForce GTX 970 4GB / AMD Radeon RX 570 4GB\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  5 GB available space\n\n•  Sound Card:  DirectX compatible"
+            },
+            "createdAt": "2026-11-23T18:50:22.435+02:00"
         }
     ],
     "homeSections": [
