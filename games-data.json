@@ -8749,6 +8749,42 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 11\n\n•  Processor:  Intel Core i7-12700 or AMD Ryzen 7 5800X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB or Intel Arc B580, 12 GB\n\n•  Storage:  50 GB available space"
             },
             "createdAt": "2026-11-23T16:57:57.292+02:00"
+        },
+        {
+            "id": 302,
+            "slug": "city-skyline",
+            "title": "Cities Skylines Modern City Center",
+            "publisher": "Paradox Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/city-skyline.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/city-skyline.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2019.08.11",
+            "size": "8.02 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/city-skyline.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "city-skyline",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Simulation",
+                "Sandbox",
+                "Strategy"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1148020",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows® 7 64 Bit  |  Windows® 8.1 64 Bit  |  Windows® 10 Home 64 Bit\n\n•  Processor:  Intel® Core™ I7 930  |  AMD® FX 6350\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ GTS 450 (1 GB) |  AMD® R7 250 (2 GB)  |  Intel Iris Xe G7 (Tiger Lake)\n\n•  DirectX:  Version 9.0c\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  4 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 Home 64 bit\n\n•  Processor:  Intel® Core™ I7 2700K  |   AMD® Ryzen 7 2700X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ GTX 580 (1.5 GB)  |   AMD® Radeon™ RX 560 (4 GB)\n\n•  DirectX:  Version 9.0c\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  4 GB available space"
+            },
+            "createdAt": "2026-11-23T17:43:28.201+02:00"
         }
     ],
     "homeSections": [
