@@ -8678,6 +8678,41 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  AMD Ryzen 7 2700X or Intel Core i7-10700K\n\n•  Memory:  32 GB RAM\n\n•  Graphics:  Radeon RX 5700 XT or GeForce RTX 2080\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  50 GB available space\n\n•  Additional Notes:  Network Speed of 50 Mbps Bandwidth"
             },
             "createdAt": "2026-11-22T17:57:31.149+02:00"
+        },
+        {
+            "id": 300,
+            "slug": "phantom-blade-zero",
+            "title": "Phantom Blade Zero",
+            "publisher": "S-GAME",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/phantom-blade-zero.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/phantom-blade-zero.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2026.28.10",
+            "size": "144.98 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/phantom-blade-zero.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "phantom-blade-zero",
+            "mediaCount": 10,
+            "gameTypes": [
+                "Action",
+                "RPG"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4115450",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10/11 (64bit required)\n\n•  Processor:  Intel Core i7-8700K / AMD Ryzen 5 3600\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5500 XT 8GB\n\n•  DirectX:  Version 12\n\n•  Storage:  145 GB available space\n\n•  Additional Notes:  1080p / 30 FPS with upscaling enabled. SSD installation required.",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10/11 (64bit required)\n\n•  Processor:  Intel Core i5-10600K / AMD Ryzen 5 5600X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 3060 Ti 8GB / AMD Radeon RX 6700 XT 12GB\n\n•  DirectX:  Version 12\n\n•  Storage:  145 GB available space\n\n•  Additional Notes:  1440p / 60 FPS with upscaling enabled. SSD installation required."
+            },
+            "createdAt": "2026-11-23T15:05:39.518+02:00"
         }
     ],
     "homeSections": [
