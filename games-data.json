@@ -8786,6 +8786,42 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 Home 64 bit\n\n•  Processor:  Intel® Core™ I7 2700K  |   AMD® Ryzen 7 2700X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ GTX 580 (1.5 GB)  |   AMD® Radeon™ RX 560 (4 GB)\n\n•  DirectX:  Version 9.0c\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  4 GB available space"
             },
             "createdAt": "2026-11-23T17:43:28.201+02:00"
+        },
+        {
+            "id": 303,
+            "slug": "cities-skylines-ii",
+            "title": "Cities: Skylines II",
+            "publisher": "Paradox Interactive",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/cities-skylines-ii.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/cities-skylines-ii.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2024.12.18",
+            "size": "57.98 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/cities-skylines-ii.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "cities-skylines-ii",
+            "mediaCount": 9,
+            "gameTypes": [
+                "Sandbox",
+                "Simulation",
+                "Strategy"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "949230",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 Home 64 Bit\n\n•  Processor:  Intel® Core™ i7-6700K | AMD® Ryzen™ 5 2600X\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ GTX 970 (4 GB)  | AMD® Radeon™ RX 480 (8 GB)\n\n•  Storage:  60 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 Home 64 Bit | Windows® 11\n\n•  Processor:  Intel® Core™ i5-12600K | AMD® Ryzen™ 7 5800X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ RTX 3080 (10 GB) | AMD® Radeon™ RX 6800 XT (16 GB)\n\n•  Storage:  60 GB available space"
+            },
+            "createdAt": "2026-11-23T18:22:38.891+02:00"
         }
     ],
     "homeSections": [
