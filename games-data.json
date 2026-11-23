@@ -8858,6 +8858,41 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10/11\n\n•  Processor:  AMD Ryzen 7 3800X, Intel Core i7-10700K\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  AMD Radeon RX 6600 XT (8 GB), NVIDIA GeForce RTX 3060 (12 GB)\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  50 GB available space\n\n•  Additional Notes:  SSD Recommended"
             },
             "createdAt": "2026-11-23T18:28:11.864+02:00"
+        },
+        {
+            "id": 305,
+            "slug": "manor-lords",
+            "title": "Manor Lords",
+            "publisher": "Slavic Magic",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/manor-lords.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/manor-lords.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "0.7.955",
+            "size": "6.47 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/manor-lords.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "manor-lords",
+            "mediaCount": 10,
+            "gameTypes": [
+                "Simulation",
+                "Strategy"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1363080",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 (64-bit)\n\n•  Processor:  Intel® Core™ i5-4670 (quad-core)  / AMD® FX-Series™ FX-4350 (quad-core)\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA® GeForce® GTX 1050 (2 GB) / AMD® Radeon™ RX-460 (4 GB)  / Intel® Arc™ A380 (6 GB)\n\n•  DirectX:  Version 12\n\n•  Storage:  15 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 (64-bit)\n\n•  Processor:  Intel® Core™ i5-7600 (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)\n\n•  Memory:  12 GB RAM\n\n•  Graphics:  NVIDIA® GeForce® GTX 1060 (6 GB) / AMD® Radeon™ RX 580 (8 GB)  / Intel® Arc™ A580 (8 GB)\n\n•  DirectX:  Version 12\n\n•  Storage:  15 GB available space"
+            },
+            "createdAt": "2026-11-23T18:34:51.682+02:00"
         }
     ],
     "homeSections": [
