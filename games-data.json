@@ -9217,6 +9217,43 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows 7 64-bit\n\n•  Processor:  Intel I7-3770, AMD FX 8350 4.0 Ghz\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  4GB of Video Memory & NVIDIA Geforce GTX 780 or GeForce GTX 1060, AMD Radeon R9 290X\n\n•  Storage:  50 GB available space\n\n•  Sound Card:  DirectX Compliant Sound card"
             },
             "createdAt": "2026-11-25T16:59:22.942+02:00"
+        },
+        {
+            "id": 315,
+            "slug": "mafia-roc",
+            "title": "Mafia: The Old Country",
+            "publisher": "2K Games",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mafia-roc.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mafia-roc.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.24657362.0.0",
+            "size": "34.23 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/mafia-roc.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "mafia-roc",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Action",
+                "Open World",
+                "Shooter",
+                "Stealth"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1941540",
+                "minimum": "•  OS:  Windows 10 / 11\n\n•  Processor:  AMD Ryzen 7 2700X / Intel Core i7-9700K\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  AMD Radeon RX 5700 XT / NVIDIA RTX 2070\n\n•  DirectX:  Version 12\n\n•  Storage:  55 GB available space\n\n•  Additional Notes:  Requires a 64-bit processor and operating system.  Requires SSD ;  Graphic Preset: Medium  ;  Resolution: 1080p",
+                "recommended": "•  OS:  Windows 10 / 11\n\n•  Processor:  AMD Ryzen 7 5800X / Intel Core i7-12700K\n\n•  Memory:  32 GB RAM\n\n•  Graphics:  AMD Radeon RX 6950 XT / NVIDIA RTX 3080 Ti\n\n•  DirectX:  Version 12\n\n•  Storage:  55 GB available space\n\n•  Additional Notes:  Requires a 64-bit processor and operating system.  Requires SSD ; Graphic Preset: High ; Resolution: 1440p"
+            },
+            "createdAt": "2026-11-25T20:15:11.002+02:00"
         }
     ],
     "homeSections": [
