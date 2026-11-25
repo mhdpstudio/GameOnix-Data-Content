@@ -9042,6 +9042,41 @@
                 "recommended": "• Requires a 64-bit processor and operating system"
             },
             "createdAt": "2026-11-25T15:44:23.793+02:00"
+        },
+        {
+            "id": 310,
+            "slug": "trials-fusion",
+            "title": "Trials Fusion",
+            "publisher": "Ubisoft",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/trials-fusion.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/trials-fusion.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.0.0.0",
+            "size": "7.22 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/trials-fusion.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "trials-fusion",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Platformer",
+                "Racing"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "245490",
+                "minimum": "•  OS *:  Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\n\n•  Processor:  Intel Core i3 550  @ 3.2 GHz  or AMD Athlon II X4 620 @ 2.6 GHz\n\n•  Memory:  3 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0 or higher)\n\n•  DirectX:  Version 11\n\n•  Storage:  8 GB available space\n\n•  Sound Card:  DirectX 10.1 Compatible Sound Card\n\n•  Additional Notes:  DirectX 10.1 or higher required",
+                "recommended": "•  OS *:  Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\n\n•  Processor:  Intel Core i5 2400s @ 2.5 GHz or AMD Phenom II X4 955 @ 3.2 GHz\n\n•  Memory:  4 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 560 Ti or better / AMD Radeon HD7850 or better\n\n•  DirectX:  Version 11\n\n•  Storage:  8 GB available space\n\n•  Sound Card:  DirectX 10.1 Compatible Sound Card\n\n•  Additional Notes:  DirectX 10.1 or higher required"
+            },
+            "createdAt": "2026-11-25T15:49:45.104+02:00"
         }
     ],
     "homeSections": [
