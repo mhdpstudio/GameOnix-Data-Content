@@ -8936,6 +8936,42 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  Intel® Core™ i7-6600K / AMD Ryzen 5 2600\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia GeForce GTX 970 4GB / AMD Radeon RX 570 4GB\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  5 GB available space\n\n•  Sound Card:  DirectX compatible"
             },
             "createdAt": "2026-11-23T18:50:22.435+02:00"
+        },
+        {
+            "id": 307,
+            "slug": "split-fiction",
+            "title": "Split Fiction",
+            "publisher": "Hazelight Studios",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/split-fiction.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/split-fiction.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.19.222.0",
+            "size": "52.98 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/split-fiction.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "split-fiction",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Adventure",
+                "Arcade",
+                "Platformer"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2001120",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  64 bit Windows 10/11\n\n•  Processor:  Intel Core i5-6600K or AMD Ryzen 5 2600X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 970 - 4GB or Radeon RX 470 - 4GB\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  85 GB available space\n\n•  Additional Notes:  Resolution: 1920x1080 Native FPS: 30 Graphics Settings Preset: Low",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  64 bit Windows 10/11\n\n•  Processor:  Intel Core i7-11700k or AMD Ryzen 7 5800X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 3070 - 8GB or AMD Radeon 6700 XT - 12GB\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  85 GB available space\n\n•  Additional Notes:  Resolution: 2560x1440 Native FPS: 60 Graphics Settings Preset: High"
+            },
+            "createdAt": "2026-11-25T14:41:08.623+02:00"
         }
     ],
     "homeSections": [
