@@ -9358,7 +9358,7 @@
                 "minimum": "• Microsoft Windows® 2000/XP. (Windows® 95/98/ME/NT not supported)\n\n• Pentium IV 1.4GHz (or AMD AthlonXP 1700+ processor or higher).\n\n• 256MB System Memory.\n\n• 3D Hardware Accelerator Card Required - 100% DirectX® 9.0c compatible with 128 MB and Shader model 2.0. (GF FX 5700   or ATI 9500)\n\n• 100% DirectX® 9.0c compatible 16-bit sound card and latest drivers\n\n• 4.0GB of uncompressed free disk space (plus 600MB for Windows® 2000/XP swap file)\n\n• 100% Windows® 2000/XP compatible mouse, keyboard and latest drivers.\n\nRecommended:\n\n• Pentium® IV 2.8GHz with Dual Core Technology (or Athlon 64 series).\n\n• 512MB System Memory.\n\n• 3D Hardware Accelerator Card Required - 100% DirectX® 9.0c compatible with 256 MB and Shader model 2.0. All nVidia® GeForce™ 7 series or higher.\n\n• Sound Blaster® X-Fi series or higher.\n\nOptimal:\n\n• Pentium® D Processor with Dual Core Technology (or Athlon 64 X2 series).\n\n• 1GB System Memory.\n\n• All nVidia® GeForce™ 7800 series or higher.\n\n• Sound Blaster® X-Fi series or higher.",
                 "recommended": ""
             },
-            "createdAt": "2026-11-25T21:17:25.628+02:00"
+            "createdAt": "2026-11-25T21:20:42.550+02:00"
         },
         {
             "id": 319,
@@ -9395,7 +9395,7 @@
                 "minimum": "•  OS *:  Microsoft Windows Vista (Windows XP is unsupported)\n\n•  Processor:  Dual-core CPU with SSE3 (Athlon 64 X2 4200 / Pentium D 3GHz)\n\n•  Memory:  2GB System Memory\n\n•  Hard Drive:  10GB of free drive space\n\n•  Graphics:  DX10 compatible graphics card with 256 MB of memory\n(Nvidia GeForce 8800 series/ ATI Radeon HD 2600 Pro)\n\n•  Sound:  100% DirectX 10 compatible sound card\n\n•  DirectX®:  Microsoft DirectX 10",
                 "recommended": "•  OS *:  Microsoft Windows Vista SP1 or Windows 7\n\n•  Processor:  Intel Core® 2 Duo 2.6 GHz or AMD Phenom X3 2.4GHz or equivalen\n\n•  Memory:  3GB system Memory\n\n•  Hard Drive:\n\n•  Graphics:  DX10 compatible graphics card with 512 MB of memory\n(Nvidia GeForce GTS 250 series/ ATI Radeon HD 5750 series)\n\n•  Sound:  100% DirectX 10 compatible Dolby Digital 5.1 sound card\n\n•  DirectX®:  Microsoft DirectX 10.1"
             },
-            "createdAt": "2026-11-25T21:16:20.433+02:00"
+            "createdAt": "2026-11-25T21:20:42.550+02:00"
         },
         {
             "id": 320,
@@ -9432,7 +9432,7 @@
                 "minimum": "•  OS *:  Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)\n\n•  Processor:  Intel Core i5-2500k, 3.3GHz / AMD Phenom II X6 1075T 3GHz\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 670 (2GB) / AMD Radeon HD 7870 (2GB)\n\n•  Storage:  54 GB available space",
                 "recommended": "•  OS *:  Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)\n\n•  Processor:  Intel Core i7-3770, 3.4 GHz / AMD FX-8350, 4.0 GHz\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 780 (3GB) / AMD R9 290 (4GB)\n\n•  Storage:  54 GB available space"
             },
-            "createdAt": "2026-11-25T21:16:20.433+02:00"
+            "createdAt": "2026-11-25T21:20:42.550+02:00"
         },
         {
             "id": 321,
