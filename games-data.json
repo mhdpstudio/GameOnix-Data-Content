@@ -9007,6 +9007,41 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10 64-Bit or later\n\n•  Processor:  Intel Core I3-12100F | AMD Ryzen 5 2600X or equivalent\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  GeForce RTX 2080 | AMD RADEON RX 7700XT or equivalent\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space"
             },
             "createdAt": "2026-11-25T15:24:36.707+02:00"
+        },
+        {
+            "id": 309,
+            "slug": "epn",
+            "title": "ECHO POINT NOVA",
+            "publisher": "Greylock Studio",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/epn.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/epn.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "2.1.0.0",
+            "size": "2.45 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/epn.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "epn",
+            "mediaCount": 6,
+            "gameTypes": [
+                "Action",
+                "Shooter"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "1836730",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10\n\n•  Processor:  Quad-Core 64-bit Intel or AMD processor\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA 1050 or equivalent\n\n•  Storage:  4 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system"
+            },
+            "createdAt": "2026-11-25T15:44:23.793+02:00"
         }
     ],
     "homeSections": [
