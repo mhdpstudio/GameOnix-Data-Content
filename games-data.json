@@ -8972,6 +8972,41 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  64 bit Windows 10/11\n\n•  Processor:  Intel Core i7-11700k or AMD Ryzen 7 5800X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 3070 - 8GB or AMD Radeon 6700 XT - 12GB\n\n•  DirectX:  Version 12\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  85 GB available space\n\n•  Additional Notes:  Resolution: 2560x1440 Native FPS: 60 Graphics Settings Preset: High"
             },
             "createdAt": "2026-11-25T14:41:08.623+02:00"
+        },
+        {
+            "id": 308,
+            "slug": "ride6",
+            "title": "Ride 6",
+            "publisher": "Milestone",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/ride6.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/ride6.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.1732969.0.0",
+            "size": "35.2 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/ride6.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "ride6",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Racing",
+                "Simulation"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2815070",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10 64-Bit or later\n\n•  Processor:  Intel Core I5-9600K | AMD Ryzen 5 2600 or equivalent\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  GeForce GTX 1660 Ti | Radeon RX 5500 XT or equivalent\n\n•  DirectX:  Version 11\n\n•  Storage:  60 GB available space",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows 10 64-Bit or later\n\n•  Processor:  Intel Core I3-12100F | AMD Ryzen 5 2600X or equivalent\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  GeForce RTX 2080 | AMD RADEON RX 7700XT or equivalent\n\n•  DirectX:  Version 12\n\n•  Storage:  60 GB available space"
+            },
+            "createdAt": "2026-11-25T15:24:36.707+02:00"
         }
     ],
     "homeSections": [
