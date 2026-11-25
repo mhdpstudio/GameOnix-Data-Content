@@ -9403,7 +9403,7 @@
             "title": "Just Cause 3",
             "publisher": "Square Enix",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/just-cause-3.webp",
-            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/just-cause-3.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/just-cause-3-2d501bcc3df6.webp",
             "gameType": "",
             "gameTypeIcon": "",
             "version": "1.2015.12.01",
@@ -9432,7 +9432,7 @@
                 "minimum": "•  OS *:  Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)\n\n•  Processor:  Intel Core i5-2500k, 3.3GHz / AMD Phenom II X6 1075T 3GHz\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 670 (2GB) / AMD Radeon HD 7870 (2GB)\n\n•  Storage:  54 GB available space",
                 "recommended": "•  OS *:  Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)\n\n•  Processor:  Intel Core i7-3770, 3.4 GHz / AMD FX-8350, 4.0 GHz\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 780 (3GB) / AMD R9 290 (4GB)\n\n•  Storage:  54 GB available space"
             },
-            "createdAt": "2026-11-25T21:20:42.550+02:00"
+            "createdAt": "2026-11-25T21:32:06.851+02:00"
         },
         {
             "id": 321,
@@ -9440,7 +9440,7 @@
             "title": "Just Cause 4",
             "publisher": "Square Enix",
             "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/just-cause-4.webp",
-            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/just-cause-4.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/just-cause-4-c37863496c77.webp",
             "gameType": "",
             "gameTypeIcon": "",
             "version": "1.2018.04.12",
@@ -9469,7 +9469,7 @@
                 "minimum": "•  OS *:  Windows 7 SP1 with Platform Update for Windows 7 (64-bit versions only)\n\n•  Processor:  Intel Core i5-2400 @ 3.1 GHz | AMD FX-6300 @ 3.5 GHz or better\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 760 (2GB VRAM or better) | AMD R9 270 (2GB VRAM or better)\n\n•  DirectX:  Version 11\n\n•  Storage:  59 GB available space",
                 "recommended": "•  OS:  Windows 10 (64-bit versions only)\n\n•  Processor:  Intel Core i7-4770 @ 3.4 GHz | AMD Ryzen 5 1600 @ 3.2 GHz or equivalent\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 1070 (6GB VRAM or better) | AMD Vega 56 (6GB VRAM or better)\n\n•  DirectX:  Version 11\n\n•  Storage:  59 GB available space"
             },
-            "createdAt": "2026-11-25T21:16:20.433+02:00"
+            "createdAt": "2026-11-25T21:32:06.851+02:00"
         }
     ],
     "homeSections": [
