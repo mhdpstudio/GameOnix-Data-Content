@@ -9288,6 +9288,40 @@
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows 8/10/11 (64-Bit)\n\n•  Processor:  Intel Core i5 10400 3.1 GHz or AMD Ryzen 5 2600x 3.1 GHz\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 3060 or equivalent\n\n•  Storage:  8 GB available space\n\n•  Additional Notes:  A high-speed internet connection and a good connection between players are required to play online"
             },
             "createdAt": "2026-11-25T20:34:16.846+02:00"
+        },
+        {
+            "id": 317,
+            "slug": "pc-store-together",
+            "title": "PC Store Together",
+            "publisher": "Sykes Games, Nightmare Studios",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/pc-store-together.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/pc-store-together.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.2026.24.11",
+            "size": "2.23 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/pc-store-together.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "pc-store-together",
+            "mediaCount": 3,
+            "gameTypes": [
+                "Simulation"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "4990940",
+                "minimum": "•  OS:  Windows 10 (64-bit)\n\n•  Processor:  Intel Core i5 @ 2.5 GHz or equivalent\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 1060 or AMD Radeon RX 6600 XT\n\n•  DirectX:  Version 11\n\n•  Storage:  2 GB available space",
+                "recommended": ""
+            },
+            "createdAt": "2026-11-25T20:46:24.852+02:00"
         }
     ],
     "homeSections": [
