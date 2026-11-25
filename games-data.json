@@ -9230,7 +9230,7 @@
             "version": "1.24657362.0.0",
             "size": "34.23 GB",
             "ico": "windows",
-            "gameLink": "",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/mafia-roc.torrent",
             "fileType": "torrent",
             "availability": true,
             "platform": "pc",
@@ -9253,7 +9253,41 @@
                 "minimum": "•  OS:  Windows 10 / 11\n\n•  Processor:  AMD Ryzen 7 2700X / Intel Core i7-9700K\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  AMD Radeon RX 5700 XT / NVIDIA RTX 2070\n\n•  DirectX:  Version 12\n\n•  Storage:  55 GB available space\n\n•  Additional Notes:  Requires a 64-bit processor and operating system.  Requires SSD ;  Graphic Preset: Medium  ;  Resolution: 1080p",
                 "recommended": "•  OS:  Windows 10 / 11\n\n•  Processor:  AMD Ryzen 7 5800X / Intel Core i7-12700K\n\n•  Memory:  32 GB RAM\n\n•  Graphics:  AMD Radeon RX 6950 XT / NVIDIA RTX 3080 Ti\n\n•  DirectX:  Version 12\n\n•  Storage:  55 GB available space\n\n•  Additional Notes:  Requires a 64-bit processor and operating system.  Requires SSD ; Graphic Preset: High ; Resolution: 1440p"
             },
-            "createdAt": "2026-11-25T20:25:02.907+02:00"
+            "createdAt": "2026-11-25T20:34:16.846+02:00"
+        },
+        {
+            "id": 316,
+            "slug": "chained-together",
+            "title": "Chained Together",
+            "publisher": "Secret Mode",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/chained-together.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/chained-together.webp",
+            "gameType": "",
+            "gameTypeIcon": "",
+            "version": "1.11.1.0",
+            "size": "5.23 GB",
+            "ico": "windows",
+            "gameLink": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/downloads/chained-together.torrent",
+            "fileType": "torrent",
+            "availability": true,
+            "platform": "pc",
+            "mediaPrefix": "chained-together",
+            "mediaCount": 7,
+            "gameTypes": [
+                "Arcade"
+            ],
+            "addons": [],
+            "releaseType": "new",
+            "featuredOnHome": false,
+            "homeFeatureOrder": -1,
+            "requirements": {
+                "mode": "auto",
+                "source": "Steam",
+                "steamAppId": "2567870",
+                "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows 8/10/11 (64-Bit)\n\n•  Processor:  Intel Core i5-6600@ 3.1 GHz or AMD R5 1600X @ 3.5 GHz or equivalent\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 1650 or equivalent\n\n•  Storage:  8 GB available space\n\n•  Additional Notes:  A high-speed internet connection and a good connection between players are required to play online",
+                "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows 8/10/11 (64-Bit)\n\n•  Processor:  Intel Core i5 10400 3.1 GHz or AMD Ryzen 5 2600x 3.1 GHz\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  NVIDIA GeForce RTX 3060 or equivalent\n\n•  Storage:  8 GB available space\n\n•  Additional Notes:  A high-speed internet connection and a good connection between players are required to play online"
+            },
+            "createdAt": "2026-11-25T20:34:16.846+02:00"
         }
     ],
     "homeSections": [
