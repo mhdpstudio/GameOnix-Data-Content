@@ -9306,7 +9306,7 @@
             "availability": true,
             "platform": "pc",
             "mediaPrefix": "pc-store-together",
-            "mediaCount": 3,
+            "mediaCount": 12,
             "gameTypes": [
                 "Simulation"
             ],
@@ -9321,7 +9321,7 @@
                 "minimum": "•  OS:  Windows 10 (64-bit)\n\n•  Processor:  Intel Core i5 @ 2.5 GHz or equivalent\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  NVIDIA GeForce GTX 1060 or AMD Radeon RX 6600 XT\n\n•  DirectX:  Version 11\n\n•  Storage:  2 GB available space",
                 "recommended": ""
             },
-            "createdAt": "2026-11-25T20:46:24.852+02:00"
+            "createdAt": "2026-11-25T20:54:09.970+02:00"
         }
     ],
     "homeSections": [
