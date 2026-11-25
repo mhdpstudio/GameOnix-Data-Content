@@ -9223,8 +9223,8 @@
             "slug": "mafia-roc",
             "title": "Mafia: The Old Country",
             "publisher": "2K Games",
-            "game_poster": "",
-            "poster": "",
+            "game_poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/logos/mafia-roc.webp",
+            "poster": "https://raw.githubusercontent.com/mhdpstudio/GameOnix-Data-Content/main/images/games/posters/mafia-roc.webp",
             "gameType": "",
             "gameTypeIcon": "",
             "version": "1.24657362.0.0",
@@ -9232,10 +9232,10 @@
             "ico": "windows",
             "gameLink": "",
             "fileType": "torrent",
-            "availability": false,
+            "availability": true,
             "platform": "pc",
             "mediaPrefix": "mafia-roc",
-            "mediaCount": 10,
+            "mediaCount": 9,
             "gameTypes": [
                 "Action",
                 "Open World",
@@ -9253,7 +9253,7 @@
                 "minimum": "•  OS:  Windows 10 / 11\n\n•  Processor:  AMD Ryzen 7 2700X / Intel Core i7-9700K\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  AMD Radeon RX 5700 XT / NVIDIA RTX 2070\n\n•  DirectX:  Version 12\n\n•  Storage:  55 GB available space\n\n•  Additional Notes:  Requires a 64-bit processor and operating system.  Requires SSD ;  Graphic Preset: Medium  ;  Resolution: 1080p",
                 "recommended": "•  OS:  Windows 10 / 11\n\n•  Processor:  AMD Ryzen 7 5800X / Intel Core i7-12700K\n\n•  Memory:  32 GB RAM\n\n•  Graphics:  AMD Radeon RX 6950 XT / NVIDIA RTX 3080 Ti\n\n•  DirectX:  Version 12\n\n•  Storage:  55 GB available space\n\n•  Additional Notes:  Requires a 64-bit processor and operating system.  Requires SSD ; Graphic Preset: High ; Resolution: 1440p"
             },
-            "createdAt": "2026-11-25T20:16:27.856+02:00"
+            "createdAt": "2026-11-25T20:25:02.907+02:00"
         }
     ],
     "homeSections": [
