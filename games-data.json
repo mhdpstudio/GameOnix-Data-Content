@@ -8778,7 +8778,7 @@
                 "Strategy"
             ],
             "addons": [],
-            "releaseType": "new",
+            "releaseType": "update",
             "featuredOnHome": false,
             "homeFeatureOrder": -1,
             "requirements": {
@@ -8788,7 +8788,7 @@
                 "minimum": "• Requires a 64-bit processor and operating system\n\n•  OS *:  Windows® 7 64 Bit  |  Windows® 8.1 64 Bit  |  Windows® 10 Home 64 Bit\n\n•  Processor:  Intel® Core™ I7 930  |  AMD® FX 6350\n\n•  Memory:  8 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ GTS 450 (1 GB) |  AMD® R7 250 (2 GB)  |  Intel Iris Xe G7 (Tiger Lake)\n\n•  DirectX:  Version 9.0c\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  4 GB available space",
                 "recommended": "• Requires a 64-bit processor and operating system\n\n•  OS:  Windows® 10 Home 64 bit\n\n•  Processor:  Intel® Core™ I7 2700K  |   AMD® Ryzen 7 2700X\n\n•  Memory:  16 GB RAM\n\n•  Graphics:  Nvidia® GeForce™ GTX 580 (1.5 GB)  |   AMD® Radeon™ RX 560 (4 GB)\n\n•  DirectX:  Version 9.0c\n\n•  Network:  Broadband Internet connection\n\n•  Storage:  4 GB available space"
             },
-            "createdAt": "2026-11-26T17:59:58.501+02:00"
+            "createdAt": "2026-11-26T18:06:54.259+02:00"
         },
         {
             "id": 303,
